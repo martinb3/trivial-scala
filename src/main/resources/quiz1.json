@@ -1,0 +1,144 @@
+{
+  "title": "General knowledge quiz, no. 1",
+  "ref": "http://www.funtrivia.com/submitquiz.cfm?quiz=37732",
+  "order": "seq",
+  "questions" : [
+    {
+      "type": "simple",
+      "text": "Which chess piece is of the lowest theoretical value?",
+      "answer": [ "Pawn" ]
+    },
+    {
+      "type": "simple",
+      "text": "Which musical instrument was invented by Belgian Adolphe Sax?",
+      "answer": [ "Saxophone" ]
+    },
+    {
+      "type": "simple",
+      "text": "What is the longest river in the world?",
+      "answer": [ "Nile" ]
+    },
+    {
+      "type": "simple",
+      "text": "What is the capital of Canada?",
+      "answer": [ "Ottawa" ]
+    },
+    {
+      "type": "simple",
+      "text": "What was the name of the town which was the birthplace of Jesus Christ?",
+      "answer": [ "Bethlehem" ]
+    },
+    {
+      "type": "simple",
+      "text": "Who was the first man on the moon?",
+      "answer": [ "Neil Armstrong" ]
+    },
+    {
+      "type": "simple",
+      "text": "Who was the Greek goddess associated with the moon?",
+      "answer": [ "Artemis" ],
+      "explanation": "Artemis was the goddess of the hunt and the moon and the twin sister of Apollo who was the god of light, poetry and music."
+    },
+    {
+      "type": "simple",
+      "text": "Name the traditional and popular wrestling sport of Japan.",
+      "answer": [ "Sumo" ],
+      "explanation": "Ikebana is the art of flower arranging, kendo (\"the way of the sword\") is the art of combat with pliable bamboo staves or sometimes real swords and origami (paper folding) could be descibed as wrestling with paper but is not the correct answer."
+    },
+    {
+      "type": "simple",
+      "text": "What is the nickname of jazz trumpeter Louis Armstrong?",
+      "answer": [ "Satchmo" ],
+      "explanation": "Short for 'satchel mouth'."
+    },
+    {
+      "type": "simple",
+      "text": "Name the son of Kanga in stories by Alan Alexander Milne.",
+      "answer": [ "Roo" ]
+    },
+    {
+      "type": "simple",
+      "text": "What number is represented by the letters XIX in Roman numerals?",
+      "answer": ["19", "Nineteen"],
+      "explanation": "X = 10, IX = 9, 10 + 9 = 19"
+    },
+    {
+      "type": "simple",
+      "text": "Cirrus or cumulus are examples of ______?",
+      "answer": [ "Clouds" ]
+    },
+    {
+      "type": "simple",
+      "text": "What was the unit of currency in Poland at the time of the second World War?",
+      "answer": [ "Zloty" ],
+      "explanation": "Lek was the standard monetary unit of Albania, schilling for Austria and the rouble for the Soviet Union."
+    },
+    {
+      "type": "simple",
+      "text": "Name the third known major planet from the sun in our solar system.",
+      "answer": [ "Earth" ]
+    },
+    {
+      "type": "simple",
+      "text": "What is the biggest living fish in the ocean?",
+      "answer": [ "Whale Shark" ],
+      "explanation": "Hope you haven't been watching too many 'Jaws' movies and guessed the great white shark."
+    },
+    {
+      "type": "simple",
+      "text": "Name the capital of Australia.",
+      "answer": [ "Canberra" ]
+    },
+    {
+      "type": "simple",
+      "text": "Name the title of the 1818 novel by Mary Wollstonecraft Shelley.",
+      "answer": [ "Frankenstein" ]
+    },
+    {
+      "type": "simple",
+      "text": "What liquid measure is equal to 1.76 imperial pints?",
+      "answer": ["Litre", "Liter"],
+      "explanation": "A quart = 2 pints or a quarter of a gallon, a gallon = 8 pints and the bushel = 64 pints or 8 gallons. American measurements differ, because an American liquid pint is smaller than an Imperial (British) pint (16 fluid ounces to 20 fl.oz.)."
+    },
+    {
+      "type": "simple",
+      "text": "Name the character in Shakespeare's 'Twelfth Night' who is the uncle of Olivia. Sir Toby ______?",
+      "answer": [ "Belch" ],
+      "explanation": "Pardon me!"
+    },
+    {
+      "type": "simple",
+      "text": "Name the marine creature of the genus hippocampus?",
+      "answer": ["Sea horse", "Seahorse"],
+      "explanation": "Hippo is greek for horse as in hippodrome, an open-air horse or chariot race and hippopotamus (river horse)."
+    },
+    {
+      "type": "simple",
+      "text": "Name the dog in the Punch and Judy show.",
+      "answer": [ "Toby" ],
+      "explanation": "Ask Jeeves for 'Index of famous dogs, cats and critters', a wonderful site."
+    },
+    {
+      "type": "simple",
+      "text": "Dracula suffers from staurophobia, the fear of ______?",
+      "answer": [ "Crucifixes" ],
+      "explanation": "Nobody likes phobia questions and this one is a pain in the neck! For a comprehensive list of phobias ask Jeeves for the 'Phobia List' (Where can I learn about various kinds of phobias) another gem of a site."
+    },
+    {
+      "type": "simple",
+      "text": "In which country is Transylvania?",
+      "answer": [ "Romania" ]
+    },
+    {
+      "type": "simple",
+      "text": "Which non-metallic element has the chemical symbol S?",
+      "answer": ["Sulphur", "Sulfur"],
+      "explanation": "Elementary! Sodium is Na, Silicon is Si and Selenium is Se. NB: this element is spelt 'sulfur' in the US."
+    },
+    {
+      "type": "simple",
+      "text": "In which African country is Timbuktu?",
+      "answer": [ "Mali" ]
+    }
+  ]
+}

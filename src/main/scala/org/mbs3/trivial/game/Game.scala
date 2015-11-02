@@ -1,19 +1,17 @@
 package org.mbs3.trivial.game
 
-import scala.collection.mutable.HashSet
-import scala.collection.mutable.ArrayBuffer
-import scala.collection.mutable.HashMap
+import scala.collection.mutable._
 
-class Game(val title: String) {
-  val questionList = new ArrayBuffer[Question]
-  val scores = new HashMap[String,Float]
+class Game(val title: String, val questionList: List[Question], val scores: Map[String,Float]) {
   
-  var index = 0
+  // val questionList = new ArrayBuffer[Question]
+  // val scores = new HashMap[String,Float]
+  
+  var index = -1
   
   def advance : Question = {
-    val currentIndex = index
     index += 1
-    questionList(currentIndex)
+    questionList(index)
   }
   
   def currentQuestion: Option[Question] = {
@@ -28,13 +26,5 @@ class Game(val title: String) {
 }
 
 object Game {
-  def stub : Game = {
-    val g = new Game("Stub game")
-    
-    g.questionList.append(new Question)
-    g.questionList.append(new Question)
-    g.questionList.append(new Question)
-    
-    g
-  }
+  def find : Game = GameStorage.fromFile("/src/main/resources/quiz1.json")
 }

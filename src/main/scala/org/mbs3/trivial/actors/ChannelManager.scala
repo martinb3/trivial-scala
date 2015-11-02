@@ -10,7 +10,7 @@ import java.util.concurrent.ConcurrentHashMap
 import java.util.concurrent.ConcurrentSkipListSet
 import akka.actor.ActorLogging
 
-class ChannelManager(client: SlackRtmClient) extends Actor with ActorLogging {
+class ChannelManager(client: SlackRtmClient, debug: Boolean) extends Actor with ActorLogging {
   import context._
 
   val ignoredChannelIds = new ConcurrentSkipListSet[String] 
@@ -30,7 +30,7 @@ class ChannelManager(client: SlackRtmClient) extends Actor with ActorLogging {
          log.info("Hello! creating actor for {} ({})", channel.name, channel.id)
           channelMap.put(
               channel.id, 
-              system.actorOf(Props(classOf[ChannelActor], client, channel.id), channel.id)
+              system.actorOf(Props(classOf[ChannelActor], client, channel.id, debug), channel.id)
           )         
         }
     }
@@ -50,7 +50,7 @@ class ChannelManager(client: SlackRtmClient) extends Actor with ActorLogging {
     case m: ChannelJoined if !ignoredChannelIds.contains(m.channel.id) => {
       log.info("Joined channel {}", m.channel)
       val channel = m.channel
-      val ref = system.actorOf(Props(classOf[ChannelActor], client, channel.id), channel.id)
+      val ref = system.actorOf(Props(classOf[ChannelActor], client, channel.id, debug), channel.id)
       channelMap.put(channel.id, ref)
     }
     
@@ -58,7 +58,7 @@ class ChannelManager(client: SlackRtmClient) extends Actor with ActorLogging {
     case m: Message if channelMap.containsKey(m.channel) && m.user != client.state.self.id => {
       channelMap.get(m.channel) ! m
     }
-    case m: SlackEvent => log.debug("SlackEvent! " + m)
+    case m: SlackEvent => if(debug) { log.info(m.toString()) } else { log.debug("SlackEvent! " + m) }
     case _ => log.info("Other! Message received")
   }
  

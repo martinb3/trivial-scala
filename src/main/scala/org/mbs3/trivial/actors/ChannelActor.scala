@@ -6,13 +6,13 @@ import slack.rtm.SlackRtmClient
 import slack.models._
 import org.mbs3.trivial.game._
 
-class ChannelActor(client: SlackRtmClient, channelId: String) extends Actor with ActorLogging {
+class ChannelActor(client: SlackRtmClient, channelId: String, debug: Boolean) extends Actor with ActorLogging {
   import context._
 
   override def preStart() = system.scheduler.scheduleOnce(500 millis, self, "tick")
   override def postRestart(reason: Throwable) = {}
   
-  val gameManager = new GameManager(client, channelId) 
+  val gameManager = new GameManager(client, channelId, debug) 
     
   def receive = {
     case "terminate" => context.stop(self)

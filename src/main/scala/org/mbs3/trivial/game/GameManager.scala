@@ -4,7 +4,7 @@ import java.util.Properties
 import slack.rtm.SlackRtmClient
 import slack.models.Message
 
-class GameManager(client: SlackRtmClient, channelId: String) {
+class GameManager(client: SlackRtmClient, channelId: String, debug: Boolean) {
   object GameState extends Enumeration {   
     type GameState = Value
     val 
@@ -39,29 +39,40 @@ class GameManager(client: SlackRtmClient, channelId: String) {
   
   // this can receive two things, commands or guesses
   def message(message: Message) {
-    if(message.text.startsWith(client.state.self.name)) {
+    if(message.text.startsWith("<@"+client.state.self.id+">: ")) {
       handleCommand(message)
     }
     else if(currentState == GameState.AnswerWait) {
       handleGuess(message)
     }
+    else if(debug) {
+      val user = client.state.getUserById(message.user).get
+      val to_user = message.channel
+      println("Message received (unmatched) for GameManager by user "+user.name+" on " + channelId + ": [" + message.text+"]")
+    }
   }
   
   // someone has guessed while we're in AnswerWait
   def handleGuess(message: Message) {
-    val q = game.currentQuestion
-    if(q.isDefined && message.text.toLowerCase().contains(q.get.answer.toLowerCase())) {
-      val user = client.state.getUserById(message.user).get
-      client.sendMessage(channelId, msg("CORRECT_ANSWER", user.name))
-      val scores = game.scores
-      var points = 0f
-      
-      if(scores.contains(user.name))
-        points += scores.get(user.name).get
-        
-      scores.put(user.name, points+q.get.points)
-      changeState(GameState.PoseQuestion)
-    }
+    if(game.currentQuestion.isEmpty)
+      return
+    
+    val q = game.currentQuestion.get
+    if(!q.isAnsweredBy(message.text))
+      return
+            
+    val user = client.state.getUserById(message.user).get
+    client.sendMessage(channelId, msg("CORRECT_ANSWER", user.name))
+    if(q.explanation != null)
+      client.sendMessage(channelId, msg("EXPLANATION", q.explanation))
+    val scores = game.scores
+    var points = 0f
+    
+    if(scores.contains(user.name))
+      points += scores.get(user.name).get
+    
+    scores.put(user.name, points+q.points)
+    changeState(GameState.PoseQuestion)
   }
   
   // someone has guessed while we're in AnswerWait
@@ -74,12 +85,12 @@ class GameManager(client: SlackRtmClient, channelId: String) {
   }
   
   def handleNewGame(): GameState = {
-    if(secondsSinceLastStateChange > (2*5)) {
-      game = Game.stub
+    if(secondsSinceLastStateChange > timing("cutoff")) {
+      game = Game.find
       client.sendMessage(channelId, msg("NEW_GAME", game.title))
       return PoseQuestion
     }
-    else if(secondsSinceLastStateChange % 5 == 0) {
+    else if(secondsSinceLastStateChange % timing("modamount") == 0) {
       client.sendMessage(channelId, msg("NEW_GAME2"))
     }
     return New
@@ -89,7 +100,8 @@ class GameManager(client: SlackRtmClient, channelId: String) {
     if(game.questionsAvailable) {
       val q = game.advance
       val qText = q.text; val qPoints = q.points
-      client.sendMessage(channelId, msg("QUESTION_POSE", q.text, q.points)) 
+      client.sendMessage(channelId, msg("QUESTION_POSE", q.points)) 
+      client.sendMessage(channelId, msg("QUESTION", q.text))
       return AnswerWait
     }
     else {
@@ -98,7 +110,7 @@ class GameManager(client: SlackRtmClient, channelId: String) {
   }
   
   def handleAnswerWait() : GameState = {
-    if(secondsSinceLastStateChange > 10) {
+    if(secondsSinceLastStateChange > timing("answerwait")) {
       if(currentState == AnswerWait)
         return NoAnswerTimeout
       else
@@ -124,6 +136,22 @@ class GameManager(client: SlackRtmClient, channelId: String) {
   def handleGameOver: GameState = {
     client.sendMessage(channelId, msg("GAME_ENDED"))
     return GameState.Initial
+  }
+  
+  def timing : Map[String, Integer] = {
+    if(debug) {
+      Map(
+        "cutoff" -> 10,
+        "modamount" -> 5,
+        "answerwait" -> 10
+      )
+    } else {
+        Map(
+        "cutoff" -> 60,
+        "modamount" -> 15,
+        "answerwait" -> 60
+       )
+    }
   }
 
   // everything below this point is synchronized so we don't accidentally have a guess
