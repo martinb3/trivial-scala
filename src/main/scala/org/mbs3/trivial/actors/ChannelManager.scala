@@ -9,6 +9,7 @@ import akka.actor.ActorRef
 import java.util.concurrent.ConcurrentHashMap
 import java.util.concurrent.ConcurrentSkipListSet
 import akka.actor.ActorLogging
+import slack.api.BlockingSlackApiClient
 
 class ChannelManager(client: SlackRtmClient, debug: Boolean) extends Actor with ActorLogging {
   import context._
@@ -31,7 +32,7 @@ class ChannelManager(client: SlackRtmClient, debug: Boolean) extends Actor with 
           channelMap.put(
               channel.id, 
               system.actorOf(Props(classOf[ChannelActor], client, channel.id, debug), channel.id)
-          )         
+          )
         }
     }
     // you left a channel

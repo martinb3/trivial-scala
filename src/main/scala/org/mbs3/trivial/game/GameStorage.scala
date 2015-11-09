@@ -27,13 +27,14 @@ object GameStorage {
        val fPoints = (q \ "points")
        val points = fPoints.extractOrElse[Float](1.0f)
        
+       val qtype = (q \ "type").extractOrElse[String]("simple")
        val text = (q \ "text").extract[String]
        val explanation = (q \ "explanation").extractOrElse[String](null)
        
        val fAnswer = (q \ "answer")
        val answer = fAnswer.extract[List[String]]
        
-       new Question(points, text, answer, explanation)
+       new Question(qtype, points, text, answer, explanation)
     }
     
     val g = new Game(title, questionList, new HashMap[String,Float])

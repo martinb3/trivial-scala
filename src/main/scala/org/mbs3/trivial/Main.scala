@@ -7,12 +7,15 @@ import com.typesafe.config.Config
 import com.typesafe.config.ConfigFactory
 import org.mbs3.trivial.game.GameStorage
 import org.mbs3.trivial.game.Game
+import slack.api.SlackApiClient
+import slack.api.BlockingSlackApiClient
+import java.util.Properties
 
 object Main {
 
   def main(args: Array[String]): Unit = {
-    // Game.find.questionList.foreach { x => x.isAnsweredBy("pawn") }
-    // return;
+    // do this to be sure the game is loadable
+    Game.find.questionList
     
     val conf = ConfigFactory.load()
     val token = conf.getString("trivial.slack_token")

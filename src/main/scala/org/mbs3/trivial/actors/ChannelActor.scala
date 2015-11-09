@@ -5,6 +5,7 @@ import scala.concurrent.duration._
 import slack.rtm.SlackRtmClient
 import slack.models._
 import org.mbs3.trivial.game._
+import slack.api.BlockingSlackApiClient
 
 class ChannelActor(client: SlackRtmClient, channelId: String, debug: Boolean) extends Actor with ActorLogging {
   import context._

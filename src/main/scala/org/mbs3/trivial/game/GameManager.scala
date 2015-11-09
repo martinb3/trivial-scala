@@ -3,6 +3,7 @@ package org.mbs3.trivial.game
 import java.util.Properties
 import slack.rtm.SlackRtmClient
 import slack.models.Message
+import slack.api.BlockingSlackApiClient
 
 class GameManager(client: SlackRtmClient, channelId: String, debug: Boolean) {
   object GameState extends Enumeration {   
@@ -10,6 +11,7 @@ class GameManager(client: SlackRtmClient, channelId: String, debug: Boolean) {
     val 
       Initial, // we've never played a game
       New, // we want to start a new game
+      QuestionWait, // wait for the question 
       PoseQuestion, // ask/announce a question
       AnswerWait, // waiting for an answer
       NoAnswerTimeout, // time ran out, no answer
@@ -29,6 +31,7 @@ class GameManager(client: SlackRtmClient, channelId: String, debug: Boolean) {
       case GameState.PoseQuestion => handlePoseQuestion
       case GameState.AnswerWait => handleAnswerWait 
       case GameState.NoAnswerTimeout => handleNoAnswerTimeout
+      case GameState.QuestionWait => handleQuestionWait
       case GameState.FinalScore => handleFinalScore    
       case GameState.Over => handleGameOver
     }
@@ -62,9 +65,11 @@ class GameManager(client: SlackRtmClient, channelId: String, debug: Boolean) {
       return
             
     val user = client.state.getUserById(message.user).get
-    client.sendMessage(channelId, msg("CORRECT_ANSWER", user.name))
     if(q.explanation != null)
-      client.sendMessage(channelId, msg("EXPLANATION", q.explanation))
+      client.sendMessage(channelId, msg("CORRECT_ANSWER_EXPLANATION", user.id, user.name, q.explanation))
+    else
+      client.sendMessage(channelId, msg("CORRECT_ANSWER", user.id, user.name))
+
     val scores = game.scores
     var points = 0f
     
@@ -72,7 +77,7 @@ class GameManager(client: SlackRtmClient, channelId: String, debug: Boolean) {
       points += scores.get(user.name).get
     
     scores.put(user.name, points+q.points)
-    changeState(GameState.PoseQuestion)
+    changeState(QuestionWait)
   }
   
   // someone has guessed while we're in AnswerWait
@@ -85,6 +90,11 @@ class GameManager(client: SlackRtmClient, channelId: String, debug: Boolean) {
   }
   
   def handleNewGame(): GameState = {
+    if(debug) {
+      game = Game.find
+      return PoseQuestion
+    }
+    
     if(secondsSinceLastStateChange > timing("cutoff")) {
       game = Game.find
       client.sendMessage(channelId, msg("NEW_GAME", game.title))
@@ -100,8 +110,23 @@ class GameManager(client: SlackRtmClient, channelId: String, debug: Boolean) {
     if(game.questionsAvailable) {
       val q = game.advance
       val qText = q.text; val qPoints = q.points
-      client.sendMessage(channelId, msg("QUESTION_POSE", q.points)) 
-      client.sendMessage(channelId, msg("QUESTION", q.text))
+      println(q.text + "/" + q.points)
+      
+      if(q.qtype == "simple") {
+        client.sendMessage(channelId, 
+            msg("QUESTION_POSE", q.points).trim() + 
+            "\n" + 
+            msg("QUESTION", q.text).trim()
+            )
+      }
+      else if(q.qtype == "image") {
+        client.sendMessage(channelId, msg("QUESTION_POSE", q.points).trim())
+        client.sendMessage(channelId, msg("QUESTION", q.text).trim()) 
+      }
+      else {
+        client.sendMessage(channelId, "Someone entered an unknown question type " + q.qtype)
+      }
+          
       return AnswerWait
     }
     else {
@@ -120,9 +145,17 @@ class GameManager(client: SlackRtmClient, channelId: String, debug: Boolean) {
     return AnswerWait
   }
   
+  def handleQuestionWait() : GameState = {
+    if(secondsSinceLastStateChange < timing("questionwait")) {
+      return currentState
+    }
+    
+    return PoseQuestion
+  }
+  
   def handleNoAnswerTimeout: GameState = {
     client.sendMessage(channelId, msg("TIMEOUT"))
-    return PoseQuestion    
+    return QuestionWait
   }
   
   def handleFinalScore: GameState = {
@@ -143,13 +176,15 @@ class GameManager(client: SlackRtmClient, channelId: String, debug: Boolean) {
       Map(
         "cutoff" -> 10,
         "modamount" -> 5,
-        "answerwait" -> 10
+        "answerwait" -> 10,
+        "questionwait" -> 2
       )
     } else {
         Map(
-        "cutoff" -> 60,
-        "modamount" -> 15,
-        "answerwait" -> 60
+        "cutoff" -> 180,
+        "modamount" -> 60,
+        "answerwait" -> 30,
+        "questionwait" -> 15
        )
     }
   }
@@ -180,6 +215,7 @@ class GameManager(client: SlackRtmClient, channelId: String, debug: Boolean) {
   def msg(key: String, args: Any*): String = {
     if(props.containsKey(key))
       return props.getProperty(key).format(args:_*)
+    
     return "THIS IS AN ERROR. PLEASE REPORT ERROR: %s".format(key.toUpperCase())
   }
   

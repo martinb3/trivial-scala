@@ -1,0 +1,147 @@
+{
+  "title": "General knowledge quiz, no. 2",
+  "ref": "https://www.salisbury.edu/careerservices/Students/Presentations/PowerPoint/Famous%20People%20Quiz.ppt",
+  "order": "seq",
+  "questions" : [
+    {
+      "type": "image",
+      "text": "http://8b7621bceac5dd360860-252673abe58ab44b12c31463fdecf09f.r83.cf4.rackcdn.com/b8e760bf91bcbbd284185ed981ce1ecd.jpg",
+      "answer": [ "oprah", "oprah winfrey" ]
+      "explanation": "Oprah Gail Winfrey (born January 29, 1954) is an American media proprietor, talk show host, actress, producer, and philanthropist. Winfrey is best known for her talk show The Oprah Winfrey Show, which was the highest-rated program of its kind in history and was nationally syndicated from 1986 to 2011.",
+      "points": 0.99
+    },
+    {
+      "type": "image",
+      "text": "http://8b7621bceac5dd360860-252673abe58ab44b12c31463fdecf09f.r83.cf4.rackcdn.com/00111fee3b244211be5ba56e3cf145a6.jpg",
+      "answer": [ "gene simmons", "חיים ויץ‎" ]
+      "explanation": "Chaim Witz (Hebrew: חיים ויץ‎; born August 25, 1949), better known by his stage name Gene Simmons, is an Israeli-American rock bass guitarist, singer-songwriter, record producer, entrepreneur, actor, and television personality. Known by his stage persona The Demon, he is the bass guitarist and co-lead singer of Kiss, the rock band he co-founded in the early 1970s."
+    },
+    {
+      "type": "image",
+      "text": "http://8b7621bceac5dd360860-252673abe58ab44b12c31463fdecf09f.r83.cf4.rackcdn.com/3c05aa35d2ad45fcef4cda46576f4251.jpg",
+      "answer": [ "Steven Allan Spielberg", "Steven Spielberg", "Spielberg" ]
+      "explanation": "Steven Allan Spielberg (born December 18, 1946) is an American director, producer and screenwriter. Spielberg is considered as one of the founding pioneers of the New Hollywood era, as well as being viewed as one of the most popular and influential directors and producers in film history."
+    },
+    {
+      "type": "image",
+      "text": "http://8b7621bceac5dd360860-252673abe58ab44b12c31463fdecf09f.r83.cf4.rackcdn.com/cb9771248a497e2a3092d6d24cb74d92.jpg",
+      "answer": [ "Bruce Lee", "Lee Jun-fan" ]
+      "explanation": "Bruce Lee (Chinese: 李小龍; born Lee Jun-fan, Chinese: 李振藩; November 27, 1940 – July 20, 1973) was a Hong Kong American martial artist, Hong Kong action film actor, martial arts instructor, philosopher, filmmaker, and the founder of Jeet Kune Do. He is widely considered by commentators, critics, media and other martial artists to be one of the most influential martial artists of all time, and a pop culture icon of the 20th century."
+    },
+    {
+      "type": "image",
+      "text": "http://8b7621bceac5dd360860-252673abe58ab44b12c31463fdecf09f.r83.cf4.rackcdn.com/972a4395d6a06d49c1166ff6c110f5ac.jpg",
+      "answer": [ "Jodie Foster", "Alicia Foster", "Alicia Christian Foster", "Alicia Jodie Christian Foster", "Jodie Christian Foster" ]
+      "explanation": "Alicia 'Jodie' Christian Foster (born November 19, 1962), is an American actor, director and producer who has worked in films and on television. She has often been cited as one of the best actresses of her generation."
+    },
+    {
+      "type": "image",
+      "text": "http://8b7621bceac5dd360860-252673abe58ab44b12c31463fdecf09f.r83.cf4.rackcdn.com/9566056838fc4e3abcf7a4e780ccfeef.jpg",
+      "answer": [ "Mick Jagger", "Sir Mick Jagger", "Michael Philip Jagger" ]
+      "explanation": "Sir Michael Philip 'Mick' Jagger (born 26 July 1943) is an English singer, songwriter and actor, best known as lead vocalist and a founding member of The Rolling Stones."
+    },
+    {
+      "type": "image",
+      "text": "http://8b7621bceac5dd360860-252673abe58ab44b12c31463fdecf09f.r83.cf4.rackcdn.com/3bb2e77c480a1a83e208cafeb3a61aa6.jpg",
+      "answer": [ "Tiger Woods", "Eldrick Tont Woods" ]
+      "explanation": "Eldrick Tont 'Tiger' Woods (born December 30, 1975) is an American professional golfer who is among the most successful golfers of all time. He has been one of the highest-paid athletes in the world for several years."
+    },
+    {
+      "type": "image",
+      "text": "http://8b7621bceac5dd360860-252673abe58ab44b12c31463fdecf09f.r83.cf4.rackcdn.com/37302cb5bc2b1fdfb43cba2c6f8a2648.jpg",
+      "answer": [ "Steve Martin", "Stephen Martin", "Stephen Glenn Martin" ]
+      "explanation": "Stephen Glenn 'Steve' Martin (born August 14, 1945) is an American comedian, actor, writer, producer, and musician. Martin came to public notice as a writer for the Smothers Brothers Comedy Hour, and later became a frequent guest on The Tonight Show."
+    },
+    {
+      "type": "image",
+      "text": "http://8b7621bceac5dd360860-252673abe58ab44b12c31463fdecf09f.r83.cf4.rackcdn.com/34768a3876d228e4362f7b052d9eff52.jpg",
+      "answer": [ "Dave Letterman", "David Letterman", "David Michael Letterman" ]
+      "explanation": "David Michael Letterman (born April 12, 1947) is an American former television and radio host, comedian, writer, producer, and actor. He hosted a late night television talk show for 33 years, beginning with the February 1, 1982, debut of Late Night with David Letterman on NBC, and ending with the May 20, 2015, broadcast of the Late Show with David Letterman on CBS."
+    },
+    {
+      "type": "image",
+      "text": "http://8b7621bceac5dd360860-252673abe58ab44b12c31463fdecf09f.r83.cf4.rackcdn.com/da2a1659f641f5700b5f04147a60f6bc.jpg",
+      "answer": [ "Hugh Hefner", "Hugh Marston Hefner" ]
+      "explanation": "Hugh Marston Hefner (born April 9, 1926) is an American adult magazine publisher, businessman, and a well-known playboy. Hefner is a native of Chicago, Illinois and a former journalist for Esquire. Hefner is also a World War II veteran. He is best known for being the founder and chief creative officer of Playboy Enterprises. A self-made millionaire, he is now worth over $43 million. Hefner is also a political activist and philanthropist active in several causes and public issues."
+    },
+    {
+      "type": "image",
+      "text": "http://8b7621bceac5dd360860-252673abe58ab44b12c31463fdecf09f.r83.cf4.rackcdn.com/cdc4e9080f168303f7b858e3ef546488.jpg",
+      "answer": [ "Paul Newman", "Paul Leonard Newman" ]
+      "explanation": "Paul Leonard Newman (January 26, 1925 – September 26, 2008) was an American actor, film director, entrepreneur, professional racing driver and team owner; he was also an environmentalist, activist, and philanthropist. He won numerous awards, including an Academy Award for his performance in the 1986 film The Color of Money, a BAFTA Award, a Screen Actors Guild Award, a Cannes Film Festival Award, an Emmy Award, and many honorary awards. Despite being colorblind, he won several national championships as a driver in Sports Car Club of America road racing, and his race teams won several championships in open wheel IndyCar racing.",
+      "points": 1.5
+    },
+	{
+      "type": "image",
+      "text": "http://8b7621bceac5dd360860-252673abe58ab44b12c31463fdecf09f.r83.cf4.rackcdn.com/b8429d35b6c12aea698cf7b00f73417d.jpg",
+      "answer": [ "Schwarzenegger", "Arnold Schwarzenegger", "Arnold Alois Schwarzenegger" ]
+      "explanation": "Arnold Alois Schwarzenegger (born July 30, 1947) is an Austrian-American actor, model, producer, director, activist, businessman, investor, writer, philanthropist, former professional bodybuilder, and politician. Schwarzenegger served two terms as the 38th Governor of California from 2003 until 2011."
+    },
+    {
+      "type": "image",
+      "text": "http://8b7621bceac5dd360860-252673abe58ab44b12c31463fdecf09f.r83.cf4.rackcdn.com/b4af609f55f280488a5980f02f91c897.jpg",
+      "answer": [ "Isaiah Thomas" ]
+      "explanation": "Isaiah Thomas (January 30, 1749 – April 4, 1831) was an American newspaper publisher and author. He performed the first public reading of the Declaration of Independence in Worcester, Massachusetts, and reported the first account of the Battles of Lexington and Concord. He was the founder of the American Antiquarian Society.",
+      "points": 3.0
+    },
+    {
+      "type": "image",
+      "text": "http://8b7621bceac5dd360860-252673abe58ab44b12c31463fdecf09f.r83.cf4.rackcdn.com/4e472c3c63ed22ea42fdcd37cdc6529d.jpg",
+      "answer": [ "John Elway", "John Albert Elway, Jr", "John Albert Elway"]
+      "explanation": "John Albert Elway, Jr. (born June 28, 1960) is a former American football quarterback and current General Manager and Executive Vice President of Football Operations for the Denver Broncos of the National Football League (NFL). Elway played college football at Stanford and his entire 16-year professional career with the Denver Broncos. At the time of his retirement in early 1999, Elway recorded the most victories by a starting quarterback and statistically was the second most prolific passer in NFL history.",
+      "points": 1.5
+    },
+    {
+      "type": "image",
+      "text": "http://8b7621bceac5dd360860-252673abe58ab44b12c31463fdecf09f.r83.cf4.rackcdn.com/c2a0f3fdb40a1c8c78c9b0dc1ea37bc5.jpg",
+      "answer": [ "Thurgood Marshall" ]
+      "explanation": "Thurgood Marshall (July 2, 1908 – January 24, 1993) was an Associate Justice of the United States Supreme Court, serving from October 1967 until October 1991. Marshall was the Court's 96th justice and its first African-American justice.",
+      "points": 1.5
+    },
+    {
+      "type": "image",
+      "text": "http://8b7621bceac5dd360860-252673abe58ab44b12c31463fdecf09f.r83.cf4.rackcdn.com/cbea974e649c209a6ffbdd95d39bdf16.jpg",
+      "answer": [ "David Robinson", "David Maurice Robinson" ]
+      "explanation": "David Maurice Robinson (born August 6, 1965) is an American former professional basketball player, who played center for the San Antonio Spurs in the National Basketball Association (NBA) for his entire career. Based on his prior service as an officer in the United States Navy, Robinson earned the nickname 'The Admiral'."
+    },
+    {
+      "type": "image",
+      "text": "http://8b7621bceac5dd360860-252673abe58ab44b12c31463fdecf09f.r83.cf4.rackcdn.com/b15e7aab6bf03c50c7b9e73b8ecbb46c.jpg",
+      "answer": [ "Montel Williams", "Montel Brian Anthony Williams" ]
+      "explanation": "Montel Brian Anthony Williams (born July 3, 1956) is an American television personality, radio talk show host, and actor. He is best known as host of the long-running The Montel Williams Show, and more recently as a spokesman for the Partnership for Prescription Assistance (PPA)."
+    },
+    {
+      "type": "image",
+      "text": "http://8b7621bceac5dd360860-252673abe58ab44b12c31463fdecf09f.r83.cf4.rackcdn.com/80f964a4aad7008748ec2053188bd070.jpg",
+      "answer": [ "Bill Clinton", "William Jefferson Clinton", "William Jefferson Blythe" ]
+      "explanation": "William Jefferson 'Bill' Clinton (August 19, 1946), born William Jefferson Blythe III, is an American politician who served as the 42nd President of the United States from 1993 to 2001. He previously served as Governor of Arkansas from 1979 to 1981 and 1983 to 1992, and as the state's Attorney General from 1977 to 1979. A member of the Democratic Party, ideologically Clinton was a New Democrat, and many of his policies reflected a centrist Third Way philosophy of governance.",
+      "points": 0.75
+    },
+    {
+      "type": "image",
+      "text": "http://8b7621bceac5dd360860-252673abe58ab44b12c31463fdecf09f.r83.cf4.rackcdn.com/550ee6031335ac749fcecfe762d4cd63.jpg",
+      "answer": [ "Brooke Shields", "Brooke Christa Shields" ]
+      "explanation": "Brooke Christa Shields (born May 31, 1965) is an American actress, model and former child star. Shields, initially a child model, gained critical acclaim for her leading role in Louis Malle's controversial film Pretty Baby (1978), in which she played a child prostitute in New Orleans at the turn of the 20th century. The role garnered Shields widespread notoriety, and she continued to model into her late teenage years and starred in several dramas in the 1980s, including The Blue Lagoon (1980), and Franco Zeffirelli's Endless Love (1981)."
+    },
+    {
+      "type": "image",
+      "text": "http://8b7621bceac5dd360860-252673abe58ab44b12c31463fdecf09f.r83.cf4.rackcdn.com/e4c0d8dd9819b30e0500cf5cd5f54d9d.jpg",
+      "answer": [ "Michael Jordan", "Michael Jeffrey Jordan", "MJ" ]
+      "explanation": "Michael Jeffrey Jordan (born February 17, 1963), also known by his initials, MJ, is an American former professional basketball player. He is also a businessman, and principal owner and chairman of the Charlotte Hornets. Jordan played 15 seasons in the National Basketball Association (NBA) for the Chicago Bulls and Washington Wizards. His biography on the NBA website states: 'By acclamation, Michael Jordan is the greatest basketball player of all time.' Jordan was one of the most effectively marketed athletes of his generation and was considered instrumental in popularizing the NBA around the world in the 1980s and 1990s."
+    },
+    {
+      "type": "image",
+      "text": "http://8b7621bceac5dd360860-252673abe58ab44b12c31463fdecf09f.r83.cf4.rackcdn.com/6c695d936d45cbb80e5e5a588696c468.jpg",
+      "answer": [ "Graham Weston" ]
+      "explanation": "Graham Weston is one of the founders of Rackspace and serves as Chairman of the Board. Born and raised in the San Antonio area, Graham from an early age saw entrepreneurial opportunities in everything around him. He launched his first business venture as a seventh grader, marketing organic pork in newspaper ads that read 'Go Hog Wild!' In high school, he built another business that took photos at livestock shows and sold them to contestants. He attended Texas A&M.",
+      "points": 2.5
+    },
+    {
+      "type": "image",
+      "text": "http://8b7621bceac5dd360860-252673abe58ab44b12c31463fdecf09f.r83.cf4.rackcdn.com/6aa6f34aafd8375e6761132e79e4b487.png",
+      "answer": [ "Joffrey Baratheon", "King Joffrey Baratheon" ]
+      "explanation": "Joffrey ruled the Seven Kingdoms, having claimed the Iron Throne after his legal father, King Robert Baratheon, died. However, Joffrey was actually the bastard son of the incestuous relationship between Ser Jaime Lannister and Queen Cersei Lannister. Because of this, his claim to the Iron Throne was challenged by Robert's younger brother, Stannis Baratheon.",
+      "points": 2.5
+    }
+  ]
+}
