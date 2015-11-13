@@ -5,6 +5,10 @@ class Question(val qtype: String, val points: Float, val text: String, val answe
     answers.map { a => a.toLowerCase().trim().equals(guess.toLowerCase().trim()) }.contains(true)
   }
   
+  def possibleAnswers() : String = {
+    answers.mkString("\n")
+  }
+  
   override def toString() = text + " (" + points + ")"
 }
 

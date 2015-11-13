@@ -21,7 +21,7 @@ class GameManager(client: SlackRtmClient, channelId: String, debug: Boolean) {
   }
   
   import GameState._
-  var game : Game = null
+  var game = Game.find
   
   def tick {
     val oldState = currentState
@@ -91,17 +91,15 @@ class GameManager(client: SlackRtmClient, channelId: String, debug: Boolean) {
   
   def handleNewGame(): GameState = {
     if(debug) {
-      game = Game.find
       return PoseQuestion
     }
     
     if(secondsSinceLastStateChange > timing("cutoff")) {
-      game = Game.find
       client.sendMessage(channelId, msg("NEW_GAME", game.title))
       return PoseQuestion
     }
     else if(secondsSinceLastStateChange % timing("modamount") == 0) {
-      client.sendMessage(channelId, msg("NEW_GAME2"))
+      client.sendMessage(channelId, msg("NEW_GAME2", game.title))
     }
     return New
   }
@@ -110,7 +108,10 @@ class GameManager(client: SlackRtmClient, channelId: String, debug: Boolean) {
     if(game.questionsAvailable) {
       val q = game.advance
       val qText = q.text; val qPoints = q.points
-      println(q.text + "/" + q.points)
+      
+      if(debug) {
+        println(q.text + "/" + q.points)
+      }
       
       if(q.qtype == "simple") {
         client.sendMessage(channelId, 
@@ -154,7 +155,9 @@ class GameManager(client: SlackRtmClient, channelId: String, debug: Boolean) {
   }
   
   def handleNoAnswerTimeout: GameState = {
+    
     client.sendMessage(channelId, msg("TIMEOUT"))
+    client.sendMessage(channelId, msg("MISSED_ANSWER", game.currentQuestion.get.possibleAnswers()).trim()) 
     return QuestionWait
   }
   
@@ -177,14 +180,14 @@ class GameManager(client: SlackRtmClient, channelId: String, debug: Boolean) {
         "cutoff" -> 10,
         "modamount" -> 5,
         "answerwait" -> 10,
-        "questionwait" -> 2
+        "questionwait" -> 5
       )
     } else {
         Map(
-        "cutoff" -> 180,
-        "modamount" -> 60,
-        "answerwait" -> 30,
-        "questionwait" -> 15
+        "cutoff" -> 120,
+        "modamount" -> 30,
+        "answerwait" -> 45,
+        "questionwait" -> 45
        )
     }
   }
