@@ -1,0 +1,85 @@
+{
+  "title": "It's that emit again: quiz, no. 3",
+  "ref": "",
+  "order": "seq",
+  "questions" : [
+    {
+      "type": "image",
+      "text": "http://imgur.com/LaPXklK",
+      "answer": [ "Future the to Back"],
+      "explanation": "A young man is accidentally sent 30 years into the past in a time-traveling DeLorean invented by his friend, Dr. Emmett Brown, and must make sure his high-school-age parents unite in order to save his own existence.",
+      "points": 1
+    },
+    {
+      "type": "image",
+      "text": "http://imgur.com/bHJEkUJ",
+      "answer": [ "Bandits Time"],
+      "explanation": "A young boy accidentally joins a band of dwarves as they jump from era to era looking for treasure to steal.",
+      "points": 1
+    },
+
+    {
+      "type": "image",
+      "text": "http://imgur.com/2lHZN9a",
+      "answer": [ "Tale Winter's"],
+      "explanation": "A burglar falls for an heiress as she dies in his arms. When he learns that he has the gift of reincarnation, he sets out to save her.",
+      "points": 2
+    },
+    {
+      "type": "image",
+      "text": "http://imgur.com/Nk7L6hL",
+      "answer": [ "Interstellar"],
+      "explanation": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+      "points": 2
+    },
+    {
+      "type": "image",
+      "text": "http://imgur.com/8dR4osc",
+      "answer": [ "III Part Future the to Back"],    
+      "explanation": "",
+      "points": 4
+    },
+    {
+      "type": "image",
+      "text": "http://imgur.com/P0cfTu6",
+      "answer": [ "Travel Time About Questions Asked Frequently"],     
+      "explanation": "While drinking at their local pub, three social outcasts attempt to navigate a time-travel conundrum.",
+      "points": 5
+    },
+    {
+      "type": "image",
+      "text": "http://imgur.com/OKGoF4m",
+      "answer": [ "Primer"],
+      "explanation": "Four friends/fledgling entrepreneurs, knowing that there's something bigger and more innovative than the different error-checking devices they've built, wrestle over their new invention.",
+      "points": 5
+    },
+    {
+      "type": "image",
+      "text": "http://imgur.com/OtbnPWn",
+      "answer": [ "Azkaban of Prisoner the and Potter Harry"],   
+      "explanation": "It's Harry's third year at Hogwarts; not only does he have a new 'Defense Against the Dark Arts' teacher, but there is also trouble brewing. Convicted murderer Sirius Black has escaped the Wizards' Prison and is coming after Harry.",
+      "points": 6
+    },
+    {
+      "type": "image",
+      "text": "http://imgur.com/rw7rZrC",
+      "answer": [ "Day Judgement 2: Terminator", "Day Judgement 2 Terminator"],
+      "explanation": "A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her young son, John Connor, from a more advanced cyborg, made out of liquid metal.",
+      "points": 6
+    },
+    {
+      "type": "image",
+      "text": "http://imgur.com/kS4R61v",
+      "answer": [ "Monkeys Twelve", "Monkey 12"],
+      "explanation": "In a future world devastated by disease, a convict is sent back in time to gather information about the man-made virus that wiped out most of the human population on the planet.",
+      "points": 10
+    },
+    {
+      "type": "image",
+      "text": "http://imgur.com/x4Ieyja",
+      "answer": [ "II Part Future the to Back"],   
+      "explanation": "After visiting 2015, Marty McFly must repeat his visit to 1955 to prevent disastrous changes to 1985... without interfering with his first trip.",
+      "points": 10
+    }
+  ]
+}
