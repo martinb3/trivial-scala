@@ -8,7 +8,7 @@ Then issue pull request to:
 https://github.com/martinb3/trivial-scala
 
 Sample quiz formatting:
-{
+`{
   "title": "QUIZ-LING!",
   "ref": "http://www.funtrivia.com/",
   "order": "seq",
@@ -32,4 +32,4 @@ Sample quiz formatting:
       "answer": [ "Mali" ]
     }
   ]
-}
+}`
