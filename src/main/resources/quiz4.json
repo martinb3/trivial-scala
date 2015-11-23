@@ -1,0 +1,378 @@
+{
+    "title": "Celebrity Quiz 0.99876",
+    "ref": "http://stars.topix.com/slideshow/15296",
+    "order": "rand",
+    "questions": [
+        {
+            "type": "image",
+            "text": "http://proxy.topixcdn.com/ipicimg/IUV2STCE3FQP610G-fram810x414x810x414",
+            "answer": ["Cory Monteith"],
+            "explanation": "Cory Allan Michael Monteith was a Canadian actor and musician, known for his role as Finn Hudson on the Fox television series Glee.",
+            "points": 2.3
+        },
+        {
+            "type": "image",
+            "text": "http://proxy.topixcdn.com/ipicimg/CJVBVAA149CLCMNF-fram810x414x810x414",
+            "answer": ["Paul Walker"],
+            "explanation": "Paul William Walker IV was an American actor. Walker began his career guest-starring in several television shows such as The Young and the Restless and Touched by an Angel.",
+            "points": 1
+        },
+        {
+            "type": "image",
+            "text": "http://proxy.topixcdn.com/ipicimg/CNJD9B1J8DAP5S5E-fram810x414x810x414",
+            "answer": ["Heath Ledger"],
+            "explanation": "Heath Andrew Ledger was an Australian actor and director. After performing roles in Australian television and film during the 1990s, Ledger left for the United States in 1998 to develop his film career.",
+            "points": 0.95
+        },
+        {
+            "type": "image",
+            "text": "http://proxy.topixcdn.com/ipicimg/FBG4C4LGI0U6LH8F-fram810x414x810x414",
+            "answer": ["Amy Winehouse"],
+            "explanation": "Amy Jade Winehouse was an English singer and songwriter known for her deep vocals and her eclectic mix of musical genres, including soul, rhythm and blues, and jazz.",
+            "points": 2
+        },
+        {
+            "type": "image",
+            "text": "http://proxy.topixcdn.com/ipicimg/SO4S6M07HU9MSRHD-fram810x414x810x414",
+            "answer": ["Brittany Murphy"],
+            "explanation": "Brittany Murphy-Monjack, known professionally as Brittany Murphy, was an American film and stage actress, singer, and voice artist. Murphy, a native of Atlanta, moved to Los Angeles as a teenager, and pursued a career in acting.",
+            "points": 3
+        },
+        {
+            "type": "image",
+            "text": "http://proxy.topixcdn.com/ipicimg/MI6DD3HQV83AVMCD-fram810x414x810x414",
+            "answer": ["Philip Seymour Hoffman"],
+            "explanation": "Philip Seymour Hoffman was an American actor, director, and producer of film and theater. Best known for his distinctive supporting and character roles – typically lowlifes, bullies, and misfits",
+            "points": 2.5
+        },
+        {
+            "type": "image",
+            "text": "http://proxy.topixcdn.com/ipicimg/GG4MAA4AABUIVDCH-fram810x414x810x414",
+            "answer": ["Kurt Cobain"],
+            "explanation": "Kurt Donald Cobain was an American musician who was best known as the lead singer, guitarist, and primary songwriter of the rock band Nirvana.",
+            "points": 1.9
+        },
+        {
+            "type": "image",
+            "text": "http://proxy.topixcdn.com/ipicimg/21DRTSGSB2G003AL-fram810x414x810x414",
+            "answer": ["Freddie Mercury"],
+            "explanation": "Freddie Mercury was a British singer, songwriter and producer, best known as the lead vocalist and songwriter of the rock band Queen. As a performer, he was known for his flamboyant stage persona and powerful vocals over a four-octave range.",
+            "points": 1.1
+        },
+        {
+            "type": "image",
+            "text": "http://proxy.topixcdn.com/ipicimg/H7EBE2VRGPCRQTNO-fram810x414x810x414",
+            "answer": ["Diana", "Princess Diana", "Princess Di", "Princess of Wales"],
+            "explanation": "Diana, Princess of Wales, was the first wife of Charles, Prince of Wales, who is the eldest child and heir apparent of Queen Elizabeth II. Diana was born into a family of British nobility with royal ancestry as The Honourable Diana Frances Spencer.",
+            "points": 0.87
+        },
+        {
+            "type": "image",
+            "text": "http://proxy.topixcdn.com/ipicimg/85CN6V9VT4JHAF11-fram810x414x810x414",
+            "answer": ["River Phoenix"],
+            "explanation": "River Jude Phoenix was an American actor, musician, and activist. He was the older brother of Rain Phoenix, Joaquin Phoenix, Liberty Phoenix and Summer Phoenix.",
+            "points": 3.21
+        },
+        {
+            "type": "image",
+            "text": "http://proxy.topixcdn.com/ipicimg/DBQ21A4N0MDI0O22-fram810x414x810x414",
+            "answer": ["Corey Haim"],
+            "explanation": "Corey Ian Haim was a Canadian actor, known for a 1980s Hollywood career as a teen idol. He starred in a number of films, such as Lucas, Silver Bullet, Murphy's Romance, License to Drive, Dream a Little Dream, and Snowboard Academy.",
+            "points": 3.45
+        },
+        {
+            "type": "image",
+            "text": "http://proxy.topixcdn.com/ipicimg/G1VRAPLBF1N1LR1V-fram810x414x810x414",
+            "answer": ["Whitney Houston"],
+            "explanation": "Whitney Elizabeth Houston was an American singer, actress, producer, and model. In 2009, Guinness World Records cited her as the most awarded female act of all time.",
+            "points": 2.12
+        },
+        {
+            "type": "image",
+            "text": "http://proxy.topixcdn.com/ipicimg/HDJQMAED9RQDVF2I-fram810x414x810x414",
+            "answer": ["Tupac Shakur", "2Pac", "Makaveli"],
+            "explanation": "Tupac Amaru Shakur, also known by his stage names 2Pac and Makaveli, was an American rapper, author, actor, and poet. As of 2007, Shakur has sold over 75 million records worldwide, making him one of the best-selling music artists of all time.",
+            "points": 0.99
+        },
+        {
+            "type": "image",
+            "text": "http://proxy.topixcdn.com/ipicimg/518DCHI2RJ4G03F5-fram810x414x810x414",
+            "answer": ["The Notorious B.I.G", "Christopher Wallace", "Biggie", "Biggie Smalls"],
+            "explanation": "Christopher George Latore Wallace, better known by his stage names The Notorious B.I.G, Biggie, or Biggie Smalls, was an American rapper. Wallace is consistently ranked as one of the greatest rappers ever and one of the most influential rappers of all time.",
+            "points": 1
+        },
+        {
+            "type": "image",
+            "text": "http://proxy.topixcdn.com/ipicimg/OM23123ARBA9QKH6-fram810x414x810x414",
+            "answer": ["James Gandolfini"],
+            "explanation": "James Joseph Gandolfini, Jr. was an American actor and producer. Gandolfini was known for his role as Tony Soprano, an American Mafia boss, in the HBO series The Sopranos.",
+            "points": 1.48
+        },
+        {
+            "type": "image",
+            "text": "http://proxy.topixcdn.com/ipicimg/T2KGS3357MPTP2BL-fram810x414x810x414",
+            "answer": ["Aaliyah", "Aaliyah Dana Haughton"],
+            "explanation": "Aaliyah Dana Haughton was an American singer, dancer, actress, and model. She was born in Brooklyn, New York, and raised in Detroit, Michigan. At the age of 10, she appeared on the television show Star Search and performed in concert alongside Gladys Knight. At age 12, Aaliyah signed with Jive Records and her uncle Barry Hankerson's Blackground Records. Hankerson introduced her to R. Kelly, who became her mentor, as well as lead songwriter and producer of her debut album, Age Ain't Nothing but a Number. The album sold three million copies in the United States and was certified double platinum by the Recording Industry Association of America (RIAA). After facing allegations of an illegal marriage with R. Kelly, Aaliyah ended her contract with Jive and signed with Atlantic Records.",
+            "points": 4.32
+        },
+        {
+            "type": "image",
+            "text": "http://proxy.topixcdn.com/ipicimg/T76CKEHBPIO9PVIB-fram810x414x810x414",
+            "answer": ["Michael Jackson"],
+            "explanation": "Michael Joseph Jackson was an American singer, songwriter, record producer, dancer, and actor. Called the King of Pop, his contributions to music and dance, along with his publicized personal life, made him a global figure in popular culture for over four decades.",
+            "points": 0.5
+        },
+        {
+            "type": "image",
+            "text": "http://proxy.topixcdn.com/ipicimg/S6FDPSQ9D795B766-fram810x414x810x414",
+            "answer": ["Natasha Richardson"],
+            "explanation": "Natasha Jane Richardson was an English stage and screen actress. A member of the Redgrave family, she was the daughter of actress Vanessa Redgrave and director/producer Tony Richardson and the granddaughter of Michael Redgrave and Rachel Kempson.",
+            "points": 5.6
+        },
+        {
+            "type": "image",
+            "text": "http://proxy.topixcdn.com/ipicimg/H4OCBMETTM7U0MRR-fram810x414x810x414",
+            "answer": ["Natalie Wood"],
+            "explanation": "Natalie Wood was an American film and television actress best known for her screen roles in Miracle on 34th Street, Splendor in the Grass, Rebel Without a Cause, The Searchers, and West Side Story.",
+            "points": 2.01
+        },
+        {
+            "type": "image",
+            "text": "http://proxy.topixcdn.com/ipicimg/5NBLRC1GM0OAMOE4-fram810x414x810x414",
+            "answer": ["Patrick Swayze"],
+            "explanation": "Patrick Wayne Swayze was an American actor, dancer, and singer-songwriter. Having gained fame with appearances in films during the 1980s, Swayze became popular for playing tough guys and romantic lead males, gaining him a wide fan base with female audiences, and status as a teen idol and sex symbol.",
+            "points": 0.79
+        },
+        {
+            "type": "image",
+            "text": "http://proxy.topixcdn.com/ipicimg/U53OQOJF93H67GJ1-fram810x414x810x414",
+            "answer": ["Anna Nicole Smith", "Vickie Lynn Hogan"],
+            "explanation": "Anna Nicole Smith was an American model, actress, and television personality. Smith first gained popularity in Playboy, winning the 1993 Playmate of the Year. She modeled for fashion companies and beauty products, including Guess, H&M, Heatherette, Lane Bryant, Conair.",
+            "points": 0.15
+        },
+        {
+            "type": "image",
+            "text": "http://proxy.topixcdn.com/ipicimg/31N7VSR3AD34BJAC-fram810x414x810x414",
+            "answer": ["Marilyn Monroe"],
+            "explanation": "Marilyn Monroe, was an American actress and model. Famous for playing 'dumb blonde' characters, she became one of the most popular sex symbols of the 1950s, emblematic of the era's attitudes towards sexuality.",
+            "points": 0.11
+        },
+        {
+            "type": "image",
+            "text": "http://proxy.topixcdn.com/ipicimg/CHAID3FE6CHCRVSS-fram810x414x810x414",
+            "answer": ["Lisa Nicole Lopes", "Lisa Lopes", "Left-Eye", "Left Eye"],
+            "explanation": "Lisa Nicole Lopes, better known by her stage name Left Eye, was an American rapper, singer, dancer, musician, and songwriter. She achieved fame in the 1990s and early 2000s as a member of the girl group TLC.",
+            "points": 7.8
+        },
+        {
+            "type": "image",
+            "text": "http://proxy.topixcdn.com/ipicimg/Q2GCOD8NJT3Q7IVT-fram810x414x810x414",
+            "answer": ["Brandon Lee"],
+            "explanation": "Brandon Bruce Lee was an American actor and martial artist. He was the son of martial arts film actor Bruce Lee and teacher Linda Lee Cadwell, the grandson of Cantonese opera singer Lee Hoi-chuen, and brother of Shannon Lee.",
+            "points": 6.5
+        },
+        {
+            "type": "image",
+            "text": "http://proxy.topixcdn.com/ipicimg/0B3Q9OCC76AKRVGI-fram810x414x810x414",
+            "answer": ["Jim Morrison", "James Morrison", "James Douglas Morrison"],
+            "explanation": "James Douglas 'Jim' Morrison was an American singer, songwriter and poet best remembered as the lead singer of The Doors.",
+            "points": 3.34
+        },
+        {
+            "type": "image",
+            "text": "http://proxy.topixcdn.com/ipicimg/E4H7PGDBOBFJQF1R-fram810x414x810x414",
+            "answer": ["Bob Marley", "Robert Marley", "Robert Nesta Marley"],
+            "explanation": "Robert Nesta 'Bob' Marley, OM was a Jamaican reggae singer, song writer, musician, and guitarist who achieved international fame and acclaim. Starting out in 1963 with the group The Wailers, he forged a distinctive songwriting and vocal style that would later resonate with audiences worldwide. The Wailers would go on to release some of the earliest reggae records with producer Lee Scratch Perry.",
+            "points": 1.09
+        },
+        {
+            "type": "image",
+            "text": "http://proxy.topixcdn.com/ipicimg/NO6KN052VU2G18EF-fram810x414x810x414",
+            "answer": ["Otis Redding", "Otis Ray Redding", "Otis Ray Redding, Jr.", "Otis Ray Redding, Jr", "Otis Ray Redding Jr"],
+            "explanation": "Otis Ray Redding, Jr. was an American singer-songwriter, record producer, arranger, and talent scout. He is considered one of the greatest singers in the history of American popular music and a seminal artist in soul and rhythm and blues.",
+            "points": 2.58
+        },
+        {
+            "type": "image",
+            "text": "http://proxy.topixcdn.com/ipicimg/493D9R2AAPAH83H6-fram810x414x810x414",
+            "answer": ["Janis Joplin", "Janis Lyn Joplin"],
+            "explanation": "Janis Lyn Joplin was an American singer-songwriter who first rose to fame in the late 1960s as the lead singer of the psychedelic/acid rock band Big Brother and the Holding Company, and later as a solo artist with her own backing groups, The Kozmic Blues Band and The Full Tilt Boogie Band.",
+            "points": 4.19
+        },
+        {
+            "type": "image",
+            "text": "http://proxy.topixcdn.com/ipicimg/D3S0P5HGFUM946UH-fram810x414x810x414",
+            "answer": ["Jimi Hendrix", "James Hendrix", "James Marshall Hendrix"],
+            "explanation": "James Marshall 'Jimi' Hendrix was an American rock guitarist, singer, and songwriter. Although his mainstream career spanned only four years, he is widely regarded as one of the most influential electric  guitarists in the history of popular music, and one of the most celebrated musicians of the 20th century. The Rock and Roll Hall of Fame describes him as 'arguably the greatest instrumentalist in the history of rock music'.",
+            "points": 2.37
+        },
+        {
+            "type": "image",
+            "text": "http://proxy.topixcdn.com/ipicimg/PDJ6UUDQK5T3TGMN-fram810x414x810x414",
+            "answer": ["Steve 'Crocodile Hunter' Irwin", "Steve Irwin", "Stephen Irwin", "Stephen Robert Irwin"],
+            "explanation": "Stephen Robert 'Steve' Irwin, nicknamed 'The Crocodile Hunter', was an Australian wildlife expert, television personality, and conservationist. Irwin achieved worldwide fame from the television series The Crocodile Hunter, an internationally broadcast wildlife documentary series which he co-hosted with his wife Terri. Together, the couple also owned and operated Australia Zoo, founded by Irwin's parents in Beerwah, about 80 kilometres (50 mi) north of the Queensland state capital city of Brisbane.",
+            "points": 1
+        },
+        {
+            "type": "image",
+            "text": "http://proxy.topixcdn.com/ipicimg/CLSKU7JQRHF4QBCB-fram810x414x810x414",
+            "answer": ["James Dean", "James Byron Dean"],
+            "explanation": "James Byron Dean was an American actor. He is a cultural icon of teenage disillusionment and social estrangement, as expressed in the title of his most celebrated film, Rebel Without a Cause, in which he starred as troubled teenager Jim Stark.",
+            "points": 2
+        },
+        {
+            "type": "image",
+            "text": "http://proxy.topixcdn.com/ipicimg/NCMQH48CJI31JSOO-fram810x414x810x414",
+            "answer": ["John Belushi", "John Adam Belushi"],
+            "explanation": "John Adam Belushi was an Albanian-American comedian, actor, and musician. He is best known for his 'intense energy and raucous attitude' which he displayed as one of the original cast members of the NBC sketch comedy show Saturday Night Live, in his role in the 1978 film Animal House and in his recordings and performances as one of The Blues Brothers.",
+            "points": 1.2
+        },
+        {
+            "type": "image",
+            "text": "http://proxy.topixcdn.com/ipicimg/HPJ7BU05J9EAU2CU-fram810x414x810x414",
+            "answer": ["Selena Quintanilla-Perez", "Selena Quintanilla-Pérez"],
+            "explanation": "Selena Quintanilla-Pérez was an American singer, songwriter, spokesperson, actress, and fashion designer. Called the Queen of Tejano music, her contributions to music and fashion made her one of the most celebrated Mexican-American entertainers of the late 20th century. Billboard magazine named her the 'top Latin artist of the 1990s', the 'best selling Latin artist of the decade'. She was called the 'Tejano Madonna' for her clothing choices, by media outlets. She also ranks among the most influential Latin artists of all-time and is credited for catapulting a music genre into mainstream.",
+            "points": 5
+        },
+        {
+            "type": "image",
+            "text": "http://proxy.topixcdn.com/ipicimg/0GCJI8ROQGRFOHET-fram810x414x810x414",
+            "answer": ["Stevie Ray Vaughan", "Stephen Ray Vaughan"],
+            "explanation": "Stephen 'Stevie' Ray Vaughan was an American musician, singer, songwriter, and record producer. In spite of a short-lived mainstream career spanning seven years, he is widely considered one of the most influential electric guitarists in the history of blues music, and one of the most important figures in the revival of blues in the 1980s.",
+            "points": 3
+        },
+        {
+            "type": "image",
+            "text": "http://proxy.topixcdn.com/ipicimg/8N43MN8RTKE2I7KN-fram810x414x810x414",
+            "answer": ["John Candy", "John Franklin Candy"],
+            "explanation": "John Franklin Candy was a Canadian-born actor and comedian, mainly in American films Candy rose to fame as a member of the Toronto branch of The Second City and its related Second City Television series and through his appearances in such comedy films as Stripes, Splash, Cool Runnings, Summer Rental, The Great Outdoors, Spaceballs, and Uncle Buck as well as more dramatic roles in Only the Lonely and JFK. One of his most renowned onscreen performances was as Del Griffith, the loquacious, on-the-move shower-curtain ring salesman in the John Hughes comedy Planes, Trains and Automobiles.",
+            "points": 2.69
+        },
+        {
+            "type": "image",
+            "text": "http://proxy.topixcdn.com/ipicimg/QA61O0HUAN8B5G4I-fram810x414x810x414",
+            "answer": ["Layne Staley", "Layne Thomas Staley"],
+            "explanation": "Layne Thomas Staley was an American musician who served as the lead singer and co-songwriter of the rock band Alice in Chains, which he founded with guitarist Jerry Cantrell in Seattle, Washington in 1987.",
+            "points": 4.4
+        },
+        {
+            "type": "image",
+            "text": "http://proxy.topixcdn.com/ipicimg/PV5VV9QVK0196O8L-fram810x414x810x414",
+            "answer": ["Misty Upham", "Misty Anne Upham"],
+            "explanation": "Misty Anne Upham was a Native American actress best known for her role in the 2008 film Frozen River, for which she was nominated for an Independent Spirit Award for Best Supporting Female.",
+            "points": 5.23
+        },
+        {
+            "type": "image",
+            "text": "http://proxy.topixcdn.com/ipicimg/ATI7OJ8TR0C8PVQT-fram810x414x810x414",
+            "answer": ["Heather O'Rourke"],
+            "explanation": "Heather O'Rourke was an American child actress. She was discovered at the age of five by director Steven Spielberg while eating lunch with her mother at the MGM commissary. Spielberg cast her as Carol Anne Freeling in the 1982 horror film Poltergeist, where she had the movie's most recognizable line: 'They're here!' She reprised the role in the second and third installments.",
+            "points": 2.7
+        },
+        {
+            "type": "image",
+            "text": "http://proxy.topixcdn.com/ipicimg/9060NPQL6D0RQ5RO-fram810x414x810x414",
+            "answer": ["Adam Yauch", "Adam Nathaniel Yauch", "MCA", "Nathanial Hörnblowér", "Nathanial Hornblower"],
+            "explanation": "Adam Nathaniel Yauch was an American rapper, musician, film director, and human rights activist. He was best known as a founding member of the hip hop group Beastie Boys. He was frequently known by his stage name, MCA, and sometimes worked under the pseudonym Nathanial Hörnblowér.",
+            "points": 1.73
+        },
+        {
+            "type": "image",
+            "text": "http://proxy.topixcdn.com/ipicimg/K6K6LTME8B84Q32M-fram810x414x810x414",
+            "answer": ["Bernie Mac", "Bernard McCullough", "Bernard Jeffrey McCullough"],
+            "explanation": "Bernard Jeffrey 'Bernie' McCullough better known by his stage name Bernie Mac, was an American stand-up comedian, actor and voice artist. Born and raised on Chicago's south side, Mac gained popularity as a stand-up comedian. He joined comedians Steve Harvey, Cedric the Entertainer, and D. L. Hughley in The Original Kings of Comedy.",
+            "points": 1.98
+        },
+        {
+            "type": "image",
+            "text": "http://proxy.topixcdn.com/ipicimg/MULQ86L4IFIFQ8DA-fram810x414x810x414",
+            "answer": ["Karen Carpenter", "Karen Anne Carpenter"],
+            "explanation": "Karen Anne Carpenter was an American singer and drummer. She and her brother, Richard, formed the 1970s duo The Carpenters. Although her skills as a drummer earned admiration from drumming luminaries and peers, she is best known for her vocal performances. She had a contralto vocal range.",
+            "points": 6.83
+        },
+        {
+            "type": "image",
+            "text": "http://proxy.topixcdn.com/ipicimg/GKTFIVHTBBCD7U1P-fram810x414x810x414",
+            "answer": ["Chris Farley", "Christopher Farley", "Christopher Crosby Farley"],
+            "explanation": "Christopher Crosby 'Chris' Farley was an American comedian and actor. Farley was known for his loud, energetic comedic style, and was a member of Chicago's Second City Theatre and cast member of the NBC sketch comedy show Saturday Night Live between 1990 and 1995. Farley and Chris Rock were introduced as two of the show's new cast members in early 1990.",
+            "points": 1.79
+        },
+        {
+            "type": "image",
+            "text": "http://proxy.topixcdn.com/ipicimg/93A21DKSEC8VRPTG-fram810x414x810x414",
+            "answer": ["Diem Brown", "Danielle Brown", "Danielle Michelle Brown"],
+            "explanation": "Danielle Michelle Brown, better known as Diem Brown, was a recurring cast member on MTV's reality television series The Challenge and an entertainment reporter. Brown founded MedGift, a website that provides a gift registry for patients and support pages to both people experiencing illnesses and their caregivers. She was a US army brat in Baumholder, Germany before her family settled in the United States. She attended high-school in Roswell, Georgia and obtained her bachelor's degree in Communication from Florida State University.",
+            "points": 7.91
+        },
+        {
+            "type": "image",
+            "text": "http://proxy.topixcdn.com/ipicimg/MBB84FSR9QUJFNRJ-fram810x414x810x414",
+            "answer": ["Jonathan Brandis", "Jonathan Gregory Brandis"],
+            "explanation": "Jonathan Gregory Brandis was an American actor, director, and screenwriter. Beginning his career as a child model, Brandis moved on to acting in commercials and subsequently won television and film roles. At the age of 17, he landed the role of Lucas Wolenczak, a teen prodigy on the NBC series seaQuest DSV. The character was popular among teenage female viewers, and Brandis regularly appeared in teen magazines.",
+            "points": 3.1
+        },
+        {
+            "type": "image",
+            "text": "http://proxy.topixcdn.com/ipicimg/IJNUANF9BT69OILE-fram810x414x810x414",
+            "answer": ["Gary Coleman", "Gary Wayne Coleman"],
+            "explanation": "Gary Wayne Coleman was an American actor, voice artist, and comedian, best known for his role as Arnold Jackson in Diff'rent Strokes and for his small stature as an adult. He was described in the 1980s as 'one of television's most promising stars'.",
+            "points": 0.5
+        },
+        {
+            "type": "image",
+            "text": "http://proxy.topixcdn.com/ipicimg/RA713L2BOB01A4HO-fram810x414x810x414",
+            "answer": ["Buddy Holly", "Charles Holley", "Charles Hardin Holley"],
+            "explanation": "Charles Hardin Holley, known as Buddy Holly, was an American musician and singer/songwriter who was a central figure of mid-1950s rock and roll. Holly was born in Lubbock, Texas, to a musical family during the Great Depression; he learned to play guitar and to sing alongside his siblings. His style was influenced by country music and rhythm and blues acts, and he performed in Lubbock with his friends from high school. He made his first appearance on local television in 1952, and the following year he formed the group 'Buddy and Bob' with his friend Bob Montgomery. In 1955, after opening for Elvis Presley, Holly decided to pursue a career in music. He opened for Presley three times that year; his band's style shifted from country and western to entirely rock and roll.",
+            "points": 7.36
+        },
+        {
+            "type": "image",
+            "text": "http://proxy.topixcdn.com/ipicimg/P2P7L4B791I997TM-fram810x414x810x414",
+            "answer": ["Peaches Geldof", "Peaches Geldof-Cohen", "Peaches Honeyblossom Geldof", "Peaches Honeyblossom Geldof-Cohen"],
+            "explanation": "Peaches Honeyblossom Geldof-Cohen was an English journalist, television presenter and model. She was the second daughter of musician and Live Aid founder Bob Geldof, and the television presenter Paula Yates. Raised in London, Geldof was educated at Queen's College after her parents' divorce in 1996, and later moved to New York City where she worked as a writer for the UK edition of Elle Girl magazine. She also worked in television, producing and developing her own TV programmes which were broadcast in the United Kingdom in 2006. In the later part of her life, Geldof worked primarily in modelling and television, and gave birth to sons in 2012 and 2013.",
+            "points": 9.64
+        },
+        {
+            "type": "image",
+            "text": "http://proxy.topixcdn.com/ipicimg/FEMM4DJ56MIHV8C8-fram810x414x810x414",
+            "answer": ["Andy Whitfield"],
+            "explanation": "Andy Whitfield was a Welsh actor. He was best known for his leading role in the Starz television series Spartacus: Blood and Sand.",
+            "points": 4.08
+        },
+        {
+            "type": "image",
+            "text": "https://s-media-cache-ak0.pinimg.com/736x/11/21/e8/1121e8a48eae6aded71a4ee969e72b43.jpg",
+            "answer": ["Jean Harlow", "Harlean Carpenter", "Harlean Harlow", "Harlean Harlow Carpenter"],
+            "explanation": "Jean Harlow (born Harlean Harlow Carpenter) was an American film actress and sex symbol of the 1930s. After being signed by director Howard Hughes, Harlow's first major appearance was in Hell's Angels (1930), followed by a series of critically unsuccessful films, before signing with Metro-Goldwyn-Mayer in 1932. Harlow became a leading lady for MGM, starring in a string of hit films including Red Dust (1932), Dinner at Eight (1933), Reckless (1935), and Suzy (1936). Among her frequent co-stars were William Powell, Spencer Tracy, and in six films, Clark Gable.",
+            "points": 7.32
+        },
+        {
+            "type": "image",
+            "text": "http://proxy.topixcdn.com/ipicimg/6F8AQLQBI9DV7DQM-fram810x414x810x414",
+            "answer": ["L'Wren Scott", "Laura Bambrough", "Luann Bambrough"],
+            "explanation": "Laura 'Luann' Bambrough, known professionally as L'Wren Scott, was an American stylist and fashion designer. Scott started her career as a model in Paris before moving to California and styling movie stars such as Madonna and Julia Roberts. In 2006, she launched the first of her fashion collections, characterised by sumptuous femininity combined with unconventional touches, aimed at establishing a well-defined silhouette.",
+            "points": 8.99
+        },
+        {
+            "type": "image",
+            "text": "http://proxy.topixcdn.com/ipicimg/FHN90O9C5FHS7Q96-fram810x414x810x414",
+            "answer": ["Jayne Mansfield"],
+            "explanation": "Jayne Mansfield was an American actress in film, theatre, and television. She was also a nightclub entertainer, a singer, and one of the early Playboy Playmates. She was a major Hollywood sex symbol of the 1950s and early 1960s and 20th Century Fox's alternative to Marilyn Monroe who came to be known as the 'Working Man's Monroe'. She was also known for her well-publicized personal life and publicity stunts, such as wardrobe malfunctions. She was one of Hollywood's original blonde bombshells, and, although many people have never seen her movies, Mansfield remains one of the most recognizable icons of 1950s celebrity culture.",
+            "points": 3.45
+        },
+        {
+            "type": "image",
+            "text": "http://proxy.topixcdn.com/ipicimg/9CAJ4OMUII6U4L7E-fram810x414x810x414",
+            "answer": ["Richey Edwards", "Richey James", "Richard James Edwards"],
+            "explanation": "Richard James Edwards was a Welsh musician who was lyricist and rhythm guitarist of the alternative rock band Manic Street Preachers. He was known for his politicised and intellectual songwriting which, combined with an enigmatic and eloquent character, has assured him cult status, and he is frequently cited as one of the best lyricists of all time.",
+            "points": 10
+        },
+        {
+            "type": "image",
+            "text": "https://upload.wikimedia.org/wikipedia/en/d/db/Robin_williams_by_michael_dressler_1979.jpg",
+            "answer": ["Robin Williams", "Robin McLaurin Williams"],
+            "explanation": "Robin McLaurin Williams was an American actor and comedian. Starting as a stand-up comedian in San Francisco and Los Angeles in the mid-1970s, he is credited with leading San Francisco's comedy renaissance. After rising to fame as Mork in the sitcom Mork & Mindy (1978–82), he went on to establish a career in both stand-up comedy and feature film acting. He was known for his improvisational skills.",
+            "points": 0
+        }
+    ]
+}
