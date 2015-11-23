@@ -35,22 +35,14 @@
     {
       "type": "image",
       "text": "http://imgur.com/8dR4osc",
-<<<<<<< HEAD
-      "answer": [ "III Part Future the to Back"],    
-=======
       "answer": [ "III Part Future the to Back"],
->>>>>>> martinb3/master
       "explanation": "",
       "points": 4
     },
     {
       "type": "image",
       "text": "http://imgur.com/P0cfTu6",
-<<<<<<< HEAD
-      "answer": [ "Travel Time About Questions Asked Frequently"],     
-=======
       "answer": [ "Travel Time About Questions Asked Frequently"],
->>>>>>> martinb3/master
       "explanation": "While drinking at their local pub, three social outcasts attempt to navigate a time-travel conundrum.",
       "points": 5
     },
@@ -64,11 +56,7 @@
     {
       "type": "image",
       "text": "http://imgur.com/OtbnPWn",
-<<<<<<< HEAD
-      "answer": [ "Azkaban of Prisoner the and Potter Harry"],   
-=======
       "answer": [ "Azkaban of Prisoner the and Potter Harry"],
->>>>>>> martinb3/master
       "explanation": "It's Harry's third year at Hogwarts; not only does he have a new 'Defense Against the Dark Arts' teacher, but there is also trouble brewing. Convicted murderer Sirius Black has escaped the Wizards' Prison and is coming after Harry.",
       "points": 6
     },
@@ -89,11 +77,7 @@
     {
       "type": "image",
       "text": "http://imgur.com/x4Ieyja",
-<<<<<<< HEAD
-      "answer": [ "II Part Future the to Back"],   
-=======
       "answer": [ "II Part Future the to Back"],
->>>>>>> martinb3/master
       "explanation": "After visiting 2015, Marty McFly must repeat his visit to 1955 to prevent disastrous changes to 1985... without interfering with his first trip.",
       "points": 10
     }
