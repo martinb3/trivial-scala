@@ -26,5 +26,5 @@ class Game(val title: String, val questionList: List[Question], val scores: Map[
 }
 
 object Game {
-  def find : Game = GameStorage.fromFile("/src/main/resources/quiz3.json")
+  def find : Game = GameStorage.fromFile("/src/main/resources/quiz4.json")
 }
