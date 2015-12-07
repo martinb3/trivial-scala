@@ -10,6 +10,7 @@ import org.mbs3.trivial.game.Game
 import slack.api.SlackApiClient
 import slack.api.BlockingSlackApiClient
 import java.util.Properties
+import scala.concurrent.duration._
 
 object Main {
 
@@ -22,7 +23,7 @@ object Main {
     val debug = conf.getBoolean("trivial.debug")
     
     implicit val system = ActorSystem("org_mbs3_trivial")
-    val client = SlackRtmClient(token)
+    val client = SlackRtmClient(token, 15 seconds)
     val selfId = client.state.self.id
     
     val channelManager = system.actorOf(Props(classOf[ChannelManager], client, debug), "ChannelManager")

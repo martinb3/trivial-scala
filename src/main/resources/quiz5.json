@@ -1,0 +1,119 @@
+{
+  "title": "It's that emit again: quiz, no. 3",
+  "ref": "",
+  "order": "seq",
+  "questions" : [
+    {
+      "type": "image",
+      "text": "http://imgur.com/GxoLAZ2.gif",
+      "answer": [ "Abbey Road"],
+      "explanation": "The eleventh studio album by the English rock band the Beatles, released on 26 September 1969 in the United Kingdom and on 1 October 1969 in the United States. The recording sessions for the album were the last in which all four Beatles participated.",
+      "points": 1
+    },
+    {
+      "type": "image",
+      "text": "http://imgur.com/uAtFQnc.gif",
+      "answer": [ "The Dark Side of the Moon"],
+      "explanation": "The eighth studio album by the English progressive rock band Pink Floyd, released on 1 March 1973. It built on ideas explored in the band's earlier recordings and live shows, but lacks the extended instrumental excursions that characterised their work following the departure in 1968 of founder member, principal composer, and lyricist, Syd Barrett. The themes on The Dark Side of the Moon include conflict, greed, the passage of time, and mental illness, the latter partly inspired by Barrett's deteriorating mental state.",
+      "points": 1
+    },
+    {
+      "type": "image",
+      "text": "http://imgur.com/7uOUZFc.gif",
+      "answer": ["Born in the U.S.A.", "Born in the USA"],
+      "explanation": "the seventh studio album by American rock singer-songwriter Bruce Springsteen. It was released on June 4, 1984, by Columbia Records.",
+      "points": 1
+    },
+    {
+      "type": "image",
+      "text": "http://imgur.com/FXCspOJ.gif",
+      "answer": [ "Thriller"],
+      "explanation": "The sixth studio album by the American recording artist Michael Jackson. It was released on November 30, 1982, by Epic Records, as the follow-up to Jackson's critically and commercially successful 1979 album Off the Wall.",
+      "points": 1
+    },
+    {
+      "type": "image",
+      "text": "http://imgur.com/ukbTrW1.gif",
+      "answer": [ "Ray of Light"],
+      "explanation": "The seventh studio album by American singer Madonna, released on March 3, 1998 by Maverick Records. A major departure from her previous work, Ray of Light is an electronica record which incorporates several subgenres, including techno, trip hop, drum and bass, ambient, rock, and classical music.",
+      "points": 1
+    },
+    {
+      "type": "image",
+      "text": "http://imgur.com/R6imaZ1.gif",
+      "answer": [ "Purpose"],
+      "explanation": "The fourth studio album by Canadian singer Justin Bieber, released on November 13, 2015, by Def Jam Recordings. Purpose was initially banned in various Middle Eastern countries and Indonesia due to the cover art's heavy Christian references, most prominently Bieber's cross tattoo and his praying stance, which were deemed 'too provocative'. An alternate cover was issued for these countries, depicting Bieber atop a cliff, looking out over a shore.",
+      "points": 2
+    },
+    {
+      "type": "image",
+      "text": "http://imgur.com/bXLs87K.gif",
+      "answer": [ "1989"],
+      "explanation": "The fifth studio album by American singer-songwriter Taylor Swift. It was released on October 27, 2014, through Big Machine Records.  In contrast to Swift's previous work, the production of 1989 consists of drum programming, synthesizers, pulsating bass, processed backing vocals, and guitars.",
+      "points": 2
+    },
+    {
+      "type": "image",
+      "text": "http://imgur.com/xzcoK5O.gif",
+      "answer": [ "Lindsey Stirling"],
+      "explanation": "The debut studio album by violinist and artist Lindsey Stirling, whose popularity grew from her appearance on America's Got Talent and a large following on YouTube. Her first album of original compositions, it topped the category of Classical Albums and Dance/Electronic Albums in Billboard and reached number 79 on the Billboard 200.",
+      "points": 2
+    },
+    {
+      "type": "image",
+      "text": "http://imgur.com/2hl9J5q.gif",
+      "answer": [ "Ropin' the Wind"],
+      "explanation": "The third studio album by American country music artist Garth Brooks. It was released on September 2, 1991 and was his first studio album to debut at No. 1 the Billboard 200 chart and the Top Country Albums chart. There it enjoyed four runs at No. 1 between September 28, 1991 - April 3, 1992, spending a combined 18 weeks at the top, eventually being certified 14x Platinum by the RIAA in 1998.",
+      "points": 3
+    },
+    {
+      "type": "image",
+      "text": "http://imgur.com/rQFtsX9.gif",
+      "answer": [ "Jagged Little Pill"],
+      "explanation": "The third studio album and international debut album by Canadian singer Alanis Morissette, first released on June 13, 1995, through Maverick Records.  The albums lyrics touched upon themes of aggression and broken relationships, whilst Ballard introduced a pop sensibility to Morissette's bitter angst.",
+      "points": 3
+    },
+    {
+      "type": "image",
+      "text": "http://imgur.com/aD511vw.gif",
+      "answer": [ "Rumours"],
+      "explanation": "The eleventh studio album by the British-American rock band Fleetwood Mac.  The Rumours studio sessions were marked by hedonistic behaviour and interpersonal strife between Fleetwood Mac members; these experiences shaped the album's lyrics. Influenced by pop music, the record's tracks were recorded using a combination of acoustic and electric instruments.",
+      "points": 5
+    },
+    {
+      "type": "image",
+      "text": "http://imgur.com/oIvwt1S.gif",
+      "answer": [ "E5C4P3"],
+      "explanation": "The seventh studio album by American rock band Journey, released on July 31, 1981. Features four hit Billboard Hot 100 singles – Don't Stop Believin (#9), Who's Crying Now (#4), Still They Ride (#19) and Open Arms (#2).",
+      "points": 5
+    },
+    {
+      "type": "image",
+      "text": "http://imgur.com/rxuPiAh.gif",
+      "answer": [ "Bridge over Troubled Water"],
+      "explanation": "The fifth and final studio album by American folk rock duo Simon & Garfunkel, released in January 1970 on Columbia Records.  The album was mixed and released in both stereo and quadraphonic. The album followed a similar musical pattern as their Bookends, partly abandoning their traditional style in favor of a more creative sound, combining rock, R&B, gospel, jazz, World music, pop and other genres.",
+      "points": 8
+    },
+    {
+      "type": "image",
+      "text": "http://imgur.com/BlTHDoC.gif",
+      "answer": [ "No Code"],
+      "explanation": "The fourth studio album by the American alternative rock band Pearl Jam, released on August 27, 1996 through Epic Records.  No Code represented a deliberate break from Ten's stadium sound, favoring experimental ballads and noisy garage rock songs. The album package consists of 156 Polaroid photos that unfold into a 2x2 square. The pictures, when viewed from afar, blend to form the No Code triangle/eyeball logo that is the theme throughout the album.",
+      "points": 10
+    },
+    {
+      "type": "image",
+      "text": "http://imgur.com/N0NObpz.gif",
+      "answer": [ "Ghost in the Machine"],
+      "explanation": "the fourth studio album by English rock band The Police. The album was the first Police record to feature heavy use of keyboards and horns. The cover art for Ghost in the Machine features a seven-segment display-inspired graphic that depicts the heads of the three band members each with a distinctive hair style (from left to right, Andy Summers, Sting with spiky hair, and Stewart Copeland with a fringe); the band was unable to decide on a photograph to use for the cover.",
+      "points": 10
+    },
+    {
+      "type": "image",
+      "text": "http://imgur.com/Fc3uSFd.gif",
+      "answer": [ "Whenever You Need Somebody"],
+      "explanation": " Rick Astley's debut album released in the fall of 1987 on RCA Records. Never Gonna Give You Up was released as the first single.  It is his best selling album and, according to his own official website, sold 15.2 million copies worldwide.",
+      "points": 11
+    }
+  ]
+}
