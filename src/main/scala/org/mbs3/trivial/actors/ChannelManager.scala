@@ -59,6 +59,9 @@ class ChannelManager(client: SlackRtmClient, debug: Boolean) extends Actor with 
     case m: Message if channelMap.containsKey(m.channel) && m.user != client.state.self.id => {
       channelMap.get(m.channel) ! m
     }
+    case m: Message if m.text.toLowerCase().equals("ping") && m.user != client.state.self.id => {
+      client.sendMessage(m.channel, "PONG")
+    }
     case m: SlackEvent => if(debug) { log.info(m.toString()) } else { log.debug("SlackEvent! " + m) }
     case _ => log.info("Other! Message received")
   }

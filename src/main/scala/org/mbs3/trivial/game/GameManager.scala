@@ -80,12 +80,17 @@ class GameManager(client: SlackRtmClient, channelId: String, debug: Boolean) {
     changeState(QuestionWait)
   }
   
-  // someone has guessed while we're in AnswerWait
+  // someone has said a game command while we don't have a game going
+  var game_master : String = null
   def handleCommand(message: Message) {
     if(message.text.endsWith("!game") && currentState == GameState.Initial) {
+      game_master = message.user
       val user = client.state.getUserById(message.user).get
       client.sendMessage(channelId, msg("NEW_GAME_REQUEST", user.name))
       changeState(New)
+    }
+    else if(message.text.endsWith("!scores") && currentState != GameState.Initial) {
+      handleScoreRequest
     }
   }
   
@@ -162,11 +167,21 @@ class GameManager(client: SlackRtmClient, channelId: String, debug: Boolean) {
   }
   
   def handleFinalScore: GameState = {
-    
-    val scoreboard = game.scores
     client.sendMessage(channelId, msg("FINAL_SCORE"))
-    scoreboard.keySet.foreach { username => client.sendMessage(channelId, username+": "+scoreboard.get(username).get) }
+    handleScoreRequest
     return GameState.Over
+  }
+  
+  def handleScoreRequest {
+    val scoreboard = game.scores
+    val score_set = scoreboard.keySet
+    
+    if(score_set.size > 0) {
+      score_set.foreach { username => client.sendMessage(channelId, username+": "+scoreboard.get(username).get) }
+    }
+    else {
+      client.sendMessage(channelId, msg("NO_SCORE"))
+    }
   }
   
   def handleGameOver: GameState = {
