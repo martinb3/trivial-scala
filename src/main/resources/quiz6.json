@@ -1,0 +1,294 @@
+{
+  "title": "Famous Animals",
+  "ref": "",
+  "order": "seq",
+  "questions" : [
+    {
+      "type": "image",
+      "text": "http://i.imgur.com/eRtx3aO.jpg",
+      "answer": [ "Blues Brothers", "The Blues Brothers" ],
+      "explanation": "The Blues Brothers, formally, variously The Blues Brothers' Show Band and Revue and The Blues Brothers' Rhythm and Blues Revue, are an American blues and rhythm and blues revivalist band founded in 1976 by comedy actors Dan Aykroyd and John Belushi as part of a musical sketch on Saturday Night Live.",
+      "points": 2
+    },
+    {
+      "type": "image",
+      "text": "http://i.imgur.com/qcoIypS.jpg",
+      "answer": [ "Mother Teresa", "Blessed Teresa of Calcutta", "Anjezë Gonxhe Bojaxhiu" ],
+      "explanation": "Mother Teresa (26 August 1910 – 5 September 1997) also known as Blessed Teresa of Calcutta, MC, was an Albanian Roman Catholic religious sister and missionary.",
+      "points": 3
+    },
+    {
+      "type": "image",
+      "text": "http://i.imgur.com/0rLqcob.jpg",
+      "answer": [ "Winston Churchill", "Sir Winston Leonard Spencer-Churchill"],
+      "explanation": "Sir Winston Leonard Spencer-Churchill, KG, OM, CH, TD, PC, DL, FRS, RA (30 November 1874 – 24 January 1965) was a British statesman who was the Prime Minister of the United Kingdom from 1940 to 1945 and again from 1951 to 1955. Churchill was also an officer in the British Army, a historian, a writer (as Winston S. Churchill), and an artist. He won the Nobel Prize in Literature, and was the first person to be made an honorary citizen of the United States.",
+      "points": 5
+    },
+    {
+      "type": "image",
+      "text": "http://i.imgur.com/I0enRNp.jpg",
+      "answer": [ "Chairman Mao", "Mao Zedong", "Mao Tse-tung" ],
+      "explanation": "Mao Zedong, also transliterated as Mao Tse-tung and commonly referred to as Chairman Mao (December 26, 1893 – September 9, 1976), was a Chinese Communist revolutionary and the founding father of the People's Republic of China, which he governed as Chairman of the Communist Party of China from its establishment in 1949 until his death in 1976. His Marxist–Leninist theories, military strategies, and political policies are collectively known as Marxism–Leninism–Maoism or Mao Zedong Thought.",
+      "points": 3
+    },
+    {
+      "type": "image",
+      "text": "http://i.imgur.com/zxFoxAe.jpg",
+      "answer": [ "Tommy Cooper"],
+      "explanation": "Thomas Frederick Cooper (19 March 1921 – 15 April 1984) was a British prop comedian and magician. Cooper was a member of the Magic Circle, and respected by traditional magicians. He was famed for his red fez, and his appearance was large and lumbering, at 6 feet 4 inches (1.93 m) and more than 15 stone (210 lb; 95 kg) in weight. On 15 April 1984, Cooper collapsed, and died soon afterwards, from a heart attack on live national television.",
+      "points": 8
+    },
+    {
+      "type": "image",
+      "text": "http://i.imgur.com/JNh9nSp.jpg",
+      "answer": [ "Sacha Baron Cohen", "Sacha Noam Baron Cohen", "Sacha Cohen" ],
+      "explanation": "Sacha Noam Baron Cohen (born 13 October 1971) is a British actor, comedian, and screenwriter. A graduate of Christ's College, Cambridge, Baron Cohen is most widely known for creating and playing four fictional characters: Ali G, Borat Sagdiyev, Brüno Gehard and Admiral General Aladeen.",
+      "points": 2
+    },
+    {
+      "type": "image",
+      "text": "http://i.imgur.com/vZb5JjR.jpg",
+      "answer": [ "Frank Oz", "Frank Richard Oznowicz" ],
+      "explanation": "Frank Oz (born Frank Richard Oznowicz; born May 25, 1944) is an English-born American filmmaker, puppeteer, and actor. His career began as a puppeteer, where he performed the Muppet characters of Miss Piggy and Fozzie Bear in The Muppet Show, and Cookie Monster, Bert, and Grover in Sesame Street. He is also known for being the puppeteer and voice of Yoda in the Star Wars films.",
+      "points": 9
+    },
+    {
+      "type": "image",
+      "text": "http://i.imgur.com/APIG96R.jpg",
+      "answer": [ "Edna Everage", "Dame Edna Everage", "Barry Humphries" ],
+      "explanation": "Dame Edna Everage is a character created and performed by Australian comedian Barry Humphries, famous for her lilac-coloured or 'wisteria hue' hair and cat eye glasses or 'face furniture', her favourite flower, the gladiolus ('gladdies') and her boisterous greeting: 'Hello, Possums!' As Dame Edna, Humphries has written several books including an autobiography, My Gorgeous Life, appeared in several films and hosted several television shows (on which Humphries has also appeared as himself and other alter-egos).",
+      "points": 10
+    },
+    {
+      "type": "image",
+      "text": "http://i.imgur.com/lhkt1Kv.jpg",
+      "answer": [ "Elvis Presley", "Elvis", "Elvis Aaron Presley" ],
+      "explanation": "Elvis Aaron Presley (January 8, 1935 – August 16, 1977) was an American singer and actor. Regarded as one of the most significant cultural icons of the 20th century, he is often referred to as 'the King of Rock and Roll', or simply, 'the King'.",
+      "points": 2
+    },
+    {
+      "type": "image",
+      "text": "http://i.imgur.com/6vGsNyH.jpg",
+      "answer": [ "Che Guevara", "Ernesto Guevara", "el Che", "Che"],
+      "explanation": "Ernesto 'Che' Guevara (June 14, 1928 – October 9, 1967), commonly known as el Che or simply Che, was an Argentine Marxist revolutionary, physician, author, guerrilla leader, diplomat, and military theorist. A major figure of the Cuban Revolution, his stylized visage has become a ubiquitous countercultural symbol of rebellion and global insignia in popular culture.",
+      "points": 4
+    },
+    {
+      "type": "image",
+      "text": "http://i.imgur.com/bVCyrOX.jpg",
+      "answer": [ "John Wayne", "Marion Mitchell Morrison", "Marion Morrison"],
+      "explanation": "Marion Mitchell Morrison (born Marion Robert Morrison; May 26, 1907 – June 11, 1979), known by his stage name John Wayne, was an American film actor, director, and producer.",
+      "points": 7
+    },
+    {
+      "type": "image",
+      "text": "http://i.imgur.com/Wd0lhK8.jpg",
+      "answer": [ "Ozzy Osbourne", "John Michael Osbourne", "Ozzy"],
+      "explanation": "John Michael 'Ozzy' Osbourne (born 3 December 1948) is an English singer, songwriter and television personality. He rose to prominence in the early 1970s as the lead vocalist of the band Black Sabbath, widely considered to be the first heavy metal band.",
+      "points": 3
+    },
+    {
+      "type": "image",
+      "text": "http://i.imgur.com/EsOKGJz.jpg",
+      "answer": [ "Grace Kelly", "Grace Patricia Kelly"],
+      "explanation": "Grace Patricia Kelly (November 12, 1929 – September 14, 1982) was an American actress who, after marrying Prince Rainier III, became Princess of Monaco.",
+      "points": 4
+    },
+    {
+      "type": "image",
+      "text": "http://i.imgur.com/hr9IFtR.jpg",
+      "answer": [ "Johnny Depp", "John Christopher Depp", "John Depp"],
+      "explanation": "John Christopher 'Johnny' Depp II (born June 9, 1963) is an American actor, producer, and musician. He has won the Golden Globe Award and Screen Actors Guild Award for Best Actor. He rose to prominence on the 1980s television series 21 Jump Street, becoming a teen idol.",
+      "points": 2
+    },
+    {
+      "type": "image",
+      "text": "http://i.imgur.com/R8zICI3.jpg",
+      "answer": [ "Leonard Nimoy", "Leonard Simon Nimoy"],
+      "explanation": "Leonard Simon Nimoy was an American actor, film director, photographer, author, singer, and songwriter. He was known for his role as Mr. Spock of the Star Trek franchise, a character he portrayed in television and film from a pilot episode shot in late 1964 to his final film performance released in 2013.",
+      "points": 3
+    },
+    {
+      "type": "image",
+      "text": "http://i.imgur.com/tkIeHPU.jpg",
+      "answer": [ "Jimi Hendrix", "James Marshall Hendrix", "Johnny Allen Hendrix"],
+      "explanation": "James Marshall 'Jimi' Hendrix (born Johnny Allen Hendrix; November 27, 1942 – September 18, 1970) was an American rock guitarist, singer, and songwriter. Although his mainstream career spanned only four years, he is widely regarded as one of the most influential electric guitarists in the history of popular music, and one of the most celebrated musicians of the 20th century. The Rock and Roll Hall of Fame describes him as 'arguably the greatest instrumentalist in the history of rock music'.",
+      "points": 3
+    },
+    {
+      "type": "image",
+      "text": "http://i.imgur.com/pUC3WGH.jpg",
+      "answer": [ "Mark Zuckerberg", "Mark Elliot Zuckerberg"],
+      "explanation": "Mark Elliot Zuckerberg (born May 14, 1984) is an American computer programmer, Internet entrepreneur, and philanthropist. He is the chairman, chief executive, and co-founder of the social networking website Facebook. His personal wealth, as of December 2015, is estimated to be $46 billion. Zuckerberg receives a one-dollar salary as CEO of Facebook.",
+      "points": 4
+    },
+    {
+      "type": "image",
+      "text": "http://i.imgur.com/gteYSgU.jpg",
+      "answer": [ "Amy Winehouse", "Amy Jade Winehouse"],
+      "explanation": "Amy Jade Winehouse (14 September 1983 – 23 July 2011) was an English singer and songwriter known for her deep expressive vocals and her eclectic mix of musical genres, including soul, rhythm and blues, and jazz. Winehouse died of alcohol poisoning on 23 July 2011, aged 27. Her album Back to Black posthumously became for a time the UK's best-selling album of the 21st century. In 2012, Winehouse was ranked 26th on VH1's 100 Greatest Women In Music. The BBC has called her 'the pre-eminent vocal talent of her generation.'",
+      "points": 2
+    },
+    {
+      "type": "image",
+      "text": "http://i.imgur.com/CIgBrab.jpg",
+      "answer": [ "Dolly Parton", "Dolly Rebecca Parton Dean"],
+      "explanation": "Dolly Rebecca Parton Dean (born January 19, 1946) is an American singer-songwriter, actress, author, businesswoman, and humanitarian, known primarily for her work in country music.",
+      "points": 4
+    },
+    {
+      "type": "image",
+      "text": "http://i.imgur.com/cTm8PZS.jpg",
+      "answer": [ "Bob Marley", "Robert Nesta Marley", "Robert Marley"],
+      "explanation": "Robert Nesta 'Bob' Marley, OM (6 February 1945 – 11 May 1981) was a Jamaican reggae singer, songwriter, musician, and guitarist who achieved international fame and acclaim. Starting out in 1963 with the group The Wailers, he forged a distinctive songwriting and vocal style that would later resonate with audiences worldwide. The Wailers would go on to release some of the earliest reggae records with producer Lee 'Scratch' Perry.",
+      "points": 2
+    },
+    {
+      "type": "image",
+      "text": "http://i.imgur.com/BFC5DPi.jpg",
+      "answer": [ "Mike Myers", "Michael Myers"],
+      "explanation": "Michael John 'Mike' Myers (born May 25, 1963) is a Canadian actor, comedian, screenwriter, director, and film producer, who also holds British and American citizenship. He is known for his run as a featured performer on Saturday Night Live from 1989 to 1995, and for playing the title roles in the Wayne's World, Austin Powers, and Shrek films.",
+      "points": 6
+    },
+    {
+      "type": "image",
+      "text": "http://i.imgur.com/X0Jf5JA.jpg",
+      "answer": [ "Albert Einstein", "Einstein"],
+      "explanation": "Albert Einstein (14 March 1879 – 18 April 1955) was a German-born theoretical physicist. He developed the general theory of relativity, one of the two pillars of modern physics (alongside quantum mechanics).:274 Einstein's work is also known for its influence on the philosophy of science. Einstein is best known in popular culture for his mass–energy equivalence formula E = mc2 (which has been dubbed 'the world's most famous equation'). He received the 1921 Nobel Prize in Physics for his 'services to theoretical physics', in particular his discovery of the law of the photoelectric effect, a pivotal step in the evolution of quantum theory.",
+      "points": 3
+    },
+    {
+      "type": "image",
+      "text": "http://i.imgur.com/DR2TARD.jpg",
+      "answer": [ "Katy Perry", "Katheryn Elizabeth Katy Hudson"],
+      "explanation": "Katheryn Elizabeth 'Katy' Hudson (born October 25, 1984), known professionally as Katy Perry, is an American singer, songwriter, and actress.",
+      "points": 3
+    },
+    {
+      "type": "image",
+      "text": "http://i.imgur.com/HzPsgyT.jpg",
+      "answer": [ "Michael Jackson", "Michael Joseph Jackson"],
+      "explanation": "Michael Joseph Jackson (August 29, 1958 – June 25, 2009) was an American singer, songwriter, record producer, dancer, and actor. Called the King of Pop, his contributions to music and dance, along with his publicized personal life, made him a global figure in popular culture for over four decades.",
+      "points": 2
+    },
+    {
+      "type": "image",
+      "text": "http://i.imgur.com/PzttAmV.jpg",
+      "answer": [ "Royal Couple", "William and Kate", "Kate and William", "Prince William and Princess Kate", "Princess Kate and Prince William"],
+      "explanation": "Prince William, Duke of Cambridge, KG, KT, ADC(P) (William Arthur Philip Louis;[fn 1] born 21 June 1982) is the elder son of Charles, Prince of Wales, and Diana, Princess of Wales. He is second in line to succeed his grandmother, Queen Elizabeth II, after his father. Catherine, Duchess of Cambridge (Catherine Elizabeth 'Kate'; née Middleton; born 9 January 1982), is the wife of Prince William, Duke of Cambridge.",
+      "points": 6
+    },
+    {
+      "type": "image",
+      "text": "http://i.imgur.com/rjJwEFx.jpg",
+      "answer": [ "Abba"],
+      "explanation": "ABBA were a Swedish pop group formed in Stockholm in 1972. With members Agnetha Fältskog, Björn Ulvaeus, Benny Andersson, and Anni-Frid Lyngstad, ABBA became one of the most commercially successful acts in the history of popular music, topping the charts worldwide from 1975 to 1982. They won the Eurovision Song Contest 1974 at the Dome in Brighton, UK, giving Sweden its first triumph in the contest, and were the most successful group ever to take part in the competition.",
+      "points": 8
+    },
+    {
+      "type": "image",
+      "text": "http://i.imgur.com/7tuPihQ.jpg",
+      "answer": [ "Sid Vicious", "John Simon Ritchie", "John Beverley"],
+      "explanation": "Sid Vicious, born John Simon Ritchie, later named John Beverley (10 May 1957 – 2 February 1979), was an English bass guitarist, drummer and vocalist, most famous as a member of the influential punk rock band the Sex Pistols, and notorious for his arrest for the alleged murder of his girlfriend, Nancy Spungen.",
+      "points": 6
+    },
+    {
+      "type": "image",
+      "text": "http://i.imgur.com/PwIWajT.jpg",
+      "answer": [ "Gene Simmons", "Chaim Witz"],
+      "explanation": "Chaim Witz (born August 25, 1949), better known by his stage name Gene Simmons, is an Israeli-American musician, singer, songwriter, record producer, entrepreneur, actor, and television personality. Known by his stage persona The Demon, he is the bass guitarist and co-lead singer of Kiss, the rock band he co-founded in the early 1970s.",
+      "points": 2
+    },
+    {
+      "type": "image",
+      "text": "http://i.imgur.com/PjUbDRC.jpg",
+      "answer": [ "Karl Lagerfeld", "Karl Otto Lagerfeld"],
+      "explanation": "Karl Otto Lagerfeld (born 10 September 1933) is a German fashion designer, artist, and photographer based in Paris. He is the head designer and creative director of the fashion house Chanel as well as the Italian house Fendi and his own fashion label. Over the decades, he has collaborated on a variety of fashion and art-related projects. He is well recognized around the world for his trademark white hair, black glasses, and high starched collars.",
+      "points": 6
+    },
+    {
+      "type": "image",
+      "text": "http://i.imgur.com/12RxdCp.jpg",
+      "answer": [ "Bill Gates", "William Henry Gates III", "William Gates"],
+      "explanation": "William Henry 'Bill' Gates III (born October 28, 1955) is an American business magnate, philanthropist, investor, and computer programmer. In 1975, Gates and Paul Allen co-founded Microsoft, which became the world's largest PC software company. During his career at Microsoft, Gates held the positions of chairman, CEO and chief software architect, and was the largest individual shareholder until May 2014. Gates has authored and co-authored several books.",
+      "points": 2
+    },
+    {
+      "type": "image",
+      "text": "http://i.imgur.com/QRy2duC.jpg",
+      "answer": [ "Lady Gaga", "Stefani Joanne Angelina Germanotta", "Stefani Germanotta"],
+      "explanation": "Stefani Joanne Angelina Germanotta (/ˈstɛfəniː dʒɜrməˈnɒtə/ STEF-ə-nee jur-mə-NOT-ə; Italian: [dʒermaˈnɔtta]; born March 28, 1986), better known by her stage name Lady Gaga, is an American singer, songwriter, and actress. She is known for her self-empowering messages, fashion, and live performances.",
+      "points": 2
+    },
+    {
+      "type": "image",
+      "text": "http://i.imgur.com/rbPM1b1.jpg",
+      "answer": [ "Donald Trump", "Donald John Trump", "The Donald"],
+      "explanation": "Donald John Trump, Sr. (born June 14, 1946) is an American business magnate, investor, author, television personality, and candidate for President of the United States in the 2016 presidential election. He is chairman and president of The Trump Organization and the founder of Trump Entertainment Resorts. Trump's career, branding efforts, lifestyle, and outspoken manner helped make him a celebrity for years, a status amplified by the success of his NBC reality show, The Apprentice.",
+      "points": 3
+    },
+    {
+      "type": "image",
+      "text": "http://i.imgur.com/WiXc9Bv.jpg",
+      "answer": [ "Mr T", "Mr. T", "Lawrence Tureaud"],
+      "explanation": "Mr. T (born Lawrence Tureaud; May 21, 1952) is an American actor known for his roles as B. A. Baracus in the 1980s television series The A-Team, as boxer Clubber Lang in the 1982 film Rocky III, for his appearances as a professional wrestler, and for being a rapper. Mr. T is known for his trademark African Mandinka warrior hairstyle, his gold jewelry, and his tough-guy image. In 2006 he starred in the reality show I Pity the Fool, shown on TV Land, the title of which comes from the catchphrase of his Lang character.",
+      "points": 2
+    },
+    {
+      "type": "image",
+      "text": "http://i.imgur.com/5CVhnsT.jpg",
+      "answer": [ "David Bowie", "David Robert Jones", "David Jones"],
+      "explanation": "David Robert Jones (8 January 1947 – 10 January 2016), known professionally as David Bowie (/ˈboʊ.i/), was an English singer, songwriter, multi-instrumentalist, record producer, arranger, painter and actor. He was a figure in popular music for over four decades, and was considered by critics and other musicians as an innovator, particularly for his work in the 1970s. His androgynous appearance was an iconic element of his image, principally in the 1970s and 1980s.",
+      "points": 5
+    },
+    {
+      "type": "image",
+      "text": "http://i.imgur.com/Dx0IxCB.jpg",
+      "answer": [ "Frida Kahlo", "Frida Kahlo de Rivera"],
+      "explanation": "Frida Kahlo de Rivera (Spanish pronunciation: [ˈfɾiða ˈkalo]; July 6, 1907 – July 13, 1954), born Magdalena Carmen Frieda Kahlo y Calderón, was a Mexican painter who is best known for her self-portraits.",
+      "points": 6
+    },
+    {
+      "type": "image",
+      "text": "http://i.imgur.com/Dx0IxCB.jpg",
+      "answer": [ "Snoop Dogg", "Calvin Cordozar Broadus, Jr.", "Calvin Cordozar Broadus"],
+      "explanation": "Calvin Cordozar Broadus, Jr. (born October 20, 1971), best known by his stage name Snoop Dogg, is an American rapper and actor from Long Beach, California. His music career began in 1992 when he was discovered by Dr. Dre of N.W.A and, as a result, was prominently featured throughout Dr. Dre's solo debut album, The Chronic (1992). He has since sold over 21 million albums in the United States and 35 million albums worldwide.",
+      "points": 3
+    },
+    {
+      "type": "image",
+      "text": "http://i.imgur.com/4h6Erqc.jpg",
+      "answer": [ "Audrey Hepburn", "Audrey Kathleen Ruston"],
+      "explanation": "Audrey Hepburn (/ˈɔːdri ˈhɛpˌbɜrn/; born Audrey Kathleen Ruston; 4 May 1929 – 20 January 1993) was a British actress and humanitarian. Recognised as a film and fashion icon, Hepburn was active during Hollywood's Golden Age. She was ranked by the American Film Institute as the third greatest female screen legend in Golden Age Hollywood and was inducted into the International Best Dressed List Hall of Fame.",
+      "points": 6
+    },
+    {
+      "type": "image",
+      "text": "http://i.imgur.com/X9B6Q5y.gif",
+      "answer": [ "Andy Warhol", "Andrew Warhola"],
+      "explanation": "Andy Warhol (born Andrew Warhola; August 6, 1928 – February 22, 1987) was an American artist who was a leading figure in the visual art movement known as pop art. His works explore the relationship between artistic expression, celebrity culture, and advertisement that flourished by the 1960s.",
+      "points": 4
+    },
+    {
+      "type": "image",
+      "text": "http://i.imgur.com/5ET7L94.gif",
+      "answer": [ "Judy Garland", "Frances Ethel Gumm", "Frances Gumm"],
+      "explanation": "Judy Garland (June 10, 1922 – June 22, 1969), born Frances Ethel Gumm, was an American singer, actress, and vaudevillian. She was renowned for her vocals and attained international stardom which continued throughout a career that spanned more than 40 years as an actress in musical and dramatic roles, as a recording artist, and on concert stages. Respected for her versatility, she received a Juvenile Academy Award and won a Golden Globe Award, as well as Grammy Awards and a Special Tony Award.",
+      "points": 4
+    },
+    {
+      "type": "image",
+      "text": "http://i.imgur.com/08ePGos.gif",
+      "answer": [ "Lynda Carter", "Linda Jean Córdova Carter", "Linda Jean Cordova Carter"],
+      "explanation": "Lynda Carter (born Linda Jean Córdova Carter; July 24, 1951) is an American actress, singer, songwriter and beauty pageant titleholder who was crowned Miss World America 1972 and also the star of the TV series Wonder Woman from 1975 to 1979.",
+      "points": 5
+    },
+    {
+      "type": "image",
+      "text": "http://i.imgur.com/l7LVcBy.jpg",
+      "answer": [ "Charlie Chaplin", "Sir Charles Spencer Chaplin", "Sir Charlie Chaplin"],
+      "explanation": "Sir Charles Spencer 'Charlie' Chaplin, KBE (16 April 1889 – 25 December 1977) was an English comic actor, filmmaker, and composer who rose to fame in the silent era. Chaplin became a worldwide icon through his screen persona 'the Tramp' and is considered one of the most important figures in the history of the film industry. His career spanned more than 75 years, from childhood in the Victorian era until a year before his death in 1977, and encompassed both adulation and controversy.",
+      "points": 3
+    }
+  ]
+}
