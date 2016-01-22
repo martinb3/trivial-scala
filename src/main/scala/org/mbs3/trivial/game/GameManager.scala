@@ -10,6 +10,7 @@ class GameManager(client: SlackRtmClient, channelId: String, debug: Boolean) {
     type GameState = Value
     val 
       Initial, // we've never played a game
+      Emcee, // we're doing an emcee game, just respond to scores
       New, // we want to start a new game
       QuestionWait, // wait for the question 
       PoseQuestion, // ask/announce a question
@@ -27,6 +28,7 @@ class GameManager(client: SlackRtmClient, channelId: String, debug: Boolean) {
     val oldState = currentState
     val newState = currentState match {
       case GameState.Initial => GameState.Initial
+      case GameState.Emcee => GameState.Emcee
       case GameState.New => handleNewGame
       case GameState.PoseQuestion => handlePoseQuestion
       case GameState.AnswerWait => handleAnswerWait 
@@ -85,9 +87,41 @@ class GameManager(client: SlackRtmClient, channelId: String, debug: Boolean) {
   def handleCommand(message: Message) {
     if(message.text.endsWith("!game") && currentState == GameState.Initial) {
       game_master = message.user
+      if(debug) {
+        println(game_master + " is the game master!")
+      }
       val user = client.state.getUserById(message.user).get
       client.sendMessage(channelId, msg("NEW_GAME_REQUEST", user.name))
       changeState(New)
+    }
+    else if(message.text.endsWith("!emcee") && currentState == GameState.Initial) {
+      game_master = message.user
+      game.scores.clear
+      val user = client.state.getUserById(message.user).get
+      client.sendMessage(channelId, msg("NEW_GAME_EMCEE", user.name))
+      changeState(Emcee)
+    }
+    else if(message.text.endsWith("!fin") && currentState == GameState.Emcee) {
+      changeState(FinalScore)
+    }
+    else if(currentState == GameState.Emcee && message.text.toLowerCase().contains("points") && game_master == message.user) {
+      
+      val pattern = ".*: ([\\-0-9.]+) points to ([A-Za-z ]+)".r
+      message.text.toLowerCase() match {
+        case pattern(points_to_give, user_name) => {
+          val scores = game.scores
+          var points = 0f
+        
+          if(scores.contains(user_name))
+            points += scores.get(user_name).get
+          
+          scores.put(user_name, points+points_to_give.toFloat)
+          println(points_to_give + " goes to " + user_name)
+          client.sendMessage(channelId, msg("GIVE_POINTS", points_to_give.toFloat, user_name, points+points_to_give.toFloat))
+        }
+        case _ => println(message.text + " did not match a 'points for' regex")
+      }
+
     }
     else if(message.text.endsWith("!scores") && currentState != GameState.Initial) {
       handleScoreRequest
@@ -95,6 +129,7 @@ class GameManager(client: SlackRtmClient, channelId: String, debug: Boolean) {
   }
   
   def handleNewGame(): GameState = {
+    game.scores.clear
     if(debug) {
       return PoseQuestion
     }
