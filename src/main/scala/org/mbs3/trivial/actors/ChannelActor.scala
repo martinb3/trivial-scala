@@ -6,35 +6,30 @@ import slack.rtm.SlackRtmClient
 import slack.models._
 import org.mbs3.trivial.game._
 import slack.api.BlockingSlackApiClient
+import org.mbs3.trivial.ChannelContext
 
-class ChannelActor(client: SlackRtmClient, channelId: String, debug: Boolean) extends Actor with ActorLogging {
+class ChannelActor(channelContext: ChannelContext) extends Actor with ActorLogging {
   import context._
 
   override def preStart() = system.scheduler.scheduleOnce(500 millis, self, "tick")
   override def postRestart(reason: Throwable) = {}
   
-  val gameManager = new GameManager(client, channelId, debug) 
+  val channelManager = new ChannelManager(channelContext)
     
   def receive = {
     case "terminate" => context.stop(self)
     case "tick" => {
-      gameManager.tick
+      channelManager.tick
       var tickSpeed : FiniteDuration = null 
       
-      if(gameManager.isInGame) {
-        // tick fast if we're a game going
-        tickSpeed = 1000 millis
-      }
-      else {
-        // tick slow otherwise
-        tickSpeed = 8*1000 millis
-      } 
-      
+      // tick fast
+      tickSpeed = 1000 millis
+
       system.scheduler.scheduleOnce(tickSpeed, self, "tick")
       
     }
     // did we get an answer to the question?
-    case m: Message => gameManager.message(m)
-    case _ => log.warning("Channel! Unknown message received in {}", channelId)
+    case m: Message => channelManager.message(m)
+    case _ => log.warning("Channel! Unknown message received in {}", channelContext.channelId)
   }
 }

@@ -10,13 +10,16 @@ import java.util.concurrent.ConcurrentHashMap
 import java.util.concurrent.ConcurrentSkipListSet
 import akka.actor.ActorLogging
 import slack.api.BlockingSlackApiClient
+import org.mbs3.trivial.ChannelContext
+import org.mbs3.trivial.GlobalContext
 
-class ChannelManager(client: SlackRtmClient, debug: Boolean) extends Actor with ActorLogging {
+class ChannelRouter(val globalContext: GlobalContext) extends Actor with ActorLogging {
   import context._
 
   val ignoredChannelIds = new ConcurrentSkipListSet[String] 
   val channelMap = new ConcurrentHashMap[String, ActorRef]
     
+  def client = globalContext.client
   override def postRestart(reason: Throwable) = {}
     
   def receive = {
@@ -31,7 +34,12 @@ class ChannelManager(client: SlackRtmClient, debug: Boolean) extends Actor with 
          log.info("Hello! creating actor for {} ({})", channel.name, channel.id)
           channelMap.put(
               channel.id, 
-              system.actorOf(Props(classOf[ChannelActor], client, channel.id, debug), channel.id)
+              system.actorOf(
+                   Props(
+                       classOf[ChannelActor], 
+                       new ChannelContext(globalContext, channel.id)
+                       ),
+                    channel.id)
           )
         }
     }
@@ -51,7 +59,7 @@ class ChannelManager(client: SlackRtmClient, debug: Boolean) extends Actor with 
     case m: ChannelJoined if !ignoredChannelIds.contains(m.channel.id) => {
       log.info("Joined channel {}", m.channel)
       val channel = m.channel
-      val ref = system.actorOf(Props(classOf[ChannelActor], client, channel.id, debug), channel.id)
+      val ref = system.actorOf(Props(classOf[ChannelActor], new ChannelContext(globalContext, channel.id),  channel.id), channel.id)
       channelMap.put(channel.id, ref)
     }
     
@@ -59,10 +67,7 @@ class ChannelManager(client: SlackRtmClient, debug: Boolean) extends Actor with 
     case m: Message if channelMap.containsKey(m.channel) && m.user != client.state.self.id => {
       channelMap.get(m.channel) ! m
     }
-    case m: Message if m.text.toLowerCase().equals("ping") && m.user != client.state.self.id => {
-      client.sendMessage(m.channel, "PONG")
-    }
-    case m: SlackEvent => if(debug) { log.info(m.toString()) } else { log.debug("SlackEvent! " + m) }
+    case m: SlackEvent => if(globalContext.debug) { log.info(m.toString()) } else { log.debug("SlackEvent! " + m) }
     case _ => log.info("Other! Message received")
   }
  

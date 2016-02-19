@@ -23,12 +23,13 @@ object Main {
     val debug = conf.getBoolean("trivial.debug")
     
     implicit val system = ActorSystem("org_mbs3_trivial")
-    val client = SlackRtmClient(token, 15 seconds)
+    val client = SlackRtmClient(token, 30 seconds)
     val selfId = client.state.self.id
     
-    val channelManager = system.actorOf(Props(classOf[ChannelManager], client, debug), "ChannelManager")
-    system.actorOf(Props(classOf[Terminator], channelManager, client), "terminator")
-    client.addEventListener(channelManager)
+    val globalContext = new GlobalContext(client, debug)
+    val channelRouter = system.actorOf(Props(classOf[ChannelRouter], globalContext), "ChannelRouter")
+    system.actorOf(Props(classOf[Terminator], channelRouter, client), "terminator")
+    client.addEventListener(channelRouter)
   }
 
   class Terminator(ref: ActorRef, client: SlackRtmClient) extends Actor with ActorLogging {

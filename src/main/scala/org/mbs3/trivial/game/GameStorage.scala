@@ -1,13 +1,29 @@
 package org.mbs3.trivial.game
 
+
 import scala.io.Source
 import scala.collection.mutable.HashMap
+import scala.collection.immutable.List
 import org.json4s._
 import org.json4s.native.JsonMethods._
+import scala.collection.mutable.ArrayBuffer
+import java.util.ArrayList
 
 object GameStorage {
 
   import org.json4s.DefaultFormats
+
+  def list(offset: Integer): List[Game] = {
+    List.empty[Game]
+  }
+
+  def search(token: String, offset: Integer): List[Game] = {
+    List.empty[Game]
+  }
+
+  def fromUrl(url: String): Game = {
+    new Game("unknown", List.empty[Question], new HashMap[String,Float])
+  }
 
   def fromFile(path: String): Game = {
 

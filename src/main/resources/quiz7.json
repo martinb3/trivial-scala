@@ -1,0 +1,112 @@
+{
+  "title": "t' lac ttac im",
+  "ref": "",
+  "order": "seq",
+  "questions" : [
+    {
+      "type": "image",
+      "text": "http://i.imgur.com/jDHBUE3.jpg",
+      "answer": [ "Band of Brothers"],
+      "explanation": "The story of Easy Company of the US Army 101st Airborne division and their mission in WWII Europe from Operation Overlord through V-J Day.",
+      "points": 1
+    },
+    {
+      "type": "simple",
+      "text": "Five hundred years in the future, a renegade crew aboard a small spacecraft tries to survive as they travel the unknown parts of the galaxy and evade warring factions as well as authority agents out to get them.",
+      "answer": [ "Firefly"],
+      "explanation": "http://i.imgur.com/bxw0zoJ.jpg",
+      "points": 1
+    },
+    {
+      "type": "image",
+      "text": "http://i.imgur.com/AdWq1Cc.jpg",
+      "answer": [ "Planet Earth "],
+      "explanation": "Emmy Award-winning, 11 episodes, 5 years in the making, the most expensive nature documentary series ever commissioned by the BBC, and the first to be filmed in high definition.",
+      "points": 2
+    },
+    {
+      "type": "simple",
+      "text": "An anthology series in which police investigations unearth the personal and professional secrets of those involved, both within and outside the law.",
+      "answer": [ "True Detective"],
+      "explanation": "http://i.imgur.com/z1MSuqF.jpg",
+      "points": 2
+    },
+    {
+      "type": "image",
+      "text": "http://i.imgur.com/7NYp2hG.jpg",
+      "answer": [ "Breaking Bad "],
+      "explanation": "A chemistry teacher diagnosed with terminal lung cancer teams up with his former student to cook and sell crystal meth.",
+      "points": 5
+    },
+    {
+      "type": "simple",
+      "text": "At International Secret Intelligence Service no one ever shuts up. Covert black ops and espionage take a back seat to zany personalities and intricate relationships between the agents and drones.",
+      "answer": [ "Archer"],
+      "explanation": "http://i.imgur.com/HA3DijC.jpg",
+      "points": 5
+    },
+    {
+      "type": "image",
+      "text": "http://i.imgur.com/15WlpMN.jpg",
+      "answer": [ "Game of Thrones"],
+      "explanation": "While a civil war brews between several noble families in Westeros, the children of the former rulers of the land attempt to rise up to power. Meanwhile a forgotten race, bent on destruction, return after thousands of years in the North.",
+      "points": 5
+    },
+    {
+      "type": "simple",
+      "text": "A pizza guy is accidentally frozen in 1999 and thawed out New Year's Eve 2999.",
+      "answer": [ "Futurama"],
+      "explanation": "http://i.imgur.com/F9wL2to.jpg",
+      "points": 7
+    },
+    {
+      "type": "image",
+      "text": "http://i.imgur.com/nkgFmxc.jpg",
+      "answer": [ "Rick and Morty"],
+      "explanation": "An animated series that follows the exploits of a super scientist and his not so bright grandson.",
+      "points": 7
+    },
+    {
+      "type": "simple",
+      "text": "A daffy woman constantly strives to become a star along with her bandleader husband and gets herself in the strangest situations.",
+      "answer": [ "I Love Lucy"],
+      "explanation": "http://i.imgur.com/3EpSfIL.jpg",
+      "points": 7
+    },
+    {
+      "type": "image",
+      "text": "http://i.imgur.com/S48B3Q0.jpg",
+      "answer": [ "The Twilight Zone"],
+      "explanation": "Ordinary people find themselves in extraordinarily astounding situations, which they each try to solve in a remarkable manner.",
+      "points": 11
+    },
+    {
+      "type": "simple",
+      "text": "A series chronicling the daily activities of an unusual prison facility and its criminal inhabitants.",
+      "answer": [ "Oz"],
+      "explanation": "http://i.imgur.com/FsY0C7M.jpg",
+      "points": 11
+    },
+    {
+      "type": "image",
+      "text": "http://i.imgur.com/7Igekve.jpg",
+      "answer": [ "Friends"],
+      "explanation": "Follows the lives of six 20-something friends living in Manhattan.",
+      "points": 13
+    },
+    {
+      "type": "simple",
+      "text": "A drama centering around the relationship between a thirtysomething single mother and her teen daughter.",
+      "answer": [ "Gilmore Girls"],
+      "explanation": "http://i.imgur.com/GyiIOAn.jpg",
+      "points": 13
+    },
+    {
+      "type": "image",
+      "text": "http://i.imgur.com/cULSmqp.jpg",
+      "answer": [ "Six Feet Under "],
+      "explanation": "A drama series that takes a darkly comical look at members of a dysfunctional California family that runs an independent funeral home.",
+      "points": 15
+    }
+  ]
+}

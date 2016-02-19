@@ -1,0 +1,147 @@
+{
+  "title": "The game that happens every Friday at 3pm CST",
+  "ref": "",
+  "order": "seq",
+  "questions" : [
+    {
+      "type": "simple",
+      "text": "A frontiersman on a fur trading expedition in the 1820s fights for survival after being mauled by a bear and left for dead by members of his own hunting team.",
+      "answer": [ "The Revenant"],
+      "explanation": "http://assets.rollingstone.com/assets/2015/moviereview/the-revenant-20151222/221691/medium_rect/1450713022/720x405-the-revenant-DF-02339R_rgb.jpg",
+      "points": 1
+    },
+    {
+      "type": "simple",
+      "text": "In the dead of a Wyoming winter, a bounty hunter and his prisoner find shelter in a cabin currently inhabited by a collection of nefarious characters.",
+      "answer": [ "The Hateful Eight"],
+      "explanation": "http://thefilmstage.com/wp-content/uploads/2015/12/The-Hateful-Eight-banner-620x467.jpg",
+      "points": 1
+    },
+    {
+      "type": "simple",
+      "text": "A teenager with teleportation abilities suddenly finds himself in the middle of an ancient war between those like him and their sworn annihilators.",
+      "answer": [ "Jumper"],
+      "explanation": "http://images-cdn.moviepilot.com/images/c_fill,h_357,w_550/t_mp_quality/zm4l8ecb7oedi03cihlp/3-reasons-why-jumper-2-should-definitely-happen-491402.jpg",
+      "points": 2
+    },
+    {
+      "type": "simple",
+      "text": "A new kid must find a guy to date the meanest girl in school, the older sister of the girl he has a crush on, who cannot date until her older sister does.",
+      "answer": [ "10 Things I Hate About You"],
+      "explanation": "http://images2.fanpop.com/image/photos/10300000/10-things-I-hate-about-you-10-things-i-hate-about-you-10317856-500-281.jpg",
+      "points": 2
+    },
+    {
+      "type": "simple",
+      "text": "A down and out cynical detective teams up with a down and out ex-quarterback to try and solve a murder case involving a pro football team and a politician.",
+      "answer": [ "The Last Boy Scout"],
+      "explanation": "http://hdmoviespoint.com/wp-content/uploads/2015/04/The-Last-Boy-Scout-Full-Movie-720p-HD-Free-Download.jpg",
+      "points": 3
+    },
+    {
+      "type": "simple",
+      "text": "α яετιяεδ ςια αgεητ τяαvεℓs αςяοss εμяορε αηδ яεℓιεs οη нιs οℓδ sκιℓℓs το sαvε нιs εsτяαηgεδ δαμgнτεя, ωнο нαs βεεη κιδηαρρεδ ωнιℓε οη α τяιρ το ραяιs.",
+      "answer": [ "Taken"],
+      "explanation": "https://images-na.ssl-images-amazon.com/images/G/01/dvd/fox/taken/Taken_1L.jpg",
+      "points": 3
+    },
+    {
+      "type": "simple",
+      "text": "αƒτεя α sιмρℓε jεωεℓεяλ нειsτ gοεs τεяяιβℓλ ωяοηg, τнε sμяvιvιηg ςяιмιηαℓs βεgιη το sμsρεςτ τнατ οηε οƒ τнεм ιs α ροℓιςε ιηƒοямαητ.",
+      "answer": [ "Reservoir Dogs"],
+      "explanation": "http://sadieraeandco.com/wp-content/uploads/2013/10/reservoir-dogs-1992-01.jpg",
+      "points": 7
+    },
+    {
+      "type": "simple",
+      "text": "α мαη ιs αςςιδεηταℓℓλ τяαηsροяτεδ το 1300 α.δ., ωнεяε нε мμsτ βαττℓε αη αямλ οƒ τнε δεαδ αηδ яετяιεvε τнε ηεςяοηοмιςοη sο нε ςαη яετμяη нοмε.",
+      "answer": [ "Army of Darkness"],
+      "explanation": "http://screenrant.com/wp-content/uploads/Bruce-Campbell-in-Army-of-Darkness-2.jpg",
+      "points": 7
+    },
+    {
+      "type": "simple",
+      "text": "τωο ςορs αяε ƒяαмεδ αηδ мμsτ ςℓεαя τнειя ηαмεs.",
+      "answer": [ "Tango & Cash", "Tango and Cash"],
+      "explanation": "http://static.comicvine.com/uploads/original/11116/111167398/4270719-tango-and-cash.jpg",
+      "points": 13
+    },
+    {
+      "type": "simple",
+      "text": "διsgяαςεδ ƒοямεя ρяεsιδεητιαℓ gμαяδ ƒιηδs нιмsεℓƒ τяαρρεδ ιηsιδε τнε ωнιτε нομsε ιη τнε ωακε οƒ α τεяяοяιsτ ατταςκ; μsιηg нιs ιηsιδε κηοωℓεδgε, нε ωοяκs ωιτн ηατιοηαℓ sεςμяιτλ το яεsςμε τнε ρяεsιδεητ ƒяοм нιs κιδηαρρεяs.",
+      "answer": [ "Olympus Has Fallen"],
+      "explanation": "http://screencrush.com/442/files/2013/03/white_house_down_olympus_has_fallen_threats.jpg?w=630&cdnnode=1",
+      "points": 13
+    },
+    {
+      "type": "simple",
+      "text": "Ⓐ ⓕⓐⓣⓗⓔⓡ ⓥⓞⓦⓢ ⓣⓞ ⓖⓔⓣ ⓗⓘⓢ ⓢⓞⓝ ⓐⓝ ⓐⓒⓣⓘⓞⓝ ⓕⓘⓖⓤⓡⓔ ⓕⓞⓡ Ⓒⓗⓡⓘⓢⓣⓜⓐⓢ, ⓗⓞⓦⓔⓥⓔⓡ, ⓔⓥⓔⓡⓨ ⓢⓣⓞⓡⓔ ⓘⓢ ⓢⓞⓛⓓ ⓞⓤⓣ ⓞⓕ ⓣⓗⓔⓜ, ⓐⓝⓓ ⓗⓔ ⓜⓤⓢⓣ ⓣⓡⓐⓥⓔⓛ ⓐⓛⓛ ⓞⓥⓔⓡ ⓣⓞⓦⓝ ⓐⓝⓓ ⓒⓞⓜⓟⓔⓣⓔ ⓦⓘⓣⓗ ⓔⓥⓔⓡⓨⓑⓞⓓⓨ ⓔⓛⓢⓔ ⓘⓝ ⓞⓡⓓⓔⓡ ⓣⓞ ⓕⓘⓝⓓ ⓞⓝⓔ.",
+      "answer": [ "Jingle All the Way"],
+      "explanation": "https://playitagaindan.files.wordpress.com/2015/12/customers.gif",
+      "points": 15
+    },
+    {
+      "type": "simple",
+      "text": "Ⓐ ⓡⓔⓙⓔⓒⓣⓔⓓ ⓗⓞⓒⓚⓔⓨ ⓟⓛⓐⓨⓔⓡ ⓟⓤⓣⓢ ⓗⓘⓢ ⓢⓚⓘⓛⓛⓢ ⓣⓞ ⓣⓗⓔ ⓖⓞⓛⓕ ⓒⓞⓤⓡⓢⓔ ⓣⓞ ⓢⓐⓥⓔ ⓗⓘⓢ ⓖⓡⓐⓝⓓⓜⓞⓣⓗⓔⓡ'ⓢ ⓗⓞⓤⓢⓔ.",
+      "answer": [ "Happy Gilmore "],
+      "explanation": "https://giant.gfycat.com/CoordinatedHonorableAztecant.gif",
+      "points": 15
+    },
+    {
+      "type": "simple",
+      "text": "Ⓐ ⓣⓞⓤⓖⓗ ⓑⓞⓤⓝⓒⓔⓡ ⓘⓢ ⓗⓘⓡⓔⓓ ⓣⓞ ⓣⓐⓜⓔ ⓐ ⓓⓘⓡⓣⓨ ⓑⓐⓡ.",
+      "answer": [ "Road House"],
+      "explanation": "http://www.hot1061.com/wp-content/uploads/2015/09/Patrick-Swayze.gif",
+      "points": 15
+    },
+    {
+      "type": "simple",
+      "text": "Ⓐ ⓨⓞⓤⓝⓖ ⓗⓞⓣ-ⓢⓗⓞⓣ ⓢⓣⓞⓒⓚ ⓒⓐⓡ ⓓⓡⓘⓥⓔⓡ ⓖⓔⓣⓢ ⓗⓘⓢ ⓒⓗⓐⓝⓒⓔ ⓣⓞ ⓒⓞⓜⓟⓔⓣⓔ ⓐⓣ ⓣⓗⓔ ⓣⓞⓟ ⓛⓔⓥⓔⓛ.",
+      "answer": [ "Days of Thunder"],
+      "explanation": "http://share.gifyoutube.com/vOAqxl.gif",
+      "points": 15
+    },
+    {
+      "type": "simple",
+      "text": "Ⓐ ⓜⓐⓝ ⓘⓢ ⓗⓘⓡⓔⓓ ⓞⓝ ⓣⓞ ⓡⓤⓝ ⓐ ⓣⓡⓐⓒⓣⓞⓡ ⓣⓡⓐⓘⓛⓔⓡ ⓕⓤⓛⓛ ⓞⓕ ⓑⓔⓔⓡ ⓞⓥⓔⓡ ⓒⓞⓤⓝⓣⓨ ⓛⓘⓝⓔⓢ ⓘⓝ ⓗⓞⓣ ⓟⓤⓡⓢⓤⓘⓣ ⓑⓨ ⓐ ⓟⓔⓢⓚⓨ ⓢⓗⓔⓡⓘⓕⓕ.",
+      "answer": [ "Smokey and the Bandit"],
+      "explanation": "https://s.yimg.com/ny/api/res/1.2/ywfktdJS7vBEy_YvVVZ_tg--/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9NDgwO2g9Mjcw/http://media.zenfs.com/en-US/blogs/movietalk/8caae08e-0555-46c3-907f-0e5278ec0594_smokeybanditgif2.gif",
+      "points": 21
+    },
+    {
+      "type": "simple",
+      "text": "tw0 str33twis3 c0ps bust criminals in th3ir r3d-and-whit3 f0rd t0rin0 with th3 h3lp 0f p0lic3 snitch call3d huggy b3ar.",
+      "answer": [ "Starsky & Hutch", "Starsky and Hutch"],
+      "explanation": "http://i.imgur.com/zHXOCWU.gif",
+      "points": 21
+    },
+    {
+      "type": "simple",
+      "text": "a r3tir3d mast3r car thi3f must c0m3 back t0 th3 industry and st3al 50 cars with his cr3w in 0n3 night t0 sav3 his br0th3r's lif3.",
+      "answer": [ "Gone in Sixty Seconds"],
+      "explanation": "http://stream1.gifsoup.com/view6/4648129/eleanor-o.gif",
+      "points": 21
+    },
+    {
+      "type": "simple",
+      "text": "l0s 4ng3l3s p0lic3 0ffic3r must d3cid3 wh3r3 his l0y4lti3s r34lly li3 wh3n h3 b3c0m3s 3n4m0r3d with th3 str33t r4cing w0rld h3 h4s b33n s3nt und3rc0v3r t0 d3str0y.",
+      "answer": [ "The Fast and the Furious"],
+      "explanation": "http://www.etonline.com/movies/2015/04/24142434/GIF_the_fast_and_furious_charger_flip.gif",
+      "points": 21
+    },
+    {
+      "type": "simple",
+      "text": "in 4 s3lf-d3structing w0rld, 4 v3ng3ful 4ustr4li4n p0lic3m4n s3ts 0ut t0 st0p 4 vi0l3nt m0t0rcycl3 g4ng.",
+      "answer": [ "Mad Max"],
+      "explanation": "http://www.etonline.com/movies/2015/03/24141223/GIF_MAD_MAX_8_STRAPPED.gif",
+      "points": 25
+    },
+    {
+      "type": "simple",
+      "text": "#1 n45c4r driv3r 5t4y5 4t0p th3 h34p th4nk5 t0 4 p4ct with hi5 b35t fri3nd 4nd t34mm4t3. but wh3n 4 fr3nch f0rmul4 0n3 driv3r, m4k35 hi5 w4y up th3 l4dd3r,hi5 t4l3nt 4nd d3v0ti0n 4r3 put t0 th3 t35t.",
+      "answer": [ "Talladega Nights: The Ballad of Ricky Bobby", "Talladega Nights The Ballad of Ricky Bobby"],
+      "explanation": "https://media.giphy.com/media/qr0FOwPgUk3Cw/giphy.gif",
+      "points": 30
+    }
+  ]
+}

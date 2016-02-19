@@ -6,3 +6,4 @@ target
 application.conf
 **/application.conf
 .settings
+envfile
