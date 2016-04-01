@@ -230,7 +230,7 @@
         {
             "type": "image",
             "text": "http://proxy.topixcdn.com/ipicimg/HPJ7BU05J9EAU2CU-fram810x414x810x414",
-            "answer": ["Selena Quintanilla-Perez", "Selena Quintanilla-Pérez"],
+            "answer": ["Selena", "Selena Quintanilla-Perez", "Selena Quintanilla-Pérez"],
             "explanation": "Selena Quintanilla-Pérez was an American singer, songwriter, spokesperson, actress, and fashion designer. Called the Queen of Tejano music, her contributions to music and fashion made her one of the most celebrated Mexican-American entertainers of the late 20th century. Billboard magazine named her the 'top Latin artist of the 1990s', the 'best selling Latin artist of the decade'. She was called the 'Tejano Madonna' for her clothing choices, by media outlets. She also ranks among the most influential Latin artists of all-time and is credited for catapulting a music genre into mainstream.",
             "points": 5
         },

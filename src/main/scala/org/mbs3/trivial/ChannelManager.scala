@@ -177,9 +177,14 @@ class ChannelManager(val channelContext: ChannelContext) {
   }
 
   def handleNoAnswerTimeout: ChannelState = {
-
+    val q = game.currentQuestion.get
     client.sendMessage(channelId, msg("TIMEOUT"))
-    client.sendMessage(channelId, msg("MISSED_ANSWER", game.currentQuestion.get.possibleAnswers()).trim())
+    
+    if(q.explanation != null)
+      client.sendMessage(channelId, msg("MISSED_ANSWER_EXPLANATION", game.currentQuestion.get.possibleAnswers(), q.explanation).trim())
+    else
+      client.sendMessage(channelId, msg("MISSED_ANSWER", game.currentQuestion.get.possibleAnswers()).trim())
+    
     return QuestionWait
   }
 

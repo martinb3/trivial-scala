@@ -8,11 +8,13 @@ import org.json4s._
 import org.json4s.native.JsonMethods._
 import scala.collection.mutable.ArrayBuffer
 import java.util.ArrayList
+import scala.util.Random
 
 object GameStorage {
 
   import org.json4s.DefaultFormats
 
+  import scala.util.Try
   def list(offset: Integer): List[Game] = {
     List.empty[Game]
   }
@@ -37,12 +39,13 @@ object GameStorage {
     val jsonAst = parse(lines)
 
     implicit val formats = DefaultFormats
-    val title = (jsonAst \ "title").extract[String]
-    val ref = (jsonAst \ "ref").extract[String]
-    val order = (jsonAst \ "order").extract[String]
+    val title = (jsonAst \ "title").extractOrElse[String]("unknown")
+    val ref = (jsonAst \ "ref").extractOrElse[String]("")
+    val order = (jsonAst \ "order").extractOrElse[String]("")
+    val subset = (jsonAst \ "subset").extractOrElse[String]("")
 
     val questionJson = (jsonAst \ "questions")
-    val questionList = questionJson.children.map { q =>
+    var questionList = questionJson.children.map { q =>
 
        val fPoints = (q \ "points")
        val points = fPoints.extractOrElse[Float](1.0f)
@@ -55,6 +58,22 @@ object GameStorage {
        val answer = fAnswer.extract[List[String]]
 
        new Question(qtype, points, text, answer, explanation)
+    }
+    
+    if(order == "rand") {
+      questionList = Random.shuffle(questionList)
+    }
+    
+    // handle subset
+    if (subset != "") {
+      try {
+        val s = Integer.parseInt(subset)
+        if(questionList.length > s) {
+          questionList = questionList.take(s)
+        }
+      } catch { 
+        case _ : Throwable => ; 
+      }
     }
 
     val g = new Game(title, questionList, new HashMap[String,Float])

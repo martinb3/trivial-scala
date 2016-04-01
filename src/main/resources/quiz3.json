@@ -35,7 +35,7 @@
     {
       "type": "image",
       "text": "http://imgur.com/8dR4osc.gif",
-      "answer": [ "III Part Future the to Back"],
+      "answer": [ "III Part Future the to Back", "3 Part Future the to Back", "3 Future the to Back"],
       "explanation": "",
       "points": 4
     },
@@ -77,7 +77,7 @@
     {
       "type": "image",
       "text": "http://imgur.com/x4Ieyja.gif",
-      "answer": [ "II Part Future the to Back"],
+      "answer": [ "II Part Future the to Back", "2 Part Future the to Back", "2 Future the to Back"],
       "explanation": "After visiting 2015, Marty McFly must repeat his visit to 1955 to prevent disastrous changes to 1985... without interfering with his first trip.",
       "points": 10
     }

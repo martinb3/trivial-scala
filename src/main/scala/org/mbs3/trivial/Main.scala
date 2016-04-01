@@ -14,13 +14,12 @@ import scala.concurrent.duration._
 
 object Main {
 
-  def main(args: Array[String]): Unit = {
-    // do this to be sure the game is loadable
-    Game.find.questionList
-    
+  def main(args: Array[String]): Unit = {    
     val conf = ConfigFactory.load()
     val token = conf.getString("trivial.slack_token")
-    val debug = conf.getBoolean("trivial.debug")
+    val debug = false // conf.getBoolean("trivial.debug")
+    
+    // Game.find("food")
     
     implicit val system = ActorSystem("org_mbs3_trivial")
     val client = SlackRtmClient(token, 30 seconds)

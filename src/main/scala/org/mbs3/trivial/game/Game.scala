@@ -4,9 +4,6 @@ import scala.collection.mutable._
 
 class Game(val title: String, val questionList: List[Question], val scores: Map[String,Float]) {
 
-  // val questionList = new ArrayBuffer[Question]
-  // val scores = new HashMap[String,Float]
-
   var index = -1
 
   def advance : Question = {
@@ -26,5 +23,10 @@ class Game(val title: String, val questionList: List[Question], val scores: Map[
 }
 
 object Game {
-  def find : Game = GameStorage.fromFile("quiz8.json")
+  def find(token:String) : Game = GameStorage.fromFile(token+".json")
+  def empty() : Game = {
+    val questionList : List[Question] = Nil
+    val scores = new HashMap[String,Float]
+    new Game("", questionList, scores)
+  }
 }
