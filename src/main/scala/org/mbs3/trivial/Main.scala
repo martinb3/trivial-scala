@@ -11,6 +11,8 @@ import slack.api.SlackApiClient
 import slack.api.BlockingSlackApiClient
 import java.util.Properties
 import scala.concurrent.duration._
+import com.typesafe.akka.extension.quartz.QuartzSchedulerExtension
+import slack.models.Message
 
 object Main {
 
@@ -22,13 +24,33 @@ object Main {
     // Game.find("food")
     
     implicit val system = ActorSystem("org_mbs3_trivial")
-    val client = SlackRtmClient(token, 30 seconds)
+    val client = SlackRtmClient(token, 60 seconds)
     val selfId = client.state.self.id
     
     val globalContext = new GlobalContext(client, debug)
     val channelRouter = system.actorOf(Props(classOf[ChannelRouter], globalContext), "ChannelRouter")
     system.actorOf(Props(classOf[Terminator], channelRouter, client), "terminator")
     client.addEventListener(channelRouter)
+    
+   val m = Message("", "", "", "", None)
+/*  ts: String,
+  channel: String,
+  user: String,
+  text: String,
+  is_starred: Option[Boolean]
+) extends SlackEvent */
+    
+    val scheduler = QuartzSchedulerExtension(system)
+    scheduler.createSchedule(
+        "GameStarter", 
+        None,
+        // Seconds, Minutes, Hours, DoM, Month, DoW
+        "0 * * ? * *", 
+        None, 
+        java.util.TimeZone.getTimeZone("America/New_York")
+     )
+     scheduler.schedule("GameStarter", channelRouter, "#ABC")
+    
   }
 
   class Terminator(ref: ActorRef, client: SlackRtmClient) extends Actor with ActorLogging {
