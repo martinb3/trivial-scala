@@ -1,20 +1,27 @@
-Movies: She won an Oscar in the lead role in 'Erin Brokovich' the movie?*Julia Roberts
-Movies: These two brothers played the title roles in the 1990 movie 'The Krays'?*Gary & Martin Kemp
-Movies: Line from which movie - 'Just when you thought it was safe to go back in the water'?*Jaws 2
-Movies: What was the name for Tom Hanks volleyball companion in the movie 'Cast Away'?*Wilson
-Movies: This gangster was nicknamed 'Scarface'?*Al Capone
-Movies: In which film did Bill Murray drive an ectomobile?*Ghostbusters
-Movies: In which movie did Sharon Stone famously uncross her legs?*Basic Instinct
-Movies: In this 1990's movie you would associate the song 'Unchained Melody'?*Ghost
-Movies: In 'Shrek' who played the voice of Donkey!?*Eddie Murphy
-Movies: The murder weapon in the movie Basic Instinct was what?*Ice pick
-Movies: Name that movie quote - 'In space no'one can hear you scream'?*Alien
-Movies: Name that movie quote - 'It's been 84 years and I can still smell the fresh paint'?*Titanic
-Movies: In 'The Adams Family' what was the name of the hand?*Thing
-Movies: The first Bond girl was who?*Ursula Andress
-Movies: Who was the director of Psycho?*Hitchcock
-Movies - Quote: "Just when you thought it was safe to go back in the water...,"*Jaws
-Movies: Patrick Swayze played Johnny Castle in this movie?*Dirty Dancing
-Movies: Roald Dahl's Chocolate Factory was owned by whom?*Willy Wonka
-Movies: What Character said "I'll be back"*The Terminator
-Movies: What does 'Rizzo tell 'Kenickie she isn't at the end of the movie Grease?*Pregnant 
+{
+"title": "Horsing Around",
+"order": "rand",
+"subset": "25",
+"questions" : [
+
+{ "text": "She won an Oscar in the lead role in 'Erin Brokovich' the movie?", "answer": [ "Julia Roberts" ] },
+{ "text": "These two brothers played the title roles in the 1990 movie 'The Krays'?", "answer": [ "Gary & Martin Kemp" ] },
+{ "text": "Line from which movie - 'Just when you thought it was safe to go back in the water'?", "answer": [ "Jaws 2" ] },
+{ "text": "What was the name for Tom Hanks volleyball companion in the movie 'Cast Away'?", "answer": [ "Wilson" ] },
+{ "text": "This gangster was nicknamed 'Scarface'?", "answer": [ "Al Capone" ] },
+{ "text": "In which film did Bill Murray drive an ectomobile?", "answer": [ "Ghostbusters" ] },
+{ "text": "In which movie did Sharon Stone famously uncross her legs?", "answer": [ "Basic Instinct" ] },
+{ "text": "In this 1990's movie you would associate the song 'Unchained Melody'?", "answer": [ "Ghost" ] },
+{ "text": "In 'Shrek' who played the voice of Donkey!?", "answer": [ "Eddie Murphy" ] },
+{ "text": "The murder weapon in the movie Basic Instinct was what?", "answer": [ "Ice pick" ] },
+{ "text": "Name that movie quote - 'In space no'one can hear you scream'?", "answer": [ "Alien" ] },
+{ "text": "Name that movie quote - 'It's been 84 years and I can still smell the fresh paint'?", "answer": [ "Titanic" ] },
+{ "text": "In 'The Adams Family' what was the name of the hand?", "answer": [ "Thing" ] },
+{ "text": "The first Bond girl was who?", "answer": [ "Ursula Andress" ] },
+{ "text": "Who was the director of Psycho?", "answer": [ "Hitchcock" ] },
+{ "text": "Just when you thought it was safe to go back in the water...", "answer": [ "Jaws" ] },
+{ "text": "Patrick Swayze played Johnny Castle in this movie?", "answer": [ "Dirty Dancing" ] },
+{ "text": "Roald Dahl's Chocolate Factory was owned by whom?", "answer": [ "Willy Wonka" ] },
+{ "text": "What Character said 'I'll be back'", "answer": [ "The Terminator" ] },
+{ "text": "What does 'Rizzo tell 'Kenickie she isn't at the end of the movie Grease?", "answer": [ "Pregnant " ] }
+]}

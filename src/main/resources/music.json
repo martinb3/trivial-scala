@@ -1,304 +1,300 @@
-Name the artist
+{
+"title": "Horsing Around",
+"order": "rand",
+"subset": "25",
+"questions" : [
 
-   Music - Name the artist: "Someday you may find me, caught beneath a landslide, in a champagne supernova"*Oasis
-   Music - Name the artist: "And who do you think you are? Runnin' 'round leaving scars"*Christina Perri
-   Music - Name the artist: "We just wanna make the world dance, Forget about the price tag"*Jessie J
-   Music - Name the artist: "I want your love, and all your love is revenge, You and me could write a bad romance"*Lady Gaga
-   Music - Name the artist: "Today I don't feel like doing anything, I just wanna lay in my bed"*Bruno Mars
-   Music - Name the artist: "We just now got the feeling that we're meeting, For the first time"*The Script
-   Music - Name the artist: "You're the pretender, What if I say that I'll never surrender?"*Foo Fighters
-   Music - Name the artist: "The innocent can never last, Wake me up when September ends"*Green Day
-   Music - Name the artist: "Ahhhh Girl look at that body, I work out, I'm sexy and I know it"*LMFAO
-   Music - Name the artist: "My breath smells of a thousand fags"*Robbie Williams
-   Music - Name the artist: "No, there's nothing that I wouldn't do, To make you feel my love"*Adele
-   Music - Name the artist: "Make me move like a freak, Mr. Saxobeat"*Alexandra Stan
-   Music - Name the artist: That don't impress me much' a hit in 1999?*Shania Twain
-
-Name the movie
-
-   Music - Name the movie: "When you wish upon a star"*Pinocchio
-   Music - Name the movie: "Staying Alive"*Saturday Night Fever
-   Music - Name the movie: "My Heart Will Go On"*Titanic
-   Music - Name the movie: "Unchained melody"*Ghost
-   Music - Name the movie: ".......... What A Feeling"*Flashdance
-   Music - Name the movie: "Streets Of Philadelphia"*Philadelphia
-   Music - Name the movie: "Summer Nights"*Grease
-   Music - Name the movie: "Up Where We Belong"*An Officer And A Gentleman
-   Music - Name the movie: "Do Re Mi"*The Sound Of Music
-   Music - Name the movie: "Hakuna Matata"*The Lion King
-   Music - Name the movie: "The Bear Necessities"*The Jungle Book
-
-Finish the lyrics
-
-   Music - Finish these lyrics: Queen - "Don't stop me now, I'm having such a good time, I'm..."*having a ball
-
-Other
-
-   Music: General music: Live and let die is a song by which artist?*Paul McCartney
-   Music: What was Barry Manilow's first No 1 single?*Mandy
-   Music: Who has accumulated the most UK and US top ten albums and grossed most income from foreign touring?*Rolling Stones
-   Music: Who teamed up with Barbra Streisand for tell Him?*Celine Dion
-   Music: Which group were fronted by Jon Bon Jovi?*Bon Jovi
-   Music: Which lady socked it to the Harper Valley PTA?*Jennie C Riley
-   Music: In which year did Al Stewart's Year Of The Cat make the charts?*1977
-   Music: Who was the first female with two UK million-selling singles?*Celine Dion
-   Music: Which Canadian-born artist was the biggest-selling singles artist tin the UK in 1991?*Bryan Adams
-   Music: Felix Cavaliere and Dino Danelli were in which group?*Rascals
-   Music: Which day of the week did the Mamas a & Papas sing about?*Monday
-   Music: Who was back in the Angels classic 60s NO 1?*My Boyfriend
-   Music: Who did Celine Dion support in his Canadian tour in 1991?*Michael Bolton
-   Music: What is the name of Whitney Houston's daughter named after the baby's father?*Bobbie
-   Music: Who teamed up with Paul McCartney for ebony and Ivory?*Stevie Wonder
-   Music: Were the Doobie Brothers actually brothers?*No
-   Music: In 1978 how many weeks at No 1 were taken up by the Gibb family?*28
-   Music: What was Taylor Dayne's first top ten hit?*Tell It To My Heart
-   Music: Who is Leslie Sebastian Charles in chart terms?*Billy Ocean
-   Music: What was the last No 1 in the 60s?*Someday We'll Be Together
-   Music: Who had a No 1 with Brand New Key?*Melanie
-   Music: Who had a 1994 No 1 with I Swear?*All-4-One
-   Music: Which UK guitarist co-produced Bob Dylan's album Infidels?*Mark Knopfler
-   Music: Which group wrote the songs for the movie Saturday Night Fever?*The Bee Gees
-   Music: Who was Saving All My Love For You?*Whitney Houston
-   Music: Who found himself Alone Again (Naturally)?*Gilbert O'Sullivan
-   Music: Manhattan Skyline and Open Sesame were on which album?*Saturday Night Fever
-   Music: 1996 was the year of long-staying hits. How manly No 1s were there?*Nine
-   Music: Who made NO 1 with Sledgehammer?*Peter Gabriel
-   Music: Which artist got Kangaroo in to the title of a top three hit?*Rolf Harris
-   Music: What word was used to describe Peggy March?*Little
-   Music: Which Barry had 70s chart success with Never Never Gonna Give You Up and Can't Get Enough Of Your Love Babe?*White
-   Music: On which Stevie Wonder album did he team up with Michael Jackson to sing Get It?*Characters
-   Music: Vision Of Love was the first British top ten hit for which female superstar?*Mariah Carey
-   Music: Under what name did Jefferson Airplane regroup at the top of the charts?*Starship
-   Music: Which No 1 began, "Sunshine came softly through my window today"?*Sunshine Superman
-   Music: Who recorded the album Stranger In Town?*Bob Serger
-   Music: To a year, when did Heart first have a top ten hit?*1976
-   Music: How is Leslie Wundermann better known?*Taylor Dayne
-   Music: Who sang I'm Leaving It Up To You with Dale?*Grace
-   Music: Which band recorded the album The Joshua Tree?*U2
-   Music: In the 70s who put a Message In A Bottle?*Police
-   Music: Which band had a big hit with You Make Me Wanna?*Usher
-   Music: Money For Nothing was an 80s NO 1 for which band?*Dire Straits
-   Music: Which Dimension had a 60s smash with Aquarius?*5th Dimension
-   Music: Which US Boys band featured three members of the Wilson Family?*The Beach Boys
-   Music: Keith Richards rocked on in which super group?*The Rolling Stones
-   Music: Who was backed by The Shondells?*Tommy James
-   Music: How many boys were there in The Pet Shop Boys?*Two
-   Music: Who fronted The Heartbreakers?*Tom Petty
-   Music: Which heavy metal group took the name of Dutch-born members guitarist Eddie and drummer Alex?*Van Halen
-   Music: Which 60s icon was backed by The Band?*Bob Dylan
-   Music: Which band included Phil Collins and Peter Gabriel?*Genesis
-   Music: Mickey Dolenz was in which 60s sensation group?*The Monkees
-   Music: In which state did Chicago get together?*Illinois
-   Music: Which band produced the album Dark Side Of The Moon?*Pink Floyd
-   Music: Which group flew into the Hotel California?*The Eagles
-   Music: R.E.M. cut the No 1 album Out Of what?*Time
-   Music: Which band recorded the album Parallel Lines?*Blondie
-   Music: Which band sang I want to Know What Love Is?*Foreigner
-   Music: How many brothers were in the original Jackson family line up?*Five
-   Music: Tusk was a best-selling album for which band?*Fleetwood Mac
-   Music: What did the letter O stand for in ELO?*Orchestra
-   Music: Whose hits include Bad Moon Rising and Green River?*Creedence Clearwater Revival
-   Music: Which all time great band featured Harrison and Starkey?*The Beatles
-   Music: This refers to chanted or spoken rhyming lyrics often used in hip hop music?*Rapping
-   Music: Which member of Take That shares his surname with a fruit?*Jason Orange
-   Music: What is the minimum number of musicians a band must have to be considered a "big band"?*Ten
-   Music: What musical instrument's sales escalated from 228,000 in 1950 to 2.3 million in 1971?*The guitar
-   Music: What 1976 chart-topping song did Barry Manilow sing, but not write?*I Write the Songs
-   Music: What does the Italian musical term adagio mean?*Slow
-   Music: Who was the top-selling album artist of the 1970's according to Billboard?*Elton John
-   Music: What's the only group to claim two of the top ten best-selling singles of the 1970's?*The Bee Gees
-   Music: Who was the first country artist to sell over 10 million copies of an album?*Garth Brooks
-   Music: What band is named after a scuplture in Seattle that hums in the wind?*Soundgarden
-   Music: What two Frank Sinatra hits were tops for U.S. karaoke singers in 1993?*New York, New York and My Way
-   Music: What stringed symphonic instrument has a pedestal and a crown?*The Harp
-   Music: What studio did the Beatles use to record 191 songs?*Abby Road
-   Music: What jazz musician got his nickname by shortening "Satchel Mouth"?*Louis Armstrong
-   Music: What jazz trumpeter was dubbed the "Prince of Darkness"?*Miles Davis
-   Music: What did Def Leppard drummer Rick Allen lose in a 1984 auto accident?*An arm
-   Music: What Southampton junior high school musical was cancelled in 1994 when Shinnecock Indians objected to the " Ug-a-wug" song?*Peter Pan
-   Music: What classical conductor won posthumous Grammy Awards in 1991, 1992, and 1993?*Leonard Bernstein
-   Music: Who's "Monk" to jazz buffs?*Thelonious Monk
-   Music: What California group waited 22 years to score their first chart-toping single since 1966?*The Beach Boys
-   Music: What city's opera house does " The Phantom of the Opera" prowl?&Paris
-   Music: Who scored his first platinum album since 1978 with " The Icon Is Love " in 1994?&Barry White
-   Music: What Michael Jackson album spawned five chart-topping singles?*Bad
-   Music: What trumpeter became the oldest person ever to score a chart-topping single, in 1964?*Louis Armstrong
-   Music: What rock star was trying to bite the head off a bat in concert when the bat decided to bite back?*Ozzy Osbourne
-   Music: What Shania Twain recording became the best-selling country music album ever by a female artist, in 1996?*The Woman in Me
-   Music: What patriotic song was originally titled "The Defense of Fort McHenry?*The Star Spangled Banner
-   Music: Who's waxed more gold and platinum albums than any other solo female artist?*Barbara Streisand
-   Music: What singer for a 70's British rock quartet changed his name from Frederick Bulsara?*Freddie Mercury
-   Music: What rock'n'roll singer is memorialized by a eight-foot bronze statue in Lubbock, Texas?*Buddy Holly
-   Music: What Woody Guthrie song goes "From California to the New York island / From the redwood forest to the Gulf Stream waters"?*This Land is Your Land
-   Music: What Pink Floyd song was banned by the South African government after it became an anthem for black school children?*Another Brick in the Wall
-   Music: What were the two most popular rock operas of 1969?*Hair and Tommy
-   Music: What are the two most common unbowed stringed instruments found in a symphony orchestra?*The Harp and the Piano
-   Music: What legendary soul singer wrecked his Corvette the first time he drove it?*Ray Charles
-   Music: What tenor received a record 165 curtain calls at a Berlin opera house in 1988?*Luciano Pavarotti
-   Music: What Beatles single lasted longest on the charts, at 19 weeks?*Hey Jude
-   Music: What Broadway musical revival did Lou Diamond Philips refuse to shave the top of his head for, in 1996?*The King and I
-   Music: Who appeared on the cover of Seventeen magazine before selling over 11 million copies of her debut album?*Whitney Houston
-   Music: Who'd never been farther east than Montana when he wrote Proud Mary?*John Fogarty
-   Music: What Kiss star sported the longest tongue in rock?*Gene Simmons
-   Music: What Rodgers and Hammerstein show is the most often-performed musical in U.S. high schools?*Oklahoma!
-   Music: What genre did Ice Cube define as "the network newscast black people never had"?*Rap
-   Music: What 1865 Wagner opera opens on a ship?*Tristan and Isolde
-   Music: What R&B vocal quartet titled its third album II in 1994?*Boyz II Men
-   Music: Who are the Three Tenors?*Jose Carreras, Placido Domingo, Luciano Pavarotti
-   Music: How many birthday candles were Cher, Dolly Parton and Sylivester Stallone each obliged to blow out in 1996?*Fifty
-   Music: What bankrupt Las Vegas crooner spent $75,000 to refurbish his pet penguins' pond?*Wayne Newton
-   Music: What hard-drinking country legend explains his bumpy life in the book I Lived to Tell It All?*George Jones
-   Music: Whose pop parody career includes the hits Addicted to Spuds, My Bologna and Eat It?*Wierd Al Yankovic's
-   Music: What bandleader became the first jazz musician to get an honorary degree from Columbia University, in 1973?*Duke Ellington
-   Music: What female singer scored 14 million-selling singles between 1967 and 1973?*Aretha Franklin
-   Music: Who was the first female artist to debut on the Billboard album chart at Number One?*Whitney Houston
-   Music: What was the nickname of jazzman John Birks Gillespie?*Dizzy
-   Music: Which of the inmates who heard Johnny Cash's 1958 San Quentin concert became the biggest country music star?*Merle Haggard
-   Music: What mother and child spent years in Nashville shopping demos they'd recorded on a $30 cassette recorder?*The Judds
-   Music: What 15-year-old rock icon-to-be was grounded for the whole summer after sneaking out to her first concert, to see David Bowie?*Madonna
-   Music: What Jackson actually had a million-selling LP called Let's Get Serious?*Jermaine Jackson
-   Music: What Sinatra signature tune became Elvis Presley's best-selling posthumous hit?*My Way
-   Music: What song-writing duo's hits made it to Broadway in the show Smokey Joe's Cafe?*Leiber and Stoller
-   Music: How many Grammy Awards did Lawrence Welk garner during his 50-year career?*Zero
-   Music: What jazz musician got his nickname by shortening "Satchel Mouth"?*Louis Armstrong
-   Music: What rocker Darius Rucker's stage name?*Hootie
-   Music: What British group got its name from the title of a 1950 Muddy Waters song?*The Rolling Stones
-   Music: Who was the youngest person to have a chart-topping solo single, in 1970?*Michael Jackson
-   Music: What German playwright penned the lyrics to Mack the Knife and Alabama Song?*Bertholt Brecht
-   Music: What's indicated by the word fine on a piece of sheet music?*The end
-   Music: What grungeless Seattle band's name is affectionately abbreviated "Pot USA"?*The Presidents of the United States
-   Music: What question ends the Ira Gershwin lines: "I got rhythm / I got music / I got my man..."?*Who could ask for anything more?
-   Music: What calypso singer founded the USA For Africa charity that recorded We Are the World?*Harry Belafonte
-   Music: What group's lead guitar player is known for his guitar amps with control knobs that go up to 11, "one more than 10"?*Spinal Tap
-   Music: What was the best-selling album named after a city, in the 1970s?*Boston
-   Music: What fellow Floridian did Jon Secada write and sing back-up for before going solo?*Gloria Estefan
-   Music: What song includes the lines: "I've lived a life that's full / I traveled each and ev'ry highway..."?*My Way
-   Music: What Beatles song advises: "One thing I can tell you is you got to be free"?*Come Together
-   Music: What TV host went gold with the CD Romantic Christmas?*John Tesh
-   Music: What seven words complete the Purple Haze line: "Actin' funny, but I don't know why"?*Scuse me while I kiss the sky
-   Music: Who adorned his last piano with 350 pounds of rhinestones?*Liberace
-   Music: What did Melissa Etheridge title her first album after coming out of the closet?*Yes I Am
-   Music: How many singles did Bruce Springsteen put atop Billboard charts in the 1980s?*Zero
-   Music: What crooner's mother warned him not to change his name to Frankie Satin?*Frank Snatra
-   Music: Who sold part of his ownership of Beatles songs to Sony for $95 million in 1995?*Michael Jackson
-   Music: Who's responsible for the LPs Shamrocks and Champagne, Bubbles in the Wine and Pick-a-Polka?*Lawrence Welk
-   Music: Who did Chuck Berry say "could play a guitar just like ringing a bell"?*Johnny B. Goode
-   Music: What classical conductor won posthumous Grammy Awards in 1991,1992, and 1993?*Leonard Bernstein
-   Music: What singer for a '70s British rock quartet changed his name from Frederick Bulsara?*Freddie Mercury
-   Music: What British duo's works are referred to as the Savoy Operas?*Gilbert & Sullivan
-   Music: What rock group is immortalized on Butt-head's T-shirt?*AC/DC
-   Music: What stringed symphonic instrument has a pedestal and a crown?*The harp
-   Music: Who were Benn, Bjorn, Agnetha and Frida?*ABBA
-   Music: What rock group's only beardless member is Frank Beard?*ZZ Top
-   Music: How many of Frank Sinatra's collaborators on Duets and Duets II joined him in the studio?*Zero
-   Music: What three words preceded "land that I love" in a 1938 Irving Berlin tune?*God bless America
-   Music: What Georgia rockers resurrected Dan Rather's mysterious 1986 mugging in their 1994 track, What's the Frequency, Kenneth?*R.E.M.
-   Music: What group's early BBC performances went quadruple platinum within two months of their U.S. release in late 1994?*The Beatles
-   Music: What Stephen Foster tune encourages racing enthusiasts to "bet on de bay"?*Camptown Races
-   Music: What singer sent the punk band Rancid a naked photo along with a plea to sign with her record label?*Madonna
-   Music: How many former Beatles had chart-topping singles from 1973 to 1974?*Four
-   Music: What rock star did Lou Diamond Phillips' wife leave him for?*Melissa Etheridge
-   Music: What MTV twosome are known as "The Bad Boys" in Mexico?*Beavis and Butt-head
-   Music: What did rapper Mohandas Dewese coolly change his name to?*Kool Moe Dee
-   Music: How many songs from the Beatles' Sgt. Pepper's Lonely Hearts Club Band were released as singles?*Zero
-   Music: What folk-rocker said he'd like Billy Dee Williams or Mickey Rooney to play him if his life story is filmed?*Bob Dylan
-   Music: What was the only language beat writer Jack Kerouac spoke until the age of six?*French
-   Music: What Italian wrote 32 operas between the ages of 18 and 30?*Gioacchino Rossini
-   Music: What countdown deejay intones: "keep your feet to the ground, and keep reaching for the stars"?*Casey Kasem
-   Music: What Shania Twain recording became the best-selling country music album ever by a female artist, in 1996?*The Woman in Me
-   Music: What Elton John album became the first album to enter the charts at Number One, in 1975?*Captain Fantastic and the Brown Dirt Cowboy
-   Music: What veteran British rock star explained: "I smash guitars because I like them"?*Pete Townshend
-   Music: What Alanis Morissette debut album sold over ten million copies?*Jagged Little Pill
-   Music: Who stomped off a 1995 Lollapalooza stage after a fan of her late husband threw a shotgun shell at her feet?*Courtney Love
-   Music: What opera star sold more recordings in 1990 than all but Madonna and Elton John?*Luciano Pavarottti
-   Music: What country star changed his first name from Randall to Hank?*Hank Williams Jr
-   Music: What Bizet opera concerns a gal who dumps a soldier for a bullfighter?*Carmen
-   Music: What late pun rocker did Debbie Gibson try to contact during a Halloween séance in 1988?*Sid Vicious
-   Music: What songstress died before the release of her cross-over album Dreaming of You?*Selena
-   Music: What composer was honored on the bicentennial of his death with a 180-disc compilation of all his works?*Wolfgang Amadeus Mozart
-   Music: What 1976 and 1991 hit begins: "Is this the real life / Is this just fantasy"?*Bohemian Rhapsody
-   Music: What did Def Leppard drummer Rick Allen lose in a 1984 auto accident?*An arm
-   Music: What Allman Brothers anthem announces: "When it's time to leave I hope you'll understand"?*Ramblin' Man
-   Music: What British punks played to more fans in the first weekend of their 1996 "Filthy Lucre" tour than during their entire 1978 U.S. tour?*The Sex Pistols
-   Music: What 23-year-old Tejano singer was murdered by her fan club president?*Selena
-   Music: Which Mariah Carey and Boyz II Men song became the first to spend 16 weeks at No 1?*One Sweet Day
-   Music: What type of train did Veteran Rod Stewart chart with?*Downtown Train
-   Music: Who had hits with El Paso and Devil Woman?*Marty Robbins
-   Music: Who co-wrote Fame with David Bowie?*John Lennon
-   Music: What does the V stand for in SWV?*Voices
-   Music: Victoria Principal sang All I Have To Do Is Dream with which Gibb?*Andy
-   Music: Who recorded Macarena (bayside boys mix)?*Los Del Rio
-   Music: Who reached No 1 with Unbelievable?*EMF
-   Music: Which group had 80s hits with Hard To Say I'm Sorry and Look Away?*Chicago
-   Music: What was the first No 1 single for Hall & Oates?*Rich Girl
-   Music: Who was described as "a woman who pulled herself up by her bra straps?"*Madonna
-   Music: Who hit the top ten with the Unskinny Bop?*Poison
-   Music: What was Heart's first No 1 hit?*These Dreams
-   Music: Which Gibb brother is the eldest?*Barry
-   Music: I'll Be There For You was the theme to which hit TV show?*Friends
-   Music: Which liquid product featured the hit Like A Prayer in its advertisement?*Pepsi
-   Music: Which year was the title of Zager & Evans' only No 1?*2525
-   Music: On what date did Elton John first sing his biggest-selling single in public?*September 6th, 1997
-   Music: Which girl got Kiss into the singles top ten for the first time?*Beth
-   Music: Who duetted with Peabo Bryson on Beauty and the Beast?*Celine Dion
-   Music: Who knocked themselves off No 1 position with their follow up On Bended Knee?*Boyz II Men
-   Music: On which label does Mariah Carey record?*Columbia
-   Music: Who had a 1978 No 1 with Boogie Oogie Oogie?*A Taste Of Honey
-   Music: Who wrote under the pseudonym Bernard Webb?*Paul McCartney
-   Music: What kind of Bites provided Def Leppard with a No 1 single?*Love
-   Music: Which country does Eddy Grant originate from?*Guyana
-   Music: Which film revived the 70s song You Sexy Thing?*The Full Monty
-   Music: Who had a No 1 hit with Here Comes the Hot Stepper?*Ini Kamoze
-   Music: Who was the first John to have four solo No 1 hits?*Denver
-   Music: Who wrote the song The Last Thing On My Mind?*Tom Paxton
-   Music: What was Nirvana's third album called?*In Utero
-   Music: Who did Janet Jackson sing The Best things in Life Are Free with?*Luther Vandross
-   Music: In which state did 2 Pac and Dr Dre find Love?*California
-   Music: In which state did Kurt Cobain die(kill himself)?*Washington
-   Music: What was Michael Jackson's debut hit away from the Jackson 5?*Got To Be There
-   Music: Which artist was the subject of a 1991 biography by Randy Taraborelli?*Michael Jackson
-   Music: Which band was fronted by Courtney Love?*Hole
-   Music: Who duetted on the 1993 hit I've Got You Under My Skin with Frank Sinatra?*Bono
-   Music: Who had a giant hit with Nobody Knows?*The Tony Rich Project
-   Music: Which label did Toni Braxton's Un-Break My Heart appear on?*Arista
-   Music: Who was the first female to reach 30 top ten hits?*Madonna
-   Music: Which 60s No 1 began with the French national anthem?*All You Need Is Love
-   Music: Which Club went to the Wild, Wild West?*The Escape Club
-   Music: Which female vocalist was a member of the Eurythimics?*Annie Lennox
-   Music: What was the first single of The Spice Girls?*Wannabe
-   Music: What colour rain did prince sing about?*Purple
-   Music: This Spandau Ballet hit reached No.1 in 1991?*Gold
-   Music: What colour 'roses' did Aqua sing about?*Red
-   Music: Dido sang a song about this colour flag?*White Flag
-   Music: The Kaiser Chiefs sang about what girl?*Ruby
-   Music: What colour polka dot bikini was a great party hit?*Yellow
-   Music: Alvin and the Chipmunks sang about what colour 'People Eater'?*Purple
-   Music: UB40 & Bob Marley sang about what type of wine?*Red Red Wine
-   Music: Billy Idol sang about this popular type of wedding?*White
-   Music: Van Morrison sang about what 'Eyed Girl'?*Brown
-   Music: What only happens when it's raining according to Fleetwood Mac?*Thunder
-   Music: According to many singers over the years ... What keep falling on their head?*Raindrops
-   Music: What did it 'Rain' according to the Weathergirls?*Men
-   Music: What type of days and Mondays did the Carpenters sing about?*Rainy
-   Music: What did Leo Sayer sing about that was 'in his heart'?*Thunder
-   Music: What did Katrina And The Waves 'Walk On'?*Sunshine
-   Music: What did Patrick Swayze say "She's Like"?*The Wind
-   Music: What was 'Up above the streets and houses, climbing high, which everyone could see smiling, over the sky'?*Rainbow
-   Music: What did the sun always shine on according to A HA?*TV
-   Music: What did Bette Midler have beneath her wings?*Wind
-   Music: Which was the first Beatle to become a granddad?*Ringo Starr
-   Music: Where did Mini Viva leave there heart?*Tokyo
-   Music: Which song by the palindromic (read same in either direction) pop group Abba had a palindromic title?*SOS
-   Music: Who had No 1 hits with West End Girls and It’s a Sin?*Pet Shop Boys
-   Music: Which group recorded the Bond theme for The Living Daylights?*AHA
-   Music: Which song sang by Queen contains the line, One dream one soul, one prize, one goal?*A Kind Of Magic
-   Music: In 1977 this group had a hit with 'Hotel California'?*Eagles
-   Music: In 1982 who had a hit with 'Pass the Dutchie'?*Musical Youth
-   Music: In 1990 who was 'Doin' the Do'?*Betty Boo
-   Music: In 2004 what DJ showed us how to 'Cha Cha Slide'?*DJ Casper
-   Music: Elton John's first version of 'A Candle In The Wind' was about whom?*Marilyn Monroe
-   Music: In 1985 which group was on a 'Road To No Where'?*Talking Heads
-   Music: This "King of Rock and Roll" liked you to love him tender!?*Elvis Presley
-   Music: In Dire Straits song 'Money For Nothing' what sort of oven were they singing about?*Microwave
-   Music: Which British singer recorded "Somethin' Stupid" as a duet in 2001 with Nicole Kidman?*Robbie Williams
-   Music: The deep toned wind instrument native to Australia is called a what?*Didgeridoo 
+ { "text": "'Someday you may find me, caught beneath a landslide, in a champagne supernova'", "answer": [ "Oasis" ] },
+ { "text": "'And who do you think you are? Runnin' 'round leaving scars'", "answer": [ "Christina Perri" ] },
+ { "text": "'We just wanna make the world dance, Forget about the price tag'", "answer": [ "Jessie J" ] },
+ { "text": "'I want your love, and all your love is revenge, You and me could write a bad romance'", "answer": [ "Lady Gaga" ] },
+ { "text": "'Today I don't feel like doing anything, I just wanna lay in my bed'", "answer": [ "Bruno Mars" ] },
+ { "text": "'We just now got the feeling that we're meeting, For the first time'", "answer": [ "The Script" ] },
+ { "text": "'You're the pretender, What if I say that I'll never surrender?'", "answer": [ "Foo Fighters" ] },
+ { "text": "'The innocent can never last, Wake me up when September ends'", "answer": [ "Green Day" ] },
+ { "text": "'Ahhhh Girl look at that body, I work out, I'm sexy and I know it'", "answer": [ "LMFAO" ] },
+ { "text": "'My breath smells of a thousand fags'", "answer": [ "Robbie Williams" ] },
+ { "text": "'No, there's nothing that I wouldn't do, To make you feel my love'", "answer": [ "Adele" ] },
+ { "text": "'Make me move like a freak, Mr. Saxobeat'", "answer": [ "Alexandra Stan" ] },
+ { "text": "That don't impress me much' a hit in 1999?", "answer": [ "Shania Twain" ] },
+ { "text": "'When you wish upon a star'", "answer": [ "Pinocchio" ] },
+ { "text": "'Staying Alive'", "answer": [ "Saturday Night Fever" ] },
+ { "text": "'My Heart Will Go On'", "answer": [ "Titanic" ] },
+ { "text": "'Unchained melody'", "answer": [ "Ghost" ] },
+ { "text": "'.......... What A Feeling'", "answer": [ "Flashdance" ] },
+ { "text": "'Streets Of Philadelphia'", "answer": [ "Philadelphia" ] },
+ { "text": "'Summer Nights'", "answer": [ "Grease" ] },
+ { "text": "'Up Where We Belong'", "answer": [ "An Officer And A Gentleman" ] },
+ { "text": "'Do Re Mi'", "answer": [ "The Sound Of Music" ] },
+ { "text": "'Hakuna Matata'", "answer": [ "The Lion King" ] },
+ { "text": "'The Bear Necessities'", "answer": [ "The Jungle Book" ] },
+ { "text": "Queen - 'Don't stop me now, I'm having such a good time, I'm...'", "answer": [ "having a ball" ] },
+ { "text": "Live and let die is a song by which artist?", "answer": [ "Paul McCartney" ] },
+ { "text": "What was Barry Manilow's first No 1 single?", "answer": [ "Mandy" ] },
+ { "text": "Who has accumulated the most UK and US top ten albums and grossed most income from foreign touring?", "answer": [ "Rolling Stones" ] },
+ { "text": "Who teamed up with Barbra Streisand for tell Him?", "answer": [ "Celine Dion" ] },
+ { "text": "Which group were fronted by Jon Bon Jovi?", "answer": [ "Bon Jovi" ] },
+ { "text": "Which lady socked it to the Harper Valley PTA?", "answer": [ "Jennie C Riley" ] },
+ { "text": "In which year did Al Stewart's Year Of The Cat make the charts?", "answer": [ "1977" ] },
+ { "text": "Who was the first female with two UK million-selling singles?", "answer": [ "Celine Dion" ] },
+ { "text": "Which Canadian-born artist was the biggest-selling singles artist tin the UK in 1991?", "answer": [ "Bryan Adams" ] },
+ { "text": "Felix Cavaliere and Dino Danelli were in which group?", "answer": [ "Rascals" ] },
+ { "text": "Which day of the week did the Mamas a & Papas sing about?", "answer": [ "Monday" ] },
+ { "text": "Who was back in the Angels classic 60s NO 1?", "answer": [ "My Boyfriend" ] },
+ { "text": "Who did Celine Dion support in his Canadian tour in 1991?", "answer": [ "Michael Bolton" ] },
+ { "text": "What is the name of Whitney Houston's daughter named after the baby's father?", "answer": [ "Bobbie" ] },
+ { "text": "Who teamed up with Paul McCartney for ebony and Ivory?", "answer": [ "Stevie Wonder" ] },
+ { "text": "Were the Doobie Brothers actually brothers?", "answer": [ "No" ] },
+ { "text": "In 1978 how many weeks at No 1 were taken up by the Gibb family?", "answer": [ "28" ] },
+ { "text": "What was Taylor Dayne's first top ten hit?", "answer": [ "Tell It To My Heart" ] },
+ { "text": "Who is Leslie Sebastian Charles in chart terms?", "answer": [ "Billy Ocean" ] },
+ { "text": "What was the last No 1 in the 60s?", "answer": [ "Someday We'll Be Together" ] },
+ { "text": "Who had a No 1 with Brand New Key?", "answer": [ "Melanie" ] },
+ { "text": "Who had a 1994 No 1 with I Swear?", "answer": [ "All-4-One" ] },
+ { "text": "Which UK guitarist co-produced Bob Dylan's album Infidels?", "answer": [ "Mark Knopfler" ] },
+ { "text": "Which group wrote the songs for the movie Saturday Night Fever?", "answer": [ "The Bee Gees" ] },
+ { "text": "Who was Saving All My Love For You?", "answer": [ "Whitney Houston" ] },
+ { "text": "Who found himself Alone Again (Naturally)?", "answer": [ "Gilbert O'Sullivan" ] },
+ { "text": "Manhattan Skyline and Open Sesame were on which album?", "answer": [ "Saturday Night Fever" ] },
+ { "text": "1996 was the year of long-staying hits. How manly No 1s were there?", "answer": [ "Nine" ] },
+ { "text": "Who made NO 1 with Sledgehammer?", "answer": [ "Peter Gabriel" ] },
+ { "text": "Which artist got Kangaroo in to the title of a top three hit?", "answer": [ "Rolf Harris" ] },
+ { "text": "What word was used to describe Peggy March?", "answer": [ "Little" ] },
+ { "text": "Which Barry had 70s chart success with Never Never Gonna Give You Up and Can't Get Enough Of Your Love Babe?", "answer": [ "White" ] },
+ { "text": "On which Stevie Wonder album did he team up with Michael Jackson to sing Get It?", "answer": [ "Characters" ] },
+ { "text": "Vision Of Love was the first British top ten hit for which female superstar?", "answer": [ "Mariah Carey" ] },
+ { "text": "Under what name did Jefferson Airplane regroup at the top of the charts?", "answer": [ "Starship" ] },
+ { "text": "Which No 1 began, 'Sunshine came softly through my window today'?", "answer": [ "Sunshine Superman" ] },
+ { "text": "Who recorded the album Stranger In Town?", "answer": [ "Bob Serger" ] },
+ { "text": "To a year, when did Heart first have a top ten hit?", "answer": [ "1976" ] },
+ { "text": "How is Leslie Wundermann better known?", "answer": [ "Taylor Dayne" ] },
+ { "text": "Who sang I'm Leaving It Up To You with Dale?", "answer": [ "Grace" ] },
+ { "text": "Which band recorded the album The Joshua Tree?", "answer": [ "U2" ] },
+ { "text": "In the 70s who put a Message In A Bottle?", "answer": [ "Police" ] },
+ { "text": "Which band had a big hit with You Make Me Wanna?", "answer": [ "Usher" ] },
+ { "text": "Money For Nothing was an 80s NO 1 for which band?", "answer": [ "Dire Straits" ] },
+ { "text": "Which Dimension had a 60s smash with Aquarius?", "answer": [ "5th Dimension" ] },
+ { "text": "Which US Boys band featured three members of the Wilson Family?", "answer": [ "The Beach Boys" ] },
+ { "text": "Keith Richards rocked on in which super group?", "answer": [ "The Rolling Stones" ] },
+ { "text": "Who was backed by The Shondells?", "answer": [ "Tommy James" ] },
+ { "text": "How many boys were there in The Pet Shop Boys?", "answer": [ "Two" ] },
+ { "text": "Who fronted The Heartbreakers?", "answer": [ "Tom Petty" ] },
+ { "text": "Which heavy metal group took the name of Dutch-born members guitarist Eddie and drummer Alex?", "answer": [ "Van Halen" ] },
+ { "text": "Which 60s icon was backed by The Band?", "answer": [ "Bob Dylan" ] },
+ { "text": "Which band included Phil Collins and Peter Gabriel?", "answer": [ "Genesis" ] },
+ { "text": "Mickey Dolenz was in which 60s sensation group?", "answer": [ "The Monkees" ] },
+ { "text": "In which state did Chicago get together?", "answer": [ "Illinois" ] },
+ { "text": "Which band produced the album Dark Side Of The Moon?", "answer": [ "Pink Floyd" ] },
+ { "text": "Which group flew into the Hotel California?", "answer": [ "The Eagles" ] },
+ { "text": "R.E.M. cut the No 1 album Out Of what?", "answer": [ "Time" ] },
+ { "text": "Which band recorded the album Parallel Lines?", "answer": [ "Blondie" ] },
+ { "text": "Which band sang I want to Know What Love Is?", "answer": [ "Foreigner" ] },
+ { "text": "How many brothers were in the original Jackson family line up?", "answer": [ "Five" ] },
+ { "text": "Tusk was a best-selling album for which band?", "answer": [ "Fleetwood Mac" ] },
+ { "text": "What did the letter O stand for in ELO?", "answer": [ "Orchestra" ] },
+ { "text": "Whose hits include Bad Moon Rising and Green River?", "answer": [ "Creedence Clearwater Revival" ] },
+ { "text": "Which all time great band featured Harrison and Starkey?", "answer": [ "The Beatles" ] },
+ { "text": "This refers to chanted or spoken rhyming lyrics often used in hip hop music?", "answer": [ "Rapping" ] },
+ { "text": "Which member of Take That shares his surname with a fruit?", "answer": [ "Jason Orange" ] },
+ { "text": "What is the minimum number of musicians a band must have to be considered a 'big band'?", "answer": [ "Ten" ] },
+ { "text": "What musical instrument's sales escalated from 228,000 in 1950 to 2.3 million in 1971?", "answer": [ "The guitar" ] },
+ { "text": "What 1976 chart-topping song did Barry Manilow sing, but not write?", "answer": [ "I Write the Songs" ] },
+ { "text": "What does the Italian musical term adagio mean?", "answer": [ "Slow" ] },
+ { "text": "Who was the top-selling album artist of the 1970's according to Billboard?", "answer": [ "Elton John" ] },
+ { "text": "What's the only group to claim two of the top ten best-selling singles of the 1970's?", "answer": [ "The Bee Gees" ] },
+ { "text": "Who was the first country artist to sell over 10 million copies of an album?", "answer": [ "Garth Brooks" ] },
+ { "text": "What band is named after a scuplture in Seattle that hums in the wind?", "answer": [ "Soundgarden" ] },
+ { "text": "What two Frank Sinatra hits were tops for U.S. karaoke singers in 1993?", "answer": [ "New York, New York and My Way" ] },
+ { "text": "What stringed symphonic instrument has a pedestal and a crown?", "answer": [ "The Harp" ] },
+ { "text": "What studio did the Beatles use to record 191 songs?", "answer": [ "Abby Road" ] },
+ { "text": "What jazz musician got his nickname by shortening 'Satchel Mouth'?", "answer": [ "Louis Armstrong" ] },
+ { "text": "What jazz trumpeter was dubbed the 'Prince of Darkness'?", "answer": [ "Miles Davis" ] },
+ { "text": "What did Def Leppard drummer Rick Allen lose in a 1984 auto accident?", "answer": [ "An arm" ] },
+ { "text": "What Southampton junior high school musical was cancelled in 1994 when Shinnecock Indians objected to the 'Ug-a-wug' song?", "answer": [ "Peter Pan" ] },
+ { "text": "What classical conductor won posthumous Grammy Awards in 1991, 1992, and 1993?", "answer": [ "Leonard Bernstein" ] },
+ { "text": "Who's 'Monk' to jazz buffs?", "answer": [ "Thelonious Monk" ] },
+ { "text": "What California group waited 22 years to score their first chart-toping single since 1966?", "answer": [ "The Beach Boys" ] },
+ { "text": "What city's opera house does 'The Phantom of the Opera' prowl?" , "answer": [ "Paris" ] },
+ { "text": "Who scored his first platinum album since 1978 with 'The Icon Is Love' in 1994?" , "answer": [ "Barry White" ] },
+ { "text": "What Michael Jackson album spawned five chart-topping singles?", "answer": [ "Bad" ] },
+ { "text": "What trumpeter became the oldest person ever to score a chart-topping single, in 1964?", "answer": [ "Louis Armstrong" ] },
+ { "text": "What rock star was trying to bite the head off a bat in concert when the bat decided to bite back?", "answer": [ "Ozzy Osbourne" ] },
+ { "text": "What Shania Twain recording became the best-selling country music album ever by a female artist, in 1996?", "answer": [ "The Woman in Me" ] },
+ { "text": "What patriotic song was originally titled 'The Defense of Fort McHenry?'", "answer": [ "The Star Spangled Banner" ] },
+ { "text": "Who's waxed more gold and platinum albums than any other solo female artist?", "answer": [ "Barbara Streisand" ] },
+ { "text": "What singer for a 70's British rock quartet changed his name from Frederick Bulsara?", "answer": [ "Freddie Mercury" ] },
+ { "text": "What rock'n'roll singer is memorialized by a eight-foot bronze statue in Lubbock, Texas?", "answer": [ "Buddy Holly" ] },
+ { "text": "What Woody Guthrie song goes 'From California to the New York island / From the redwood forest to the Gulf Stream waters'?", "answer": [ "This Land is Your Land" ] },
+ { "text": "What Pink Floyd song was banned by the South African government after it became an anthem for black school children?", "answer": [ "Another Brick in the Wall" ] },
+ { "text": "What were the two most popular rock operas of 1969?", "answer": [ "Hair and Tommy" ] },
+ { "text": "What are the two most common unbowed stringed instruments found in a symphony orchestra?", "answer": [ "The Harp and the Piano" ] },
+ { "text": "What legendary soul singer wrecked his Corvette the first time he drove it?", "answer": [ "Ray Charles" ] },
+ { "text": "What tenor received a record 165 curtain calls at a Berlin opera house in 1988?", "answer": [ "Luciano Pavarotti" ] },
+ { "text": "What Beatles single lasted longest on the charts, at 19 weeks?", "answer": [ "Hey Jude" ] },
+ { "text": "What Broadway musical revival did Lou Diamond Philips refuse to shave the top of his head for, in 1996?", "answer": [ "The King and I" ] },
+ { "text": "Who appeared on the cover of Seventeen magazine before selling over 11 million copies of her debut album?", "answer": [ "Whitney Houston" ] },
+ { "text": "Who'd never been farther east than Montana when he wrote Proud Mary?", "answer": [ "John Fogarty" ] },
+ { "text": "What Kiss star sported the longest tongue in rock?", "answer": [ "Gene Simmons" ] },
+ { "text": "What Rodgers and Hammerstein show is the most often-performed musical in U.S. high schools?", "answer": [ "Oklahoma!" ] },
+ { "text": "What genre did Ice Cube define as 'the network newscast black people never had'?", "answer": [ "Rap" ] },
+ { "text": "What 1865 Wagner opera opens on a ship?", "answer": [ "Tristan and Isolde" ] },
+ { "text": "What R&B vocal quartet titled its third album II in 1994?", "answer": [ "Boyz II Men" ] },
+ { "text": "Who are the Three Tenors?", "answer": [ "Jose Carreras, Placido Domingo, Luciano Pavarotti" ] },
+ { "text": "How many birthday candles were Cher, Dolly Parton and Sylivester Stallone each obliged to blow out in 1996?", "answer": [ "Fifty" ] },
+ { "text": "What bankrupt Las Vegas crooner spent $75,000 to refurbish his pet penguins' pond?", "answer": [ "Wayne Newton" ] },
+ { "text": "What hard-drinking country legend explains his bumpy life in the book I Lived to Tell It All?", "answer": [ "George Jones" ] },
+ { "text": "Whose pop parody career includes the hits Addicted to Spuds, My Bologna and Eat It?", "answer": [ "Wierd Al Yankovic's" ] },
+ { "text": "What bandleader became the first jazz musician to get an honorary degree from Columbia University, in 1973?", "answer": [ "Duke Ellington" ] },
+ { "text": "What female singer scored 14 million-selling singles between 1967 and 1973?", "answer": [ "Aretha Franklin" ] },
+ { "text": "Who was the first female artist to debut on the Billboard album chart at Number One?", "answer": [ "Whitney Houston" ] },
+ { "text": "What was the nickname of jazzman John Birks Gillespie?", "answer": [ "Dizzy" ] },
+ { "text": "Which of the inmates who heard Johnny Cash's 1958 San Quentin concert became the biggest country music star?", "answer": [ "Merle Haggard" ] },
+ { "text": "What mother and child spent years in Nashville shopping demos they'd recorded on a $30 cassette recorder?", "answer": [ "The Judds" ] },
+ { "text": "What 15-year-old rock icon-to-be was grounded for the whole summer after sneaking out to her first concert, to see David Bowie?", "answer": [ "Madonna" ] },
+ { "text": "What Jackson actually had a million-selling LP called Let's Get Serious?", "answer": [ "Jermaine Jackson" ] },
+ { "text": "What Sinatra signature tune became Elvis Presley's best-selling posthumous hit?", "answer": [ "My Way" ] },
+ { "text": "What song-writing duo's hits made it to Broadway in the show Smokey Joe's Cafe?", "answer": [ "Leiber and Stoller" ] },
+ { "text": "How many Grammy Awards did Lawrence Welk garner during his 50-year career?", "answer": [ "Zero" ] },
+ { "text": "What jazz musician got his nickname by shortening 'Satchel Mouth'?", "answer": [ "Louis Armstrong" ] },
+ { "text": "What rocker Darius Rucker's stage name?", "answer": [ "Hootie" ] },
+ { "text": "What British group got its name from the title of a 1950 Muddy Waters song?", "answer": [ "The Rolling Stones" ] },
+ { "text": "Who was the youngest person to have a chart-topping solo single, in 1970?", "answer": [ "Michael Jackson" ] },
+ { "text": "What German playwright penned the lyrics to Mack the Knife and Alabama Song?", "answer": [ "Bertholt Brecht" ] },
+ { "text": "What's indicated by the word fine on a piece of sheet music?", "answer": [ "The end" ] },
+ { "text": "What grungeless Seattle band's name is affectionately abbreviated 'Pot USA'?", "answer": [ "The Presidents of the United States" ] },
+ { "text": "I got rhythm / I got music / I got my man...?", "answer": [ "Who could ask for anything more?" ] },
+ { "text": "What calypso singer founded the USA For Africa charity that recorded We Are the World?", "answer": [ "Harry Belafonte" ] },
+ { "text": "What group's lead guitar player is known for his guitar amps with control knobs that go up to 11, 'one more than 10'?", "answer": [ "Spinal Tap" ] },
+ { "text": "What was the best-selling album named after a city, in the 1970s?", "answer": [ "Boston" ] },
+ { "text": "What fellow Floridian did Jon Secada write and sing back-up for before going solo?", "answer": [ "Gloria Estefan" ] },
+ { "text": "I've lived a life that's full / I traveled each and ev'ry highway...?", "answer": [ "My Way" ] },
+ { "text": "One thing I can tell you is you got to be free?", "answer": [ "Come Together" ] },
+ { "text": "What TV host went gold with the CD Romantic Christmas?", "answer": [ "John Tesh" ] },
+ { "text": "Actin' funny, but I don't know why?", "answer": [ "Scuse me while I kiss the sky" ] },
+ { "text": "Who adorned his last piano with 350 pounds of rhinestones?", "answer": [ "Liberace" ] },
+ { "text": "What did Melissa Etheridge title her first album after coming out of the closet?", "answer": [ "Yes I Am" ] },
+ { "text": "How many singles did Bruce Springsteen put atop Billboard charts in the 1980s?", "answer": [ "Zero" ] },
+ { "text": "What crooner's mother warned him not to change his name to Frankie Satin?", "answer": [ "Frank Snatra" ] },
+ { "text": "Who sold part of his ownership of Beatles songs to Sony for $95 million in 1995?", "answer": [ "Michael Jackson" ] },
+ { "text": "Who's responsible for the LPs Shamrocks and Champagne, Bubbles in the Wine and Pick-a-Polka?", "answer": [ "Lawrence Welk" ] },
+ { "text": "Who did Chuck Berry say 'could play a guitar just like ringing a bell'?", "answer": [ "Johnny B. Goode" ] },
+ { "text": "What classical conductor won posthumous Grammy Awards in 1991,1992, and 1993?", "answer": [ "Leonard Bernstein" ] },
+ { "text": "What singer for a '70s British rock quartet changed his name from Frederick Bulsara?", "answer": [ "Freddie Mercury" ] },
+ { "text": "What British duo's works are referred to as the Savoy Operas?", "answer": [ "Gilbert & Sullivan" ] },
+ { "text": "What rock group is immortalized on Butt-head's T-shirt?", "answer": [ "AC/DC" ] },
+ { "text": "What stringed symphonic instrument has a pedestal and a crown?", "answer": [ "The harp" ] },
+ { "text": "Who were Benn, Bjorn, Agnetha and Frida?", "answer": [ "ABBA" ] },
+ { "text": "What rock group's only beardless member is Frank Beard?", "answer": [ "ZZ Top" ] },
+ { "text": "How many of Frank Sinatra's collaborators on Duets and Duets II joined him in the studio?", "answer": [ "Zero" ] },
+ { "text": "What three words preceded 'land that I love' in a 1938 Irving Berlin tune?", "answer": [ "God bless America" ] },
+ { "text": "What Georgia rockers resurrected Dan Rather's mysterious 1986 mugging in their 1994 track, What's the Frequency, Kenneth?", "answer": [ "R.E.M." ] },
+ { "text": "What group's early BBC performances went quadruple platinum within two months of their U.S. release in late 1994?", "answer": [ "The Beatles" ] },
+ { "text": "What Stephen Foster tune encourages racing enthusiasts to 'bet on de bay'?", "answer": [ "Camptown Races" ] },
+ { "text": "What singer sent the punk band Rancid a naked photo along with a plea to sign with her record label?", "answer": [ "Madonna" ] },
+ { "text": "How many former Beatles had chart-topping singles from 1973 to 1974?", "answer": [ "Four" ] },
+ { "text": "What rock star did Lou Diamond Phillips' wife leave him for?", "answer": [ "Melissa Etheridge" ] },
+ { "text": "What MTV twosome are known as 'The Bad Boys' in Mexico?", "answer": [ "Beavis and Butt-head" ] },
+ { "text": "What did rapper Mohandas Dewese coolly change his name to?", "answer": [ "Kool Moe Dee" ] },
+ { "text": "How many songs from the Beatles' Sgt. Pepper's Lonely Hearts Club Band were released as singles?", "answer": [ "Zero" ] },
+ { "text": "What folk-rocker said he'd like Billy Dee Williams or Mickey Rooney to play him if his life story is filmed?", "answer": [ "Bob Dylan" ] },
+ { "text": "What was the only language beat writer Jack Kerouac spoke until the age of six?", "answer": [ "French" ] },
+ { "text": "What Italian wrote 32 operas between the ages of 18 and 30?", "answer": [ "Gioacchino Rossini" ] },
+ { "text": "keep your feet to the ground, and keep reaching for the stars?", "answer": [ "Casey Kasem" ] },
+ { "text": "What Shania Twain recording became the best-selling country music album ever by a female artist, in 1996?", "answer": [ "The Woman in Me" ] },
+ { "text": "What Elton John album became the first album to enter the charts at Number One, in 1975?", "answer": [ "Captain Fantastic and the Brown Dirt Cowboy" ] },
+ { "text": "I smash guitars because I like them?", "answer": [ "Pete Townshend" ] },
+ { "text": "What Alanis Morissette debut album sold over ten million copies?", "answer": [ "Jagged Little Pill" ] },
+ { "text": "Who stomped off a 1995 Lollapalooza stage after a fan of her late husband threw a shotgun shell at her feet?", "answer": [ "Courtney Love" ] },
+ { "text": "What opera star sold more recordings in 1990 than all but Madonna and Elton John?", "answer": [ "Luciano Pavarottti" ] },
+ { "text": "What country star changed his first name from Randall to Hank?", "answer": [ "Hank Williams Jr" ] },
+ { "text": "What Bizet opera concerns a gal who dumps a soldier for a bullfighter?", "answer": [ "Carmen" ] },
+ { "text": "What late pun rocker did Debbie Gibson try to contact during a Halloween séance in 1988?", "answer": [ "Sid Vicious" ] },
+ { "text": "What songstress died before the release of her cross-over album Dreaming of You?", "answer": [ "Selena" ] },
+ { "text": "What composer was honored on the bicentennial of his death with a 180-disc compilation of all his works?", "answer": [ "Wolfgang Amadeus Mozart" ] },
+ { "text": "Is this the real life / Is this just fantasy?", "answer": [ "Bohemian Rhapsody" ] },
+ { "text": "What did Def Leppard drummer Rick Allen lose in a 1984 auto accident?", "answer": [ "An arm" ] },
+ { "text": "When it's time to leave I hope you'll understand?", "answer": [ "Ramblin' Man" ] },
+ { "text": "What British punks played to more fans in the first weekend of their 1996 'Filthy Lucre' tour than during their entire 1978 U.S. tour?", "answer": [ "The Sex Pistols" ] },
+ { "text": "What 23-year-old Tejano singer was murdered by her fan club president?", "answer": [ "Selena" ] },
+ { "text": "Which Mariah Carey and Boyz II Men song became the first to spend 16 weeks at No 1?", "answer": [ "One Sweet Day" ] },
+ { "text": "What type of train did Veteran Rod Stewart chart with?", "answer": [ "Downtown Train" ] },
+ { "text": "Who had hits with El Paso and Devil Woman?", "answer": [ "Marty Robbins" ] },
+ { "text": "Who co-wrote Fame with David Bowie?", "answer": [ "John Lennon" ] },
+ { "text": "What does the V stand for in SWV?", "answer": [ "Voices" ] },
+ { "text": "Victoria Principal sang All I Have To Do Is Dream with which Gibb?", "answer": [ "Andy" ] },
+ { "text": "Who recorded Macarena (bayside boys mix)?", "answer": [ "Los Del Rio" ] },
+ { "text": "Who reached No 1 with Unbelievable?", "answer": [ "EMF" ] },
+ { "text": "Which group had 80s hits with Hard To Say I'm Sorry and Look Away?", "answer": [ "Chicago" ] },
+ { "text": "What was the first No 1 single for Hall & Oates?", "answer": [ "Rich Girl" ] },
+ { "text": "Who was described as 'a woman who pulled herself up by her bra straps?'", "answer": [ "Madonna" ] },
+ { "text": "Who hit the top ten with the Unskinny Bop?", "answer": [ "Poison" ] },
+ { "text": "What was Heart's first No 1 hit?", "answer": [ "These Dreams" ] },
+ { "text": "Which Gibb brother is the eldest?", "answer": [ "Barry" ] },
+ { "text": "I'll Be There For You was the theme to which hit TV show?", "answer": [ "Friends" ] },
+ { "text": "Which liquid product featured the hit Like A Prayer in its advertisement?", "answer": [ "Pepsi" ] },
+ { "text": "Which year was the title of Zager & Evans' only No 1?", "answer": [ "2525" ] },
+ { "text": "On what date did Elton John first sing his biggest-selling single in public?", "answer": [ "September 6th, 1997" ] },
+ { "text": "Which girl got Kiss into the singles top ten for the first time?", "answer": [ "Beth" ] },
+ { "text": "Who duetted with Peabo Bryson on Beauty and the Beast?", "answer": [ "Celine Dion" ] },
+ { "text": "Who knocked themselves off No 1 position with their follow up On Bended Knee?", "answer": [ "Boyz II Men" ] },
+ { "text": "On which label does Mariah Carey record?", "answer": [ "Columbia" ] },
+ { "text": "Who had a 1978 No 1 with Boogie Oogie Oogie?", "answer": [ "A Taste Of Honey" ] },
+ { "text": "Who wrote under the pseudonym Bernard Webb?", "answer": [ "Paul McCartney" ] },
+ { "text": "What kind of Bites provided Def Leppard with a No 1 single?", "answer": [ "Love" ] },
+ { "text": "Which country does Eddy Grant originate from?", "answer": [ "Guyana" ] },
+ { "text": "Which film revived the 70s song You Sexy Thing?", "answer": [ "The Full Monty" ] },
+ { "text": "Who had a No 1 hit with Here Comes the Hot Stepper?", "answer": [ "Ini Kamoze" ] },
+ { "text": "Who was the first John to have four solo No 1 hits?", "answer": [ "Denver" ] },
+ { "text": "Who wrote the song The Last Thing On My Mind?", "answer": [ "Tom Paxton" ] },
+ { "text": "What was Nirvana's third album called?", "answer": [ "In Utero" ] },
+ { "text": "Who did Janet Jackson sing The Best things in Life Are Free with?", "answer": [ "Luther Vandross" ] },
+ { "text": "In which state did 2 Pac and Dr Dre find Love?", "answer": [ "California" ] },
+ { "text": "In which state did Kurt Cobain die(kill himself)?", "answer": [ "Washington" ] },
+ { "text": "What was Michael Jackson's debut hit away from the Jackson 5?", "answer": [ "Got To Be There" ] },
+ { "text": "Which artist was the subject of a 1991 biography by Randy Taraborelli?", "answer": [ "Michael Jackson" ] },
+ { "text": "Which band was fronted by Courtney Love?", "answer": [ "Hole" ] },
+ { "text": "Who duetted on the 1993 hit I've Got You Under My Skin with Frank Sinatra?", "answer": [ "Bono" ] },
+ { "text": "Who had a giant hit with Nobody Knows?", "answer": [ "The Tony Rich Project" ] },
+ { "text": "Which label did Toni Braxton's Un-Break My Heart appear on?", "answer": [ "Arista" ] },
+ { "text": "Who was the first female to reach 30 top ten hits?", "answer": [ "Madonna" ] },
+ { "text": "Which 60s No 1 began with the French national anthem?", "answer": [ "All You Need Is Love" ] },
+ { "text": "Which Club went to the Wild, Wild West?", "answer": [ "The Escape Club" ] },
+ { "text": "Which female vocalist was a member of the Eurythimics?", "answer": [ "Annie Lennox" ] },
+ { "text": "What was the first single of The Spice Girls?", "answer": [ "Wannabe" ] },
+ { "text": "What colour rain did prince sing about?", "answer": [ "Purple" ] },
+ { "text": "This Spandau Ballet hit reached No.1 in 1991?", "answer": [ "Gold" ] },
+ { "text": "What colour 'roses' did Aqua sing about?", "answer": [ "Red" ] },
+ { "text": "Dido sang a song about this colour flag?", "answer": [ "White Flag" ] },
+ { "text": "The Kaiser Chiefs sang about what girl?", "answer": [ "Ruby" ] },
+ { "text": "What colour polka dot bikini was a great party hit?", "answer": [ "Yellow" ] },
+ { "text": "Alvin and the Chipmunks sang about what colour 'People Eater'?", "answer": [ "Purple" ] },
+ { "text": "UB40 & Bob Marley sang about what type of wine?", "answer": [ "Red Red Wine" ] },
+ { "text": "Billy Idol sang about this popular type of wedding?", "answer": [ "White" ] },
+ { "text": "Van Morrison sang about what 'Eyed Girl'?", "answer": [ "Brown" ] },
+ { "text": "What only happens when it's raining according to Fleetwood Mac?", "answer": [ "Thunder" ] },
+ { "text": "According to many singers over the years ... What keep falling on their head?", "answer": [ "Raindrops" ] },
+ { "text": "What did it 'Rain' according to the Weathergirls?", "answer": [ "Men" ] },
+ { "text": "What type of days and Mondays did the Carpenters sing about?", "answer": [ "Rainy" ] },
+ { "text": "What did Leo Sayer sing about that was 'in his heart'?", "answer": [ "Thunder" ] },
+ { "text": "What did Katrina And The Waves 'Walk On'?", "answer": [ "Sunshine" ] },
+ { "text": "What did Patrick Swayze say 'She's Like'?", "answer": [ "The Wind" ] },
+ { "text": "What was 'Up above the streets and houses, climbing high, which everyone could see smiling, over the sky'?", "answer": [ "Rainbow" ] },
+ { "text": "What did the sun always shine on according to A HA?", "answer": [ "TV" ] },
+ { "text": "What did Bette Midler have beneath her wings?", "answer": [ "Wind" ] },
+ { "text": "Which was the first Beatle to become a granddad?", "answer": [ "Ringo Starr" ] },
+ { "text": "Where did Mini Viva leave there heart?", "answer": [ "Tokyo" ] },
+ { "text": "Which song by the palindromic (read same in either direction) pop group Abba had a palindromic title?", "answer": [ "SOS" ] },
+ { "text": "Who had No 1 hits with West End Girls and It’s a Sin?", "answer": [ "Pet Shop Boys" ] },
+ { "text": "Which group recorded the Bond theme for The Living Daylights?", "answer": [ "AHA" ] },
+ { "text": "Which song sang by Queen contains the line, One dream one soul, one prize, one goal?", "answer": [ "A Kind Of Magic" ] },
+ { "text": "In 1977 this group had a hit with 'Hotel California'?", "answer": [ "Eagles" ] },
+ { "text": "In 1982 who had a hit with 'Pass the Dutchie'?", "answer": [ "Musical Youth" ] },
+ { "text": "In 1990 who was 'Doin' the Do'?", "answer": [ "Betty Boo" ] },
+ { "text": "In 2004 what DJ showed us how to 'Cha Cha Slide'?", "answer": [ "DJ Casper" ] },
+ { "text": "Elton John's first version of 'A Candle In The Wind' was about whom?", "answer": [ "Marilyn Monroe" ] },
+ { "text": "In 1985 which group was on a 'Road To No Where'?", "answer": [ "Talking Heads" ] },
+ { "text": "This 'King of Rock and Roll' liked you to love him tender!?", "answer": [ "Elvis Presley" ] },
+ { "text": "In Dire Straits song 'Money For Nothing' what sort of oven were they singing about?", "answer": [ "Microwave" ] },
+ { "text": "Which British singer recorded 'Somethin' Stupid' as a duet in 2001 with Nicole Kidman?", "answer": [ "Robbie Williams" ] },
+ { "text": "The deep toned wind instrument native to Australia is called a what?", "answer": [ "Didgeridoo " ] }
+ ]}
