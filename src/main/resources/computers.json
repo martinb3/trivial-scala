@@ -1,5 +1,5 @@
 {
-"title": "Horsing Around",
+"title": "ComputaDora the Explorer",
 "order": "rand",
 "subset": "25",
 "questions" : [
@@ -11,26 +11,26 @@
 { "text": "What kind of fruit was used to name a computer in 1984?", "answer": [ "Apple" ] },
 { "text": "In what field of study are the terms CPU, PC, and VDU used?", "answer": [ "Computer Science" ] },
 { "text": "From what source did William Henry Gates III amass his fortune?", "answer": [ "Computer software" ] },
-{ "text": "Charlie the pet dog was replace by what in the remake of the Absent-minded Professor called 'Flubber' in 1997?", "answer": [ "Weebo, the computer" ] },
+{ "text": "Charlie the pet dog was replace by what in the remake of the Absent-minded Professor called 'Flubber' in 1997?", "answer": [ "Weebo, the computer","weebo","weebothe computer" ] },
 { "text": "What did Charles Babbage invent when he designed his analytical engine in 1833?", "answer": [ "Computer" ] },
 { "text": "Movie maker George Lucas Filed a law suit against President Ronald Reagan to get him to stop referring to an outer space computer controlled defense system as what?", "answer": [ "Star Wars" ] },
 { "text": "What time doe the computer virus W32.MARIJUANA interrupt you to suggest taking a break?", "answer": [ "4:20 p.m." ] },
 { "text": "Hal, the computer in 2001: A Space Odyssey, got its name how?", "answer": [ "The letters before I B and M" ] },
 { "text": "Pixar created a 1995 blockbuster hit move using computer animation. What was the title of the movie?", "answer": [ "Toy Story" ] },
-{ "text": "Which computer company dropped the Play Station line and created an Aptiva brand computer for home users?", "answer": [ "IBM corporation" ] },
+{ "text": "Which computer company dropped the Play Station line and created an Aptiva brand computer for home users?", "answer": [ "IBM corporation", "ibm" ] },
 { "text": "Red Hat and Yellow Dog are computer outfits that distributed an alternative computer operating system. What was the name of the system?", "answer": [ "Linux" ] },
 { "text": "The Electronic Frontier Foundation named its $250,000 computer designed to crack the U.S. government's outdated DES cryptographic code what?", "answer": [ "Deep Crack" ] },
 { "text": "What common element is used in the manufacture of computer chips?", "answer": [ "Silicon" ] },
 { "text": "On the birthday of a famous painter, every March 6th, what computer virus strikes?", "answer": [ "Michelangelo" ] },
 { "text": "The Dancing Baby computer generated 3D image danced it's way onto what TV show in 1998?", "answer": [ "Ally McBeal" ] },
 { "text": "What U.S. Democratic senator had the first internet home page?", "answer": [ "Ted Kennedy" ] },
-{ "text": "Originally, ENIAC, the world's first 'modern' computer was constructed to do what?", "answer": [ "To compute ballistic trajectories for artillery shells" ] },
+{ "text": "Originally, ENIAC, the world's first 'modern' computer was constructed to do what?", "answer": [ "Compute ballistic trajectories for artillery shells" ] },
 { "text": "The Los Angeles Police Department developed a computer program to help solve homicides. What was it called?", "answer": [ "HITMAN" ] },
 { "text": "The first computer used for weather research was named what?", "answer": [ "MANIAC" ] },
-{ "text": "The displays commonly found in notebook and laptop computers are called what?", "answer": [ "Liquid Crystal Display" ] },
+{ "text": "The displays commonly found in notebook and laptop computers are called what?", "answer": [ "Liquid Crystal Display","LCD" ] },
 { "text": "After breaking into physicist Tsutomu Shimomura's computer on Christmas in 1994, what legendary hacker was taken down?", "answer": [ "Kevin Mitnick" ] },
 { "text": "What personal computer became a video production system with the addition of New Tek's Video Toaster?", "answer": [ "Amiga" ] },
 { "text": "Digital Equipment Corporation sued what computer chip manufacturer claiming it stole the technology to develop the Pentium Pro?", "answer": [ "Intel Corporation" ] },
 { "text": "What was the name of the computer language named after a French philosopher and mathematician?", "answer": [ "PASCAL" ] },
-{ "text": "What was the name of the computer company that was named after the founder's memories of a summer in an Orchard in Oregon?", "answer": [ "Apple " ] }
+{ "text": "What was the name of the computer company that was named after the founder's memories of a summer in an Orchard in Oregon?", "answer": [ "Apple" ] }
 ]}
