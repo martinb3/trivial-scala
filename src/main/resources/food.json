@@ -3,929 +3,238 @@
 "order": "rand",
 "subset": "25",
 "questions" : [
-
-   {
-"text": "What milk product did the U.S. Agriculture Department propose as a substitute for meat in school lunches, in 1996?",
-"answer": [ "Yogurt" ]
-},
-   {
-"text": "What breakfast cereal was Sonny the Cuckoo Bird 'cuckoo for'?",
-"answer": [ "Cocoa Puffs" ]
-},
-   {
-"text": "On what vegetable did an ancient Egyptian place his right hand when taking an oath?",
-"answer": [ "onion" ]
-},
-   {
-"text": "How many flowers are in the design stamped on each side of an Oreo cookie?",
-"answer": [ "Twelve", "12" ]
-},
-   {
-"text": "Black-eyed peas are not peas. What are they?",
-"answer": [ "Beans", "Bean" ]
-},
-   {
-"text": "Under what name did the Domino's Pizza chain get its start?",
-"answer": [ "DomNick's", "DomNick" ]
-},
-   {
-"text": "What was margarine called when it was first marketed in England?",
-"answer": [ "Butterine" ]
-},
-   {
-"text": "What are the two top selling spices in the world?",
-"answer": [ "Pepper and mustard", "Pepper & Mustard", "Mustard & Pepper", "Mustard and Pepper" ]
-},
-   {
-"text": "What was the name of Cheerios when it was first marketed 50 years ago?",
-"answer": [ "Cheerioats" ]
-},
-   {
-"text": "What flavor of ice cream did Baskin-Robbins introduce to commemorate America's landing on the moon on July 20, 1969?",
-"answer": [ "Lunar Cheesecake" ]
-},
-   {
-"text": "What is the most widely eaten fish in the world?",
-"answer": [ "Herring" ]
-},
-   {
-"text": "What is the name of the evergreen shrub from which we get capers?",
-"answer": [ "caper bush" ]
-},
-   {
-"text": "What animals milk is used to make authentic Italian mozzarella cheese?",
-"answer": [ "water buffalo's", "water buffalo" ]
-},
-   {
-"text": "What nation produces two thirds of the world's vanilla?",
-"answer": [ "Madagascar" ]
-},
-   {
-"text": "What was the drink we know as the Bloody Mary originally called?",
-"answer": [ "Red Snapper" ]
-},
-   {
-"text": "What was the first commercially manufactured breakfast cereal?",
-"answer": [ "Shredded Wheat" ]
-},
-   {
-"text": "When Birdseye introduced the first frozen food in 1930, what did the company call it?",
-"answer": [ "Frosted Food" ]
-},
-   {
-"text": "What American city produces most of the egg rolls sold in grocery stores in the United States?",
-"answer": [ "Houston, Texas", "Houston" ]
-},
-   {
-"text": "What was the first of H.J. Heinz' '57 varieties'?",
-"answer": [ "Horseradish" ]
-},
-   {
-"text": "What is the literal meaning of the Italian word linguine?",
-"answer": [ "Little tongues", "Little tongue" ]
-},
-   {
-"text": "Where did the pineapple plant originate?",
-"answer": [ "South America" ]
-},
-   {
-"text": "What recipe, first published 50 years ago, has been requested most frequently through the years by the readers of 'Better Homes and Garden'?",
-"answer": [ "Hamburger Pie" ]
-},
-   {
-"text": "What is the only essential vitamin not found in the white potato?",
-"answer": [ "Vitamin A", "A" ]
-},
-   {
-"text": "What food is the leading source of salmonella poisoning?",
-"answer": [ "Chicken" ]
-},
-   {
-"text": "What company first condensed soup in 1898?",
-"answer": [ "Campbell's" ]
-},
-   {
-"text": "What nutty legume accounts for one sixth of the world's vegetable oil production?",
-"answer": [ "peanut" ]
-},
-   {
-"text": "What country saw the cultivation of the first potato, in 200 A.D.?",
-"answer": [ "South America" ]
-},
-   {
-"text": "What type of lettuce was called Crisphead until the 1920s?",
-"answer": [ "Iceberg lettuce" ]
-},
-   {
-"text": "What tree gives us prunes?",
-"answer": [ "plum tree" ]
-},
-   {
-"text": "What type of chocolate was first developed for public consumption in Vevey, Switzerland in 1875?",
-"answer": [ "Milk Chocolate" ]
-},
-   {
-"text": "What added ingredient keeps confectioners' sugar from clumping?",
-"answer": [ "Corn starch" ]
-},
-   {
-"text": "What edible comes in crimmini, morel, oyster and wood ear varieties?",
-"answer": [ "Mushrooms" ]
-},
-   {
-"text": "What newly-imported substance caused the first major outbreak of tooth decay in Europe, in the1500's?",
-"answer": [ "Sugar" ]
-},
-   {
-"text": "What ingredient in fresh milk is eventually devoured by bacteria, causing the sour taste?",
-"answer": [ "Lactose" ]
-},
-   {
-"text": "What uncooked meat is a trichina worm most likely to make a home in?",
-"answer": [ "Pork" ]
-},
-   {
-"text": "What baking ingredient, sprayed at high pressure, did the U.S. Air Force replace its toxic paint stripper with?",
-"answer": [ "Baking soda" ]
-},
-   {
-"text": "What staple is laced with up to 16 additives including plaster of paris, to stay fresh?",
-"answer": [ "Bread" ]
-},
-   {
-"text": "What falling fruit supposedly inspired Isaac Newton to write the laws of gravity?",
-"answer": [ "Apple" ]
-},
-   {
-"text": "What method of preserving food did the Incas first use, on potatoes?",
-"answer": [ "Freeze-drying" ]
-},
-   {
-"text": "What drupaceous fruit were Hawaiian women once forbidden by law to eat?",
-"answer": [ "coconut" ]
-},
-   {
-"text": "What hit the market alongside spinach as the first frozen veggies?",
-"answer": [ "Peas" ]
-},
-   {
-"text": "How many sizes of chicken eggs does the USDA recognize, including peewee?",
-"answer": [ "Six", "6" ]
-},
-   {
-"text": "What are de-headed, de-veined an sorted by size in a laitram machine?",
-"answer": [ "Shrimp" ]
-},
-   {
-"text": "What's the only fish that produces real caviar, according to the FDA?",
-"answer": [ "Sturgeon" ]
-},
-   {
-"text": "What type of egg will yield 11 and one-half average-size omelettes?",
-"answer": [ "Ostrich" ]
-},
-   {
-"text": "What's the groundnut better known as?",
-"answer": [ "peanut" ]
-},
+   { "text": "What milk product did the U.S. Agriculture Department propose as a substitute for meat in school lunches, in 1996?","answer": [ "Yogurt" ] },
+   { "text": "What breakfast cereal was Sonny the Cuckoo Bird 'cuckoo for'?","answer": [ "Cocoa Puffs" ] },
+   { "text": "On what vegetable did an ancient Egyptian place his right hand when taking an oath?","answer": [ "onion" ] },
+   { "text": "How many flowers are in the design stamped on each side of an Oreo cookie?","answer": [ "Twelve", "12" ] },
+   { "text": "Black-eyed peas are not peas. What are they?","answer": [ "Beans", "Bean" ] },
+   { "text": "Under what name did the Domino's Pizza chain get its start?","answer": [ "DomNick's", "DomNick" ] },
+   { "text": "What was margarine called when it was first marketed in England?","answer": [ "Butterine" ] },
+   { "text": "What are the two top selling spices in the world?","answer": [ "Pepper and mustard", "Pepper & Mustard", "Mustard & Pepper", "Mustard and Pepper" ] },
+   { "text": "What was the name of Cheerios when it was first marketed 50 years ago?","answer": [ "Cheerioats" ] },
+   { "text": "What flavor of ice cream did Baskin-Robbins introduce to commemorate America's landing on the moon on July 20, 1969?","answer": [ "Lunar Cheesecake" ] },
+   { "text": "What is the most widely eaten fish in the world?","answer": [ "Herring" ] },
+   { "text": "What is the name of the evergreen shrub from which we get capers?","answer": [ "caper bush" ] },
+   { "text": "What animals milk is used to make authentic Italian mozzarella cheese?","answer": [ "water buffalo's", "water buffalo" ] },
+   { "text": "What nation produces two thirds of the world's vanilla?","answer": [ "Madagascar" ] },
+   { "text": "What was the drink we know as the Bloody Mary originally called?","answer": [ "Red Snapper" ] },
+   { "text": "What was the first commercially manufactured breakfast cereal?","answer": [ "Shredded Wheat" ] },
+   { "text": "When Birdseye introduced the first frozen food in 1930, what did the company call it?","answer": [ "Frosted Food" ] },
+   { "text": "What American city produces most of the egg rolls sold in grocery stores in the United States?","answer": [ "Houston, Texas", "Houston" ] },
+   { "text": "What was the first of H.J. Heinz' '57 varieties'?","answer": [ "Horseradish" ] },
+   { "text": "What is the literal meaning of the Italian word linguine?","answer": [ "Little tongues", "Little tongue" ] },
+   { "text": "Where did the pineapple plant originate?","answer": [ "South America" ] },
+   { "text": "What recipe, first published 50 years ago, has been requested most frequently through the years by the readers of 'Better Homes and Garden'?","answer": [ "Hamburger Pie" ] },
+   { "text": "What is the only essential vitamin not found in the white potato?","answer": [ "Vitamin A", "A" ] },
+   { "text": "What food is the leading source of salmonella poisoning?","answer": [ "Chicken" ] },
+   { "text": "What company first condensed soup in 1898?","answer": [ "Campbell's" ] },
+   { "text": "What nutty legume accounts for one sixth of the world's vegetable oil production?","answer": [ "peanut" ] },
+   { "text": "What country saw the cultivation of the first potato, in 200 A.D.?","answer": [ "South America" ] },
+   { "text": "What type of lettuce was called Crisphead until the 1920s?","answer": [ "Iceberg lettuce" ] },
+   { "text": "What tree gives us prunes?","answer": [ "plum tree" ] },
+   { "text": "What type of chocolate was first developed for public consumption in Vevey, Switzerland in 1875?","answer": [ "Milk Chocolate" ] },
+   { "text": "What added ingredient keeps confectioners' sugar from clumping?","answer": [ "Corn starch" ] },
+   { "text": "What edible comes in crimmini, morel, oyster and wood ear varieties?","answer": [ "Mushrooms" ] },
+   { "text": "What newly-imported substance caused the first major outbreak of tooth decay in Europe, in the1500's?","answer": [ "Sugar" ] },
+   { "text": "What ingredient in fresh milk is eventually devoured by bacteria, causing the sour taste?","answer": [ "Lactose" ] },
+   { "text": "What uncooked meat is a trichina worm most likely to make a home in?","answer": [ "Pork" ] },
+   { "text": "What baking ingredient, sprayed at high pressure, did the U.S. Air Force replace its toxic paint stripper with?","answer": [ "Baking soda" ] },
+   { "text": "What staple is laced with up to 16 additives including plaster of paris, to stay fresh?","answer": [ "Bread" ] },
+   { "text": "What falling fruit supposedly inspired Isaac Newton to write the laws of gravity?","answer": [ "Apple" ] },
+   { "text": "What method of preserving food did the Incas first use, on potatoes?","answer": [ "Freeze-drying" ] },
+   { "text": "What drupaceous fruit were Hawaiian women once forbidden by law to eat?","answer": [ "coconut" ] },
+   { "text": "What hit the market alongside spinach as the first frozen veggies?","answer": [ "Peas" ] },
+   { "text": "How many sizes of chicken eggs does the USDA recognize, including peewee?","answer": [ "Six", "6" ] },
+   { "text": "What are de-headed, de-veined an sorted by size in a laitram machine?","answer": [ "Shrimp" ] },
+   { "text": "What's the only fish that produces real caviar, according to the FDA?","answer": [ "Sturgeon" ] },
+   { "text": "What type of egg will yield 11 and one-half average-size omelettes?","answer": [ "Ostrich" ] },
+   { "text": "What's the groundnut better known as?","answer": [ "peanut" ] },
 {
   "text": "What crystalline salt is frequently used to enhance the flavor to TV dinners?",
-  "answer": ["Monosodium glutamate", "msg" ]
-},
-   {
-"text": "What sticky sweetener was traditionally used as an antiseptic ointment for cuts and burns?",
-"answer": [ "Honey" ]
-},
-   {
-"text": "What should your diet be high in to lessen the chance of colon cancer, according to a 1990 study?",
-"answer": [ "Fiber" ]
-},
-   {
-"text": "What nut do two-thirds of its U. S. producers sell through Blue Diamond?",
-"answer": [ "Almond" ]
-},
-   {
-"text": "What type of oven will not brown foods?",
-"answer": [ "Microwave oven" ]
-},
-   {
-"text": "What type of food did Linda McCartney launch?",
-"answer": [ "Vegetarian food", "Vegetarian" ]
-},
-   {
-"text": "What type of tree leaves are the only food that a koala bear will eat?",
-"answer": [ "Eucalyptus" ]
-},
-   {
-"text": "Which country in Europe consumes more spicy Mexican food than any other?",
-"answer": [ "Norway" ]
-},
-   {
-"text": "The FDA approved what fat substitute for use in snack foods even though there were reports of side affects like cramps and diarrhea?",
-"answer": [ "Olestra" ]
-},
-   {
-"text": "Federal labeling regulations require how much caffeine be removed from coffee for it to be called decaffeinated?",
-"answer": [ "Ninety seven percent", "97" ]
-},
-   {
-"text": "What famous Greek once advised: 'Let your food be your medicine, and your medicine be your food'?",
-"answer": [ "Hippocrates" ]
-},
-   {
-"text": "Chicken is the leading cause of what food born illness?",
-"answer": [ "Salmonella" ]
-},
-   {
-"text": "Who invented Margarine in 1868?",
-"answer": [ "Hyppolyte Merge-mouries", "Hyppolyte" ]
-},
-   {
-"text": "What group of people were the first to use freeze-drying on potatoes?",
-"answer": [ "Incas", "Inca" ]
-},
-   {
-"text": "What was the Teenage Mutant Ninja Turtles favorite food?",
-"answer": [ "Pizza" ]
-},
-   {
-"text": "What food was considered the food of the Gods, and was said to bring eternal life to anyone who ate it?",
-"answer": [ "Ambrosia" ]
-},
-   {
-"text": "What was the convenience food that Joel Cheek developed?",
-"answer": [ "Instant Coffee" ]
-},
-   {
-"text": "The song, Food, Glorious Food, was featured in which musical?",
-"answer": [ "Oliver" ]
-},
-   {
-"text": "Of the Worlds food crops, what percentage is pollinated by insects?",
-"answer": [ "80 percent", "80" ]
-},
-   {
-"text": "The Giant panda's favorite food is what?",
-"answer": [ "Bamboo shoots", "Bamboo" ]
-},
-   {
-"text": "Which entertainer on Conan O'Brien's show, choose NBC cafeteria chicken over his own brand in a blind taste test?",
-"answer": [ "Kenny Rogers" ]
-},
-   {
-"text": "What drink was sold as Diastoid when first introduced?",
-"answer": [ "Malted milk" ]
-},
-   {
-"text": "What type of micro organism makes up the base of marine and freshwater food chains?",
-"answer": [ "Plankton" ]
-},
-   {
-"text": "What type of creature builds a lodge in which to store food, rear its young, and pass the winter?",
-"answer": [ "Beaver" ]
-},
-   {
-"text": "What fruit or vegetable was dubbed the FlavrSavr and was the first genetically engineered food sold in the United States?",
-"answer": [ "tomato" ]
-},
-   {
-"text": "What fitness guru appeared as a dancing meatball in an Italian TV commercial as an art student?",
-"answer": [ "Richard Simmons" ]
-},
-   {
-"text": "What Olympic athlete could not run the 200-meter final in the 92 Olympics because of food poisoning?",
-"answer": [ "Michael Johnson" ]
-},
-   {
-"text": "What morning food has a name derived from the German word for stirrup?",
-"answer": [ "Bagel" ]
-},
-   {
-"text": "In 1904, what food product was renamed Post Toasties cereal because the clergy objected to the original name?",
-"answer": [ "Elijah's Manna" ]
-},
-   {
-"text": "In the United States, what are the five most frequently eaten fruits?",
-"answer": [ "banana*apple*watermelon*orange*cantaloupe" ]
-},
-   {
-"text": "Which country does Rioja Wine come from?",
-"answer": [ "Spain" ]
-},
-   {
-"text": "The juice of which fruit will you find in a bloody mary?",
-"answer": [ "Tomato" ]
-},
-   {
-"text": "Homer Simpson drinks Which brand of beer regularly?",
-"answer": [ "Duff" ]
-},
-   {
-"text": "What is the main ingredient of paella?",
-"answer": [ "Rice" ]
-},
-   {
-"text": "What would you call a segment of garlic?",
-"answer": [ "Clove" ]
-},
-   {
-"text": "A canteloupe is what kind of fruit?",
-"answer": [ "Melon" ]
-},
-   {
-"text": "Sticky and sweet this food is produced in a hive?",
-"answer": [ "Honey" ]
-},
-   {
-"text": "This dairy product tastes good on crackers and sandwiches or on its own?",
-"answer": [ "Cheese" ]
-},
-   {
-"text": "In the dish of Beef Wellington, in what is the beef wrapped?",
-"answer": [ "Pastry" ]
-},
-   {
-"text": "What is The Teenage Mutant Ninja Turtles favourite food?",
-"answer": [ "Pizza" ]
-},
-   {
-"text": "What is the main vegetable ingredient in the dish Borsht?",
-"answer": [ "Beetroot" ]
-},
-   {
-"text": "Sauerkraut is pickled what?",
-"answer": [ "Cabbage" ]
-},
-   {
-"text": "What vegetable is also known as zucchini in the USA?",
-"answer": [ "Courgette" ]
-},
-   {
-"text": "This fruit goes into the liqueur Kirsch?",
-"answer": [ "Cherry" ]
-},
-   {
-"text": "A bloomer is what type of food?",
-"answer": [ "Bread" ]
-},
-   {
-"text": "Which is the fruit that contains the most calories?",
-"answer": [ "Avocado pear" ]
-},
-   {
-"text": "What is lava bread?",
-"answer": [ "Seaweed" ]
-},
-   {
-"text": "What fruit grows on the blackthorn tree?",
-"answer": [ "Sloe" ]
-},
-   {
-"text": "Which food has a name which means on a skewer?",
-"answer": [ "Kebab" ]
-},
-   {
-"text": "In a Mcdonald's Big Mac how many pieces of bun are there?",
-"answer": [ "Three", "3" ]
-},
-   {
-"text": "Oyster, Chestnut, or Shitaki are types of which vegetable?",
-"answer": [ "Mushrooms" ]
-},
-   {
-"text": "A Calzone Is A Folded Stuffed What?",
-"answer": [ "Pizza" ]
-},
-   {
-"text": "Which country invented the Marmite alternative - Veggie mite?",
-"answer": [ "Australia" ]
-},
-   {
-"text": "Which country does the dish Mousakka come from?",
-"answer": [ "Greece" ]
-},
-   {
-"text": "Which fruit served with cream is eaten during the summer tennis tournament Wimbledon?",
-"answer": [ "Strawberries" ]
-},
-   {
-"text": "Apart from potato What is the other main ingredient of Bubble and Squeak?",
-"answer": [ "Cabbage" ]
-},
-   {
-"text": "Which food was popular with Popeye the Sailor?",
-"answer": [ "Spinach" ]
-},
-   {
-"text": "What is Scooby Doo`s favourite food?",
-"answer": [ "Scooby Snacks" ]
-},
-   {
-"text": "What is the only fruit that grows its seeds on the outside?",
-"answer": [ "Strawberry" ]
-},
-   {
-"text": "What other names are sardines known by?",
-"answer": [ "Pilchards" ]
-},
-   {
-"text": "Which city gave its name to a three-coloured Neapolitan ice-cream?",
-"answer": [ "Naples" ]
-},
-   {
-"text": "What would you be drinking if you were drinking Earl Grey?",
-"answer": [ "Tea" ]
-},
-   {
-"text": "What are Pontefract cakes made from?",
-"answer": [ "Liquorice" ]
-},
-   {
-"text": "What is another name for almond paste?",
-"answer": [ "Marzipan" ]
-},
-   {
-"text": "What name can be a lettuce or a mass of floating frozen water?",
-"answer": [ "Iceberg" ]
-},
-   {
-"text": "What's Sauerkraut's main ingredient?",
-"answer": [ "Cabbage" ]
-},
-   {
-"text": "What's the only rock edible to man?",
-"answer": [ "Salt" ]
-},
-   {
-"text": "What type of salad do you need apple, celery, walnuts, raisins and mayonnaise mixed together?",
-"answer": [ "Waldorf Salad" ]
-},
-   {
-"text": "Which fruit also shares its name with Gwyneth Paltrow's daughter?",
-"answer": [ "Apple" ]
-},
-   {
-"text": "From which animal does haggis come?",
-"answer": [ "Sheep" ]
-},
-   {
-"text": "In cockney rhyming slang what is 'Ruby Murray'?",
-"answer": [ "Curry" ]
-},
-   {
-"text": "What cake do you keep a layer of to eat at the christening of your first child?",
-"answer": [ "Wedding Cake" ]
-},
-   {
-"text": "Which brand of frozen ice cream cone was advertised to the tune of Italian song 'O Sole Mio'?",
-"answer": [ "Cornetto" ]
-},
-   {
-"text": "If I take two apples out of a basket containing six apples how many apples do I have ?",
-"answer": [ "Two", "2"]
-},
-   {
-"text": "Which fruit does one of Bob Geldofs' daughter share a name with?",
-"answer": [ "Peaches" ]
-},
-   {
-"text": "In Eggs Florentine which vegetable is a main ingredient?",
-"answer": [ "Spinach" ]
-},
-   {
-"text": "In a French restaurant what would you be eating if you chose escargots?",
-"answer": [ "Snails" ]
-},
-   {
-"text": "Which meat is usally in a Shish Kebab?",
-"answer": [ "Lamb" ]
-},
-   {
-"text": "What flavour is Ouzo?",
-"answer": [ "Aniseed" ]
-},
-   {
-"text": "A crapulous person is full of what?",
-"answer": [ "Alcohol" ]
-},
-   {
-"text": "What Italian Cheese usually tops a pizza?",
-"answer": [ "Mozzarella" ]
-},
-   {
-"text": "Port Salut is what?",
-"answer": [ "Cheese" ]
-},
-   {
-"text": "Who talked of eating human liver washed down with Chianti?",
-"answer": [ "Hannibal Lecter" ]
-},
-   {
-"text": "Who, according to the TV commercial, ‘makes exceedingly good cakes’?",
-"answer": [ "Mr Kipling" ]
-},
-   {
-"text": "What vegetable is sold mainly before 30th October?",
-"answer": [ "Pumpkin" ]
-},
-   {
-"text": "Whats the english translation for the french word crepe?",
-"answer": [ "Pancake" ]
-},
-   {
-"text": "What is a macadamia?",
-"answer": [ "Nut" ]
-},
-   {
-"text": "In ancient Egypt what was liquorice used for?",
-"answer": [ "Medicine" ]
-},
-   {
-"text": "What type of thin pancake is eaten in Mexico?",
-"answer": [ "Tortilla" ]
-},
-   {
-"text": "If steak was blue how would it be cooked?",
-"answer": [ "Very Rare" ]
-},
-   {
-"text": "Baked beans are made from which beans?",
-"answer": [ "Haricot" ]
-},
-   {
-"text": "What are small cubes of toasted or fried bread?",
-"answer": [ "Croutons" ]
-},
-   {
-"text": "What would you call a cluster of bananas?",
-"answer": [ "hand" ]
-},
-   {
-"text": "What nuts are used to flavour amaretto?",
-"answer": [ "Almonds" ]
-},
-   {
-"text": "If you had frijoles refritos in a Mexican restaurant it would be refried what?",
-"answer": [ "beans" ]
-},
-   {
-"text": "This city is famous for its oranges?",
-"answer": [ "Seville" ]
-},
-   {
-"text": "Which celebrity chef was nicknamed 'The Naked Chef'?",
-"answer": [ "Jamie Oliver" ]
-},
-   {
-"text": "What daily vegetable do typical boxer's ears look like?",
-"answer": [ "Cauliflower" ]
-},
-   {
-"text": "What's a small pickled cucumber?",
-"answer": [ "Gherkin" ]
-},
-   {
-"text": "What's cockney rhyming slang for eyes?",
-"answer": [ "Mince Pies" ]
-},
-   {
-"text": "What name's given to a small, deep fried chinese dumpling with a savoury filing?",
-"answer": [ "Won ton" ]
-},
-   {
-"text": "Which brand of beer features a kangaroo on the packaging?",
-"answer": [ "Fosters" ]
-},
-   {
-"text": "A mint with a hole?",
-"answer": [ "Polo" ]
-},
-   {
-"text": "What is advertised on TV with the slogan 'You either Love it or Hate it'?",
-"answer": [ "Marmite" ]
-},
-   {
-"text": "In Ancient China what variety of meat was reserved exclusively for the emperor?",
-"answer": [ "Pork" ]
-},
-   {
-"text": "Which song mentions saveloy, mustard, jelly, custard and sausages in the lyrics?",
-"answer": [ "Food Glorious Food" ]
-},
-   {
-"text": "Jasmine and long grain are both types of what?",
-"answer": [ "Rice" ]
-},
-   {
-"text": "What might you be eating at Wimbledon if you had a Cambridge Rival in your mouth?",
-"answer": [ "Strawberry" ]
-},
-   {
-"text": "What fruit was originally called a Chinese gooseberry",
-"answer": [ "Kiwi Fruit" ]
-},
-   {
-"text": "What sort of pastry is used to make profiteroles?",
-"answer": [ "Choux" ]
-},
-   {
-"text": "What is the national dish of Hungary?",
-"answer": [ "Goulash" ]
-},
-   {
-"text": "Which nut is used to flavour traditional Bakewell Tart?",
-"answer": [ "Almond" ]
-},
-   {
-"text": "In the dish of Beef Wellington, in what is the beef wrapped?",
-"answer": [ "Pastry" ]
-},
-   {
-"text": "What is the main vegetable used to make Borsch?",
-"answer": [ "Beetroot" ]
-},
-   {
-"text": "What is Bombay Duck?",
-"answer": [ "Fish" ]
-},
-   {
-"text": "Which fruit is used in the making of a Black Forest Gateau?",
-"answer": [ "Black Cherries" ]
-},
-   {
-"text": "What is included in a BLT sandwich?",
-"answer": [ "Bacon, lettuce and tomato" ]
-},
-   {
-"text": "The name of what food, when translated, means twice-cooked?",
-"answer": [ "Biscuit" ]
-},
-   {
-"text": "How many calories are there in a stick of celery?",
-"answer": [ "None", "0", "zero" ]
-},
-   {
-"text": "Which country consumes the most pasta per person per year?",
-"answer": [ "Italy" ]
-},
-   {
-"text": "What was the favourite food of Paddington Bear?",
-"answer": [ "Marmalade" ]
-},
-   {
-"text": "Which family of vegatables are Chives from?",
-"answer": [ "Onions" ]
-},
-   {
-"text": "In the Hansel and Gretel tale what was the wicked witch's house made of?",
-"answer": [ "Gingerbread" ]
-},
-   {
-"text": "What take-away is traditional in England at the seaside?",
-"answer": [ "Fish and chips" ]
-},
-   {
-"text": "What meat is Coq au vin made with ?",
-"answer": [ "Chicken" ]
-},
-   {
-"text": "Which cheese is made in reverse?",
-"answer": [ "Edam" ]
-},
-   {
-"text": "What variety of banana shares its name with the title of a Bond movie?",
-"answer": [ "Goldfinger" ]
-},
-   {
-"text": "Conference, Bartlett and Kaiser are all varieties of which fruit?",
-"answer": [ "Pear" ]
-},
-   {
-"text": "Which product is advertised on TV with the slogan, “Once you pop you can’t stop”?",
-"answer": [ "Pringles" ]
-},
-   {
-"text": "What is the official national cheese of Greece?",
-"answer": [ "Feta" ]
-},
-   {
-"text": "Which variety of orange was named after a Japanese province?",
-"answer": [ "Satsuma" ]
-},
-   {
-"text": "Marzipan is made from which nuts?",
-"answer": [ "Almonds" ]
-},
-   {
-"text": "During brewing what is converted into alcohol?",
-"answer": [ "Sugar" ]
-},
-   {
-"text": "This chick pea pureé is flavoured with tahini and served as a dip?",
-"answer": [ "Hummus" ]
-},
-   {
-"text": "Grolsch lager is from which country?",
-"answer": [ "Holland" ]
-},
-   {
-"text": "This carbohydrate fruit is high in potassium?",
-"answer": [ "Banana" ]
-},
-   {
-"text": "What overtook coca-cola as the most well known brand name (in the world) in 1996?",
-"answer": [ "McDonalds" ]
-},
-   {
-"text": "The 'M' in the McDonalds logo is what colour?",
-"answer": [ "Yellow" ]
-},
-   {
-"text": "Bacardi Rum's logo features which creature?",
-"answer": [ "Bat" ]
-},
-   {
-"text": "An egg plant is also known as which vegetable?",
-"answer": [ "Aubergine" ]
-},
-   {
-"text": "What is a light round bun usually served hot?",
-"answer": [ "Muffin" ]
-},
-   {
-"text": "What is the plant that wards off vampires?",
-"answer": [ "Garlic" ]
-},
-   {
-"text": "The Teenage Mutant Ninja Turtles favourite food is?",
-"answer": [ "Pizza" ]
-},
-   {
-"text": "The main vegetable ingredient in the dish Borsht is what?",
-"answer": [ "Beetroot" ]
-},
-   {
-"text": "Sauerkraut is pickled what?",
-"answer": [ "Cabbage" ]
-},
-   {
-"text": "Chicory was a war time substitute for what drink?",
-"answer": [ "Coffee" ]
-},
-   {
-"text": "What vegetable is also known as zucchini in the USA?",
-"answer": [ "Courgette" ]
-},
-   {
-"text": "This fruit goes into the liqueur Kirsch?",
-"answer": [ "Cherry" ]
-},
-   {
-"text": "A bloomer is What type of food?",
-"answer": [ "Bread" ]
-},
-   {
-"text": "This type of milk is a basic ingredient in Thai cookery?",
-"answer": [ "Coconut milk" ]
-},
-   {
-"text": "What soft drink uses this slogan, 'What's the worst that could happen'",
-"answer": [ "Dr Pepper", "Dr. Pepper" ]
-},
-   {
-"text": "Which is the fruit that contains the most calories?",
-"answer": [ "Avocado pear" ]
-},
-   {
-"text": "What are dried prunes?",
-"answer": [ "Plums" ]
-},
-   {
-"text": "The main cereal ingredient of flapkacks (Hudson Bars in USA)?",
-"answer": [ "Oats" ]
-},
-   {
-"text": "What is the correct spelling of a Cadbury Creame/Creem/Creme/Cream Egg?",
-"answer": [ "Creme" ]
-},
-   {
-"text": "What is Uganda's staple crop, which each adult consumes over 3 times bodyweight annually?",
-"answer": [ "Bananas" ]
-},
-   {
-"text": "What's lava bread?",
-"answer": [ "Seaweed" ]
-},
-   {
-"text": "What fruit grows on the blackthorn tree?",
-"answer": [ "Sloe" ]
-},
-   {
-"text": "Which two fruits are anagrams of each other?",
-"answer": [ "Lemon & Melon" ]
-},
-   {
-"text": "Homer Simpson drinks what brand of beer?",
-"answer": [ "Duff" ]
-},
-   {
-"text": "A crapulous person is full of what?",
-"answer": [ "Acohol" ]
-},
-   {
-"text": "What spanish drink consists of sweet red wine, lemonade or soda water and decorated with fruit?",
-"answer": [ "Sangria" ]
-},
-   {
-"text": "This spirit is the base for a Black Russian cocktail?",
-"answer": [ "Vodka" ]
-},
-   {
-"text": "What country is home to Grolsch lager?",
-"answer": [ "Holland" ]
-},
-   {
-"text": "A crapulous person is full of what?",
-"answer": [ "Alcohol" ]
-},
-   {
-"text": "What is the name of this hot red chilli pepper it is often dried and ground?",
-"answer": [ "Cayenne" ]
-},
-   {
-"text": "What's colour of the inside of a pistachio nut?",
-"answer": [ "Green" ]
-},
-   {
-"text": "This is converted into alcohol during brewing?",
-"answer": [ "Sugar" ]
-},
-   {
-"text": "This herb is used to make a Pesto sauce?",
-"answer": [ "Basil" ]
-},
-   {
-"text": "When a wine is described as 'brut' what does it mean about the taste?",
-"answer": [ "Very Dry" ]
-},
-   {
-"text": "The usual main meat ingredient of a Shish Kebab is?",
-"answer": [ "Lamb" ]
-},
-   {
-"text": "What do the brits call a Weenie?",
-"answer": [ "hot dog" ]
-},
-   {
-"text": "The 'D' where milk is processed?",
-"answer": [ "Dairy" ]
-},
-   {
-"text": "What spice gives piccalilli and curries its yellow colour?",
-"answer": [ "Turmeric" ]
-},
-   {
-"text": "Hash Browns are normally made from which vegetables?",
-"answer": [ "Potatoes" ]
-},
-   {
-"text": "Prunes stuffed with almonds are wrapped in what to make Devils on horseback?",
-"answer": [ "Bacon" ]
-},
-   {
-"text": "The main ingredient of a Paella is what?",
-"answer": [ "Rice" ]
-},
-   {
-"text": "The main ingredient of Sauerkraut is what?",
-"answer": [ "Cabbage" ]
-},
-   {
-"text": "This food has a name which means on a skewer?",
-"answer": [ "Kebab" ]
-},
-   {
-"text": "In a Mcdonald's Big Mac how many pieces of bun are there?",
-"answer": [ "Three", "3" ]
-},
-   {
-"text": "Oyster, Chestnut, or Shitaki are types of which vegetable?",
-"answer": [ "Mushrooms" ]
-},
-   {
-"text": "What is the only fruit named for its colour?",
-"answer": [ "Orange" ]
-},
-   {
-"text": "Traditionally at a fair ground what fruit would be covered with toffee?",
-"answer": [ "Apple" ]
-},
-   {
-"text": "This herb is used to flavour Pernod?",
-"answer": [ "Aniseed" ]
-},
-   {
-"text": "This milk is a basic ingredient in Thai cookery?",
-"answer": [ "Coconut milk" ]
+  "answer": ["Monosodium glutamate", "msg" ] },
+   { "text": "What sticky sweetener was traditionally used as an antiseptic ointment for cuts and burns?","answer": [ "Honey" ] },
+   { "text": "What should your diet be high in to lessen the chance of colon cancer, according to a 1990 study?","answer": [ "Fiber" ] },
+   { "text": "What nut do two-thirds of its U. S. producers sell through Blue Diamond?","answer": [ "Almond" ] },
+   { "text": "What type of oven will not brown foods?","answer": [ "Microwave oven" ] },
+   { "text": "What type of food did Linda McCartney launch?","answer": [ "Vegetarian food", "Vegetarian" ] },
+   { "text": "What type of tree leaves are the only food that a koala bear will eat?","answer": [ "Eucalyptus" ] },
+   { "text": "Which country in Europe consumes more spicy Mexican food than any other?","answer": [ "Norway" ] },
+   { "text": "The FDA approved what fat substitute for use in snack foods even though there were reports of side affects like cramps and diarrhea?","answer": [ "Olestra" ] },
+   { "text": "Federal labeling regulations require how much caffeine be removed from coffee for it to be called decaffeinated?","answer": [ "Ninety seven percent", "97" ] },
+   { "text": "What famous Greek once advised: 'Let your food be your medicine, and your medicine be your food'?","answer": [ "Hippocrates" ] },
+   { "text": "Chicken is the leading cause of what food born illness?","answer": [ "Salmonella" ] },
+   { "text": "Who invented Margarine in 1868?","answer": [ "Hyppolyte Merge-mouries", "Hyppolyte" ] },
+   { "text": "What group of people were the first to use freeze-drying on potatoes?","answer": [ "Incas", "Inca" ] },
+   { "text": "What was the Teenage Mutant Ninja Turtles favorite food?","answer": [ "Pizza" ] },
+   { "text": "What food was considered the food of the Gods, and was said to bring eternal life to anyone who ate it?","answer": [ "Ambrosia" ] },
+   { "text": "What was the convenience food that Joel Cheek developed?","answer": [ "Instant Coffee" ] },
+   { "text": "The song, Food, Glorious Food, was featured in which musical?","answer": [ "Oliver" ] },
+   { "text": "Of the Worlds food crops, what percentage is pollinated by insects?","answer": [ "80 percent", "80" ] },
+   { "text": "The Giant panda's favorite food is what?","answer": [ "Bamboo shoots", "Bamboo" ] },
+   { "text": "Which entertainer on Conan O'Brien's show, choose NBC cafeteria chicken over his own brand in a blind taste test?","answer": [ "Kenny Rogers" ] },
+   { "text": "What drink was sold as Diastoid when first introduced?","answer": [ "Malted milk" ] },
+   { "text": "What type of micro organism makes up the base of marine and freshwater food chains?","answer": [ "Plankton" ] },
+   { "text": "What type of creature builds a lodge in which to store food, rear its young, and pass the winter?","answer": [ "Beaver" ] },
+   { "text": "What fruit or vegetable was dubbed the FlavrSavr and was the first genetically engineered food sold in the United States?","answer": [ "tomato" ] },
+   { "text": "What fitness guru appeared as a dancing meatball in an Italian TV commercial as an art student?","answer": [ "Richard Simmons" ] },
+   { "text": "What Olympic athlete could not run the 200-meter final in the 92 Olympics because of food poisoning?","answer": [ "Michael Johnson" ] },
+   { "text": "What morning food has a name derived from the German word for stirrup?","answer": [ "Bagel" ] },
+   { "text": "In 1904, what food product was renamed Post Toasties cereal because the clergy objected to the original name?","answer": [ "Elijah's Manna" ] },
+   { "text": "In the United States, name one of the five most frequently eaten fruits?","answer": [ "banana", "apple", "watermelon", "orange", "cantaloupe" ] },
+   { "text": "Which country does Rioja Wine come from?","answer": [ "Spain" ] },
+   { "text": "The juice of which fruit will you find in a bloody mary?","answer": [ "Tomato" ] },
+   { "text": "Homer Simpson drinks Which brand of beer regularly?","answer": [ "Duff" ] },
+   { "text": "What is the main ingredient of paella?","answer": [ "Rice" ] },
+   { "text": "What would you call a segment of garlic?","answer": [ "Clove" ] },
+   { "text": "A canteloupe is what kind of fruit?","answer": [ "Melon" ] },
+   { "text": "Sticky and sweet this food is produced in a hive?","answer": [ "Honey" ] },
+   { "text": "This dairy product tastes good on crackers and sandwiches or on its own?","answer": [ "Cheese" ] },
+   { "text": "In the dish of Beef Wellington, in what is the beef wrapped?","answer": [ "Pastry" ] },
+   { "text": "What is The Teenage Mutant Ninja Turtles favourite food?","answer": [ "Pizza" ] },
+   { "text": "What is the main vegetable ingredient in the dish Borsht?","answer": [ "Beetroot" ] },
+   { "text": "Sauerkraut is pickled what?","answer": [ "Cabbage" ] },
+   { "text": "What vegetable is also known as zucchini in the USA?","answer": [ "Courgette" ] },
+   { "text": "This fruit goes into the liqueur Kirsch?","answer": [ "Cherry" ] },
+   { "text": "A bloomer is what type of food?","answer": [ "Bread" ] },
+   { "text": "Which is the fruit that contains the most calories?","answer": [ "Avocado pear" ] },
+   { "text": "What is lava bread?","answer": [ "Seaweed" ] },
+   { "text": "What fruit grows on the blackthorn tree?","answer": [ "Sloe" ] },
+   { "text": "Which food has a name which means on a skewer?","answer": [ "Kebab" ] },
+   { "text": "In a Mcdonald's Big Mac how many pieces of bun are there?","answer": [ "Three", "3" ] },
+   { "text": "Oyster, Chestnut, or Shitaki are types of which vegetable?","answer": [ "Mushrooms" ] },
+   { "text": "A Calzone Is A Folded Stuffed What?","answer": [ "Pizza" ] },
+   { "text": "Which country invented the Marmite alternative - Veggie mite?","answer": [ "Australia" ] },
+   { "text": "Which country does the dish Mousakka come from?","answer": [ "Greece" ] },
+   { "text": "Which fruit served with cream is eaten during the summer tennis tournament Wimbledon?","answer": [ "Strawberries" ] },
+   { "text": "Apart from potato What is the other main ingredient of Bubble and Squeak?","answer": [ "Cabbage" ] },
+   { "text": "Which food was popular with Popeye the Sailor?","answer": [ "Spinach" ] },
+   { "text": "What is Scooby Doo`s favourite food?","answer": [ "Scooby Snacks" ] },
+   { "text": "What is the only fruit that grows its seeds on the outside?","answer": [ "Strawberry" ] },
+   { "text": "What other names are sardines known by?","answer": [ "Pilchards" ] },
+   { "text": "Which city gave its name to a three-coloured Neapolitan ice-cream?","answer": [ "Naples" ] },
+   { "text": "What would you be drinking if you were drinking Earl Grey?","answer": [ "Tea" ] },
+   { "text": "What are Pontefract cakes made from?","answer": [ "Liquorice" ] },
+   { "text": "What is another name for almond paste?","answer": [ "Marzipan" ] },
+   { "text": "What name can be a lettuce or a mass of floating frozen water?","answer": [ "Iceberg" ] },
+   { "text": "What's Sauerkraut's main ingredient?","answer": [ "Cabbage" ] },
+   { "text": "What's the only rock edible to man?","answer": [ "Salt" ] },
+   { "text": "What type of salad do you need apple, celery, walnuts, raisins and mayonnaise mixed together?","answer": [ "Waldorf Salad" ] },
+   { "text": "Which fruit also shares its name with Gwyneth Paltrow's daughter?","answer": [ "Apple" ] },
+   { "text": "From which animal does haggis come?","answer": [ "Sheep" ] },
+   { "text": "In cockney rhyming slang what is 'Ruby Murray'?","answer": [ "Curry" ] },
+   { "text": "What cake do you keep a layer of to eat at the christening of your first child?","answer": [ "Wedding Cake" ] },
+   { "text": "Which brand of frozen ice cream cone was advertised to the tune of Italian song 'O Sole Mio'?","answer": [ "Cornetto" ] },
+   { "text": "If I take two apples out of a basket containing six apples how many apples do I have ?","answer": [ "Two", "2"] },
+   { "text": "Which fruit does one of Bob Geldofs' daughter share a name with?","answer": [ "Peaches" ] },
+   { "text": "In Eggs Florentine which vegetable is a main ingredient?","answer": [ "Spinach" ] },
+   { "text": "In a French restaurant what would you be eating if you chose escargots?","answer": [ "Snails" ] },
+   { "text": "Which meat is usally in a Shish Kebab?","answer": [ "Lamb" ] },
+   { "text": "What flavour is Ouzo?","answer": [ "Aniseed" ] },
+   { "text": "A crapulous person is full of what?","answer": [ "Alcohol" ] },
+   { "text": "What Italian Cheese usually tops a pizza?","answer": [ "Mozzarella" ] },
+   { "text": "Port Salut is what?","answer": [ "Cheese" ] },
+   { "text": "Who talked of eating human liver washed down with Chianti?","answer": [ "Hannibal Lecter" ] },
+   { "text": "Who, according to the TV commercial, ‘makes exceedingly good cakes’?","answer": [ "Mr Kipling" ] },
+   { "text": "What vegetable is sold mainly before 30th October?","answer": [ "Pumpkin" ] },
+   { "text": "Whats the english translation for the french word crepe?","answer": [ "Pancake" ] },
+   { "text": "What is a macadamia?","answer": [ "Nut" ] },
+   { "text": "In ancient Egypt what was liquorice used for?","answer": [ "Medicine" ] },
+   { "text": "What type of thin pancake is eaten in Mexico?","answer": [ "Tortilla" ] },
+   { "text": "If steak was blue how would it be cooked?","answer": [ "Very Rare" ] },
+   { "text": "Baked beans are made from which beans?","answer": [ "Haricot" ] },
+   { "text": "What are small cubes of toasted or fried bread?","answer": [ "Croutons" ] },
+   { "text": "What would you call a cluster of bananas?","answer": [ "hand" ] },
+   { "text": "What nuts are used to flavour amaretto?","answer": [ "Almonds" ] },
+   { "text": "If you had frijoles refritos in a Mexican restaurant it would be refried what?","answer": [ "beans" ] },
+   { "text": "This city is famous for its oranges?","answer": [ "Seville" ] },
+   { "text": "Which celebrity chef was nicknamed 'The Naked Chef'?","answer": [ "Jamie Oliver" ] },
+   { "text": "What daily vegetable do typical boxer's ears look like?","answer": [ "Cauliflower" ] },
+   { "text": "What's a small pickled cucumber?","answer": [ "Gherkin" ] },
+   { "text": "What's cockney rhyming slang for eyes?","answer": [ "Mince Pies" ] },
+   { "text": "What name's given to a small, deep fried chinese dumpling with a savoury filing?","answer": [ "Won ton" ] },
+   { "text": "Which brand of beer features a kangaroo on the packaging?","answer": [ "Fosters" ] },
+   { "text": "A mint with a hole?","answer": [ "Polo" ] },
+   { "text": "What is advertised on TV with the slogan 'You either Love it or Hate it'?","answer": [ "Marmite" ] },
+   { "text": "In Ancient China what variety of meat was reserved exclusively for the emperor?","answer": [ "Pork" ] },
+   { "text": "Which song mentions saveloy, mustard, jelly, custard and sausages in the lyrics?","answer": [ "Food Glorious Food" ] },
+   { "text": "Jasmine and long grain are both types of what?","answer": [ "Rice" ] },
+   { "text": "What might you be eating at Wimbledon if you had a Cambridge Rival in your mouth?","answer": [ "Strawberry" ] },
+   { "text": "What fruit was originally called a Chinese gooseberry","answer": [ "Kiwi Fruit" ] },
+   { "text": "What sort of pastry is used to make profiteroles?","answer": [ "Choux" ] },
+   { "text": "What is the national dish of Hungary?","answer": [ "Goulash" ] },
+   { "text": "Which nut is used to flavour traditional Bakewell Tart?","answer": [ "Almond" ] },
+   { "text": "In the dish of Beef Wellington, in what is the beef wrapped?","answer": [ "Pastry" ] },
+   { "text": "What is the main vegetable used to make Borsch?","answer": [ "Beetroot" ] },
+   { "text": "What is Bombay Duck?","answer": [ "Fish" ] },
+   { "text": "Which fruit is used in the making of a Black Forest Gateau?","answer": [ "Black Cherries" ] },
+   { "text": "What is included in a BLT sandwich?","answer": [ "Bacon, lettuce and tomato" ] },
+   { "text": "The name of what food, when translated, means twice-cooked?","answer": [ "Biscuit" ] },
+   { "text": "How many calories are there in a stick of celery?","answer": [ "None", "0", "zero" ] },
+   { "text": "Which country consumes the most pasta per person per year?","answer": [ "Italy" ] },
+   { "text": "What was the favourite food of Paddington Bear?","answer": [ "Marmalade" ] },
+   { "text": "Which family of vegatables are Chives from?","answer": [ "Onions" ] },
+   { "text": "In the Hansel and Gretel tale what was the wicked witch's house made of?","answer": [ "Gingerbread" ] },
+   { "text": "What take-away is traditional in England at the seaside?","answer": [ "Fish and chips" ] },
+   { "text": "What meat is Coq au vin made with ?","answer": [ "Chicken" ] },
+   { "text": "Which cheese is made in reverse?","answer": [ "Edam" ] },
+   { "text": "What variety of banana shares its name with the title of a Bond movie?","answer": [ "Goldfinger" ] },
+   { "text": "Conference, Bartlett and Kaiser are all varieties of which fruit?","answer": [ "Pear" ] },
+   { "text": "Which product is advertised on TV with the slogan, “Once you pop you can’t stop”?","answer": [ "Pringles" ] },
+   { "text": "What is the official national cheese of Greece?","answer": [ "Feta" ] },
+   { "text": "Which variety of orange was named after a Japanese province?","answer": [ "Satsuma" ] },
+   { "text": "Marzipan is made from which nuts?","answer": [ "Almonds" ] },
+   { "text": "During brewing what is converted into alcohol?","answer": [ "Sugar" ] },
+   { "text": "This chick pea pureé is flavoured with tahini and served as a dip?","answer": [ "Hummus" ] },
+   { "text": "Grolsch lager is from which country?","answer": [ "Holland" ] },
+   { "text": "This carbohydrate fruit is high in potassium?","answer": [ "Banana" ] },
+   { "text": "What overtook coca-cola as the most well known brand name (in the world) in 1996?","answer": [ "McDonalds" ] },
+   { "text": "The 'M' in the McDonalds logo is what colour?","answer": [ "Yellow" ] },
+   { "text": "Bacardi Rum's logo features which creature?","answer": [ "Bat" ] },
+   { "text": "An egg plant is also known as which vegetable?","answer": [ "Aubergine" ] },
+   { "text": "What is a light round bun usually served hot?","answer": [ "Muffin" ] },
+   { "text": "What is the plant that wards off vampires?","answer": [ "Garlic" ] },
+   { "text": "The Teenage Mutant Ninja Turtles favourite food is?","answer": [ "Pizza" ] },
+   { "text": "The main vegetable ingredient in the dish Borsht is what?","answer": [ "Beetroot" ] },
+   { "text": "Sauerkraut is pickled what?","answer": [ "Cabbage" ] },
+   { "text": "Chicory was a war time substitute for what drink?","answer": [ "Coffee" ] },
+   { "text": "What vegetable is also known as zucchini in the USA?","answer": [ "Courgette" ] },
+   { "text": "This fruit goes into the liqueur Kirsch?","answer": [ "Cherry" ] },
+   { "text": "A bloomer is What type of food?","answer": [ "Bread" ] },
+   { "text": "This type of milk is a basic ingredient in Thai cookery?","answer": [ "Coconut milk" ] },
+   { "text": "What soft drink uses this slogan, 'What's the worst that could happen'","answer": [ "Dr Pepper", "Dr. Pepper" ] },
+   { "text": "Which is the fruit that contains the most calories?","answer": [ "Avocado pear" ] },
+   { "text": "What are dried prunes?","answer": [ "Plums" ] },
+   { "text": "The main cereal ingredient of flapkacks (Hudson Bars in USA)?","answer": [ "Oats" ] },
+   { "text": "What is the correct spelling of a Cadbury Creame/Creem/Creme/Cream Egg?","answer": [ "Creme" ] },
+   { "text": "What is Uganda's staple crop, which each adult consumes over 3 times bodyweight annually?","answer": [ "Bananas" ] },
+   { "text": "What's lava bread?","answer": [ "Seaweed" ] },
+   { "text": "What fruit grows on the blackthorn tree?","answer": [ "Sloe" ] },
+   { "text": "Which two fruits are anagrams of each other?","answer": [ "Lemon & Melon" ] },
+   { "text": "Homer Simpson drinks what brand of beer?","answer": [ "Duff" ] },
+   { "text": "A crapulous person is full of what?","answer": [ "Acohol" ] },
+   { "text": "What spanish drink consists of sweet red wine, lemonade or soda water and decorated with fruit?","answer": [ "Sangria" ] },
+   { "text": "This spirit is the base for a Black Russian cocktail?","answer": [ "Vodka" ] },
+   { "text": "What country is home to Grolsch lager?","answer": [ "Holland" ] },
+   { "text": "A crapulous person is full of what?","answer": [ "Alcohol" ] },
+   { "text": "What is the name of this hot red chilli pepper it is often dried and ground?","answer": [ "Cayenne" ] },
+   { "text": "What's colour of the inside of a pistachio nut?","answer": [ "Green" ] },
+   { "text": "This is converted into alcohol during brewing?","answer": [ "Sugar" ] },
+   { "text": "This herb is used to make a Pesto sauce?","answer": [ "Basil" ] },
+   { "text": "When a wine is described as 'brut' what does it mean about the taste?","answer": [ "Very Dry" ] },
+   { "text": "The usual main meat ingredient of a Shish Kebab is?","answer": [ "Lamb" ] },
+   { "text": "What do the brits call a Weenie?","answer": [ "hot dog" ] },
+   { "text": "The 'D' where milk is processed?","answer": [ "Dairy" ] },
+   { "text": "What spice gives piccalilli and curries its yellow colour?","answer": [ "Turmeric" ] },
+   { "text": "Hash Browns are normally made from which vegetables?","answer": [ "Potatoes" ] },
+   { "text": "Prunes stuffed with almonds are wrapped in what to make Devils on horseback?","answer": [ "Bacon" ] },
+   { "text": "The main ingredient of a Paella is what?","answer": [ "Rice" ] },
+   { "text": "The main ingredient of Sauerkraut is what?","answer": [ "Cabbage" ] },
+   { "text": "This food has a name which means on a skewer?","answer": [ "Kebab" ] },
+   { "text": "In a Mcdonald's Big Mac how many pieces of bun are there?","answer": [ "Three", "3" ] },
+   { "text": "Oyster, Chestnut, or Shitaki are types of which vegetable?","answer": [ "Mushrooms" ] },
+   { "text": "What is the only fruit named for its colour?","answer": [ "Orange" ] },
+   { "text": "Traditionally at a fair ground what fruit would be covered with toffee?","answer": [ "Apple" ] },
+   { "text": "This herb is used to flavour Pernod?","answer": [ "Aniseed" ] },
+   { "text": "This milk is a basic ingredient in Thai cookery?","answer": [ "Coconut milk" ]
 }]
 }
