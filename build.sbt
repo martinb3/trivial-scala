@@ -14,7 +14,9 @@ libraryDependencies += "org.json4s" %% "json4s-native" % "3.3.0"
 
 libraryDependencies += "org.slf4j" % "slf4j-simple" % "1.6.4"
 
-libraryDependencies += "com.github.gilbertw1" %% "slack-scala-client" % "0.1.3"
+libraryDependencies += "com.github.gilbertw1" %% "slack-scala-client" % "0.1.4"
+
+libraryDependencies += "com.enragedginger" %% "akka-quartz-scheduler" % "1.5.0-akka-2.4.x"
 
 enablePlugins(DockerPlugin)
 

@@ -8,7 +8,7 @@ object PingCommand extends Command {
     message.text.toLowerCase().trim().equals("!ping")
   }
   def handle(message: Message, context: ChannelContext) { 
-    context.globalContext.client.sendMessage(context.channelId, "PONG")
+    context.globalContext.client.sendMessage(context.channelId, "PONG!")
   }
   
 }
