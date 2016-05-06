@@ -17,7 +17,7 @@ object PointsCommand extends Command {
         messageText = message.text.substring(1)
       }
       
-      val pattern = "([\\-0-9.]+) points? to ([0-9A-Za-z ]+)".r
+      val pattern = "([\\-0-9.]+) points? to ([0-9A-Za-z _.]+)".r
       messageText match {
         case pattern(points_to_give, user_name) => {
           val scores = context.game.scores
