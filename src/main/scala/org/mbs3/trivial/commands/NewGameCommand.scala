@@ -28,6 +28,7 @@ object NewGameCommand extends Command {
       catch {
         case e: Exception => {
           client.sendMessage(context.channelId, msg("GAME_NOT_FOUND", user.name))
+          e.printStackTrace()
           return
         }
       }
