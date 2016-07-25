@@ -22,8 +22,10 @@ object NewGameCommand extends Command {
     if(message.text.toLowerCase().trim().startsWith("!game")) {
       try {
         val str_match = message.text.split("\\W")(2)
-        println("Looking for " + str_match + " as a new game")
-        context.game = Game.find(str_match)
+        if(context.globalContext.debug) {
+          println("Looking for " + str_match + " as a new game")
+        }
+        context.game = Game.find(str_match, message.text, context)
       }
       catch {
         case e: Exception => {

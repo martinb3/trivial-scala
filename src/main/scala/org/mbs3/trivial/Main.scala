@@ -19,8 +19,6 @@ object Main {
     val token = conf.getString("trivial.slack_token")
     val debug = false // conf.getBoolean("trivial.debug")
     
-    // Game.find("food")
-    
     implicit val system = ActorSystem("org_mbs3_trivial")
     val client = SlackRtmClient(token, 30 seconds)
     val selfId = client.state.self.id
@@ -29,6 +27,9 @@ object Main {
     val channelRouter = system.actorOf(Props(classOf[ChannelRouter], globalContext), "ChannelRouter")
     system.actorOf(Props(classOf[Terminator], channelRouter, client), "terminator")
     client.addEventListener(channelRouter)
+    
+
+    // GameStorage.fromRandom(new ChannelContext(globalContext, "foo"))
   }
 
   class Terminator(ref: ActorRef, client: SlackRtmClient) extends Actor with ActorLogging {

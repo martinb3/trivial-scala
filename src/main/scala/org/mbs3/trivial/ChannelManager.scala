@@ -70,7 +70,7 @@ class ChannelManager(val channelContext: ChannelContext) {
       return
 
     val q = game.currentQuestion.get
-    if(!q.isAnsweredBy(message.text))
+    if(!q.isAnsweredBy(message.text, channelContext))
       return
 
     val user = client.state.getUserById(message.user).get
@@ -111,10 +111,6 @@ class ChannelManager(val channelContext: ChannelContext) {
       val q = game.advance
       val qText = q.text; val qPoints = q.points
 
-      if(debug) {
-        println(q.text + "/" + q.points)
-      }
-
       if(q.qtype == "simple" || q.qtype == "image") {
         client.sendMessage(channelId, msg("QUESTION_POSE", q.points).trim())
       }
@@ -130,7 +126,7 @@ class ChannelManager(val channelContext: ChannelContext) {
   }
 
   def handlePoseWait() : ChannelState = {
-      if(secondsSinceLastStateChange > 10) {
+      if(debug || secondsSinceLastStateChange > 10) {
         return PoseQuestion2
       }
       else {
@@ -143,7 +139,7 @@ class ChannelManager(val channelContext: ChannelContext) {
       val qText = q.text;
 
       if(debug) {
-        println(q.text + "/" + q.points)
+        println(q.text + "/" + q.answers + "/" + q.points)
       }
 
       if(q.qtype == "simple" || q.qtype == "image") {
@@ -169,7 +165,7 @@ class ChannelManager(val channelContext: ChannelContext) {
   }
 
   def handleQuestionWait() : ChannelState = {
-    if(secondsSinceLastStateChange < timing("questionwait")) {
+    if(!debug && secondsSinceLastStateChange < timing("questionwait")) {
       return currentState
     }
 
