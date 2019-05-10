@@ -3,7 +3,5 @@ target
 .cache*
 .classpath
 .project
-application.conf
-**/application.conf
 .settings
 envfile

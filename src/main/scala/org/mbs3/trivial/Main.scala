@@ -14,20 +14,20 @@ import scala.concurrent.duration._
 
 object Main {
 
-  def main(args: Array[String]): Unit = {    
+  def main(args: Array[String]): Unit = {
     val conf = ConfigFactory.load()
     val token = conf.getString("trivial.slack_token")
     val debug = false // conf.getBoolean("trivial.debug")
-    
+
     implicit val system = ActorSystem("org_mbs3_trivial")
-    val client = SlackRtmClient(token, 30 seconds)
+    val client = SlackRtmClient(token, duration = 15.seconds)
     val selfId = client.state.self.id
-    
+
     val globalContext = new GlobalContext(client, debug)
     val channelRouter = system.actorOf(Props(classOf[ChannelRouter], globalContext), "ChannelRouter")
     system.actorOf(Props(classOf[Terminator], channelRouter, client), "terminator")
     client.addEventListener(channelRouter)
-    
+
 
     // GameStorage.fromRandom(new ChannelContext(globalContext, "foo"))
   }

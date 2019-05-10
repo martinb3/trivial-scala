@@ -10,7 +10,7 @@ import org.mbs3.trivial.game.Game
  * machine, with some helper methods to understand timing and move between states.
  */
 class ChannelContext(val globalContext: GlobalContext, val channelId: String, var gameMaster: String = null) {
-  
+
   import ChannelState._
   var game : Game = null
 
@@ -38,9 +38,9 @@ class ChannelContext(val globalContext: GlobalContext, val channelId: String, va
       return Duration.between(_lastStateChange, Instant.now()).getSeconds
     })
   }
-  
-  
-  
+
+
+
   def timing : Map[String, Integer] = {
     if(globalContext.debug) {
       Map(
@@ -51,8 +51,8 @@ class ChannelContext(val globalContext: GlobalContext, val channelId: String, va
       )
     } else {
         Map(
-        "cutoff" -> 120,
-        "modamount" -> 60,
+        "cutoff" -> 60,
+        "modamount" -> 30,
         "answerwait" -> 20,
         "questionwait" -> 10
        )
