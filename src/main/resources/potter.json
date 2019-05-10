@@ -1,0 +1,16 @@
+{
+"title": "Harry Potter",
+"order": "rand",
+"questions" : [
+{ "text": "What is Hermione's patronus?", "answer": [ "otter" ]},
+{ "text": "When is the first time the prophecy is mentioned in the series?", "answer": [ "book 3", "Prisoner of Azkaban" ], "explanation": "Prisoner of Azkaban when Harry mentions Professor Trelawney's prophecy and Dumbledore responds saying that brings her total of true prophecies up to 2" },
+{ "text": "What is Dumbledore's full name?", "answer": [ "Albus Percival Wulfric Brian Dumbledore" ] },
+{ "text": "What year does Harry first go to Hogwarts?", "answer": [ "1991" ] },
+{ "text": "When is THE locket first mentioned in the series?", "answer": [ "book 5", "Order of the Phoenix" ], "explanation": "When they're cleaning out Number 12 Grimmauld Place and find a locket no one can open" },
+{ "text": "Name any of the three Black sisters.", "answer": [ "Bellatrix", "Narcissa", "Andromeda" ] },
+{ "text": "What does Harry say in Parseltongue to open the Chamber of Secrets?", "answer": [ "open" ] },
+{ "text": "What charm does Cedric Diggory use in the second task of the Triwizard Tournament?", "answer": [ "bubble head" ] },
+{ "text": "What is one of the three potions on Professor Slughorn's desk on the first day of potions in Half-Blood Prince?", "answer": [ "felix felicis", "veritaserum", "amortentia" ]},
+{ "text": "Who is dueling Voldemort before Harry reveals himself and takes over?", "answer": [ "Shacklebolt", "McGonagall", "Slughorn" ] }
+]
+}
