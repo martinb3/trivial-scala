@@ -51,10 +51,10 @@ class ChannelContext(val globalContext: GlobalContext, val channelId: String, va
       )
     } else {
         Map(
-        "cutoff" -> 60,
-        "modamount" -> 30,
-        "answerwait" -> 20,
-        "questionwait" -> 10
+        "cutoff" -> 120,
+        "modamount" -> 60,
+        "answerwait" -> 15,
+        "questionwait" -> 5
        )
     }
   }

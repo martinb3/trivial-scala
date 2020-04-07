@@ -5,20 +5,20 @@ import org.apache.commons.lang3.StringUtils
 
 class Question(val qtype: String, val points: Float, val text: String, val answers: List[String], val explanation: String) {
   def isAnsweredBy(guess: String, context: ChannelContext) = {
-    answers.map { a => 
+    answers.map { a =>
        if(true || context.globalContext.debug) {
          println("Check [" + cleanString(guess) + "] contains [" + cleanString(a) + "]")
        }
-       cleanString(guess).contains(cleanString(a)) 
+       cleanString(guess).contains(cleanString(a))
     }.contains(true)
   }
-  
+
   def possibleAnswers() : String = {
     answers.distinct.mkString("\n")
   }
-  
+
   override def toString() = text + " (" + points + ")"
-  
+
   def cleanString(s: String) = {
     var result = ""
     if(s.endsWith("s")) {
@@ -27,9 +27,9 @@ class Question(val qtype: String, val points: Float, val text: String, val answe
     else {
       result = s
     }
-    
+
     result = StringUtils.stripAccents(result)
-    
+
     result // fix accents
       .toLowerCase()
       .replaceAll("\\(.*\\)", "")
@@ -39,6 +39,7 @@ class Question(val qtype: String, val points: Float, val text: String, val answe
       .replaceAll("^the ", "")
       .replaceAll("^his ", "")
       .replaceAll("^her ", "")
+      .replaceAll("^its ", "")
       .replaceAll(" and ", "")
       .replaceAll("zero", "0")
       .replaceAll("one", "1")
@@ -57,7 +58,7 @@ class Question(val qtype: String, val points: Float, val text: String, val answe
   }
 }
 
-object Question { 
+object Question {
   def empty() = {
     new Question("simple", 1.0f, "Is this a question?", "Yes"::Nil, null)
   }
